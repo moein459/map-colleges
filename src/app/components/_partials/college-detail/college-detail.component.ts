@@ -17,7 +17,6 @@ export class CollegeDetailComponent implements OnInit {
 
 	ngOnInit() {
 		this.collegeId = +this.route.snapshot.paramMap.get('id');
-		console.log(this.collegeId);
 		this.getCollegeInfo();
 	}
 

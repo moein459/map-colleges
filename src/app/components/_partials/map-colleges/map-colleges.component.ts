@@ -1,5 +1,5 @@
 import {Component, NgZone, OnInit} from '@angular/core';
-import {latLng, marker, tileLayer} from 'leaflet';
+import {icon, latLng, marker, tileLayer} from 'leaflet';
 import {CollegeService} from '../../../services/college/college.service';
 import {College} from '../../../models/college.model';
 import {Router} from '@angular/router';
@@ -49,7 +49,15 @@ export class MapCollegesComponent implements OnInit {
 	getColleges() {
 		this.collegeService.list().subscribe(value => {
 			this.colleges = value;
-			this.colleges.forEach(x => this.layers.push(marker([x.latLng.latitude, x.latLng.longitude]).on('click', () => {
+			this.colleges.forEach(x => this.layers.push(marker([x.latLng.latitude, x.latLng.longitude],
+				{
+					icon: icon({
+						iconSize: [25, 41],
+						iconAnchor: [13, 41],
+						iconUrl: 'assets/marker-icon.png',
+						shadowUrl: 'assets/marker-shadow.png'
+					})
+				}).on('click', () => {
 				this.ngZone.run(() => {
 					this.router.navigate(['/home/college', x.id]);
 				});
