@@ -1,0 +1,25 @@
+.map-leaflet {
+	height: 600px;
+
+	@include media-breakpoint-down(sm) {
+		height: 400px;
+	}
+}
+
+.college-detail-container {
+	padding: 25px;
+	min-height: 600px;
+
+	a {
+		color: black;
+		text-decoration: none;
+	}
+
+	ul {
+		padding-right: 25px;
+
+		li {
+			margin-top: 5px;
+		}
+	}
+}

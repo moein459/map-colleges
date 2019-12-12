@@ -1,0 +1,48 @@
+[
+	{
+		"id": 1,
+		"latLng": {
+			"latitude": 33.9850,
+			"longitude": 51.4100
+		},
+		"title": "هنرستان شهید بهشتی",
+		"collegeType": 1,
+		"telephone": [
+			"031-55459876"
+		],
+		"address": "کاشان میدان مدخل شهر",
+		"description": "هنرستان منتخب سال 97 استان اصفهان.",
+		"images": [
+			"assets/img/college.jpg",
+			"assets/img/college.jpg"
+		],
+		"features": [
+			"کیفیت تدریس",
+			"بهترین اساتید شهرستان",
+			"بهترین خروجی کنکور در بین دبیرستان های منطقه"
+		]
+	},
+	{
+		"id": 2,
+		"latLng": {
+			"latitude": 33.9750,
+			"longitude": 51.4500
+		},
+		"title": "دبیرستان شهید محتشمی",
+		"collegeType": 0,
+		"telephone": [
+			"031-55456545"
+		],
+		"address": "کاشان میدان محشتم",
+		"description": "دبیرستان منتخب سال 97 استان اصفهان.",
+		"images": [
+			"assets/img/college.jpg",
+			"assets/img/college.jpg"
+		],
+		"features": [
+			"کیفیت تدریس",
+			"بهترین اساتید شهرستان",
+			"بهترین خروجی کنکور در بین دبیرستان های منطقه"
+		]
+	}
+]

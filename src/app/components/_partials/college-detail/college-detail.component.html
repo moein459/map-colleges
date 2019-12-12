@@ -1,0 +1,47 @@
+<div class="college-detail-container">
+
+	<div class="d-flex justify-content-between flex-wrap">
+		<h2 class="h5 text-right">{{college?.title}}</h2>
+		<a [routerLink]="['/']">
+			بازگشت
+		</a>
+	</div>
+
+	<div class="row mt-3">
+		<div class="col-lg-5 col-md-12 mb-4">
+
+			<div class="mb-4">
+				<small>نوع مرکز</small>
+				<!-- TODO Create Pipe for it -->
+				<h6 class="mt-1">{{college?.collegeType == 0 ? 'نظری' : 'فنی حرفه ای'}}</h6>
+			</div>
+
+			<div>
+				<small>اطلاعات تماس</small>
+				<h6 class="mt-1">{{college?.telephone.join(' - ')}}</h6>
+				<h6 class="mt-1">{{college?.address}}</h6>
+			</div>
+
+			<div class="mt-4">
+				<small>ویژگی ها</small>
+				<ul>
+					<li *ngFor="let feature of college?.features">{{feature}}</li>
+				</ul>
+			</div>
+
+		</div>
+		<div class="col-lg-7 col-md-12">
+
+			<carousel>
+				<slide *ngFor="let image of college?.images">
+					<img src="{{image}}" alt="{{college?.title}}" style="display: block; width: 100%;">
+				</slide>
+			</carousel>
+
+		</div>
+	</div>
+
+
+	<p class="text-right text-justify mt-4">{{college?.description}}</p>
+
+</div>
