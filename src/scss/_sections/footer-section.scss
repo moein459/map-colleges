@@ -7,10 +7,10 @@
 	background: url('./assets/svg/footer-bg.svg');
 	background-repeat: no-repeat;
 	background-position: center bottom;
-	background-size: 100% 75%;
+	background-size: 100% 98%;
 
 	@include media-breakpoint-up(xl) {
-		padding-top: 180px;
+		padding-top: 110px;
 	}
 
 	@include media-breakpoint-down(lg) {

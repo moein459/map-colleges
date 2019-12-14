@@ -3,6 +3,7 @@ import {icon, latLng, marker, tileLayer} from 'leaflet';
 import {CollegeService} from '../../../services/college/college.service';
 import {College} from '../../../models/college.model';
 import {Router} from '@angular/router';
+import {DegreeService} from '../../../services/degree/degree.service';
 
 @Component({
 	selector: 'app-map-colleges',
@@ -39,29 +40,45 @@ export class MapCollegesComponent implements OnInit {
 		// }).bindPopup('<p>' + 'دبیرستان شهید محتشمی' + '</p>'),
 	];
 
-	constructor(private collegeService: CollegeService, private router: Router, private ngZone: NgZone) {
+	constructor(private collegeService: CollegeService, private router: Router, private ngZone: NgZone, private degreeService: DegreeService) {
 	}
 
 	ngOnInit() {
 		this.getColleges();
+
+		this.degreeService.currentDegree.subscribe(value => {
+			if (this.colleges) {
+				this.colleges = this.collegeService.getColleges(value);
+				this.setMarkers();
+			}
+		});
 	}
 
 	getColleges() {
-		this.collegeService.list().subscribe(value => {
-			this.colleges = value;
-			this.colleges.forEach(x => this.layers.push(marker([x.latLng.latitude, x.latLng.longitude],
+		this.collegeService.dataGet$.subscribe(value => {
+			this.colleges = value.colleges;
+			this.setMarkers();
+		});
+	}
+
+	setMarkers() {
+		this.layers.length = 0;
+		this.colleges.forEach(college => {
+			const degree = this.collegeService.getDegrees().find(x => x.id === college.degree);
+			this.layers.push(marker([college.latLng.latitude, college.latLng.longitude],
 				{
 					icon: icon({
 						iconSize: [25, 41],
 						iconAnchor: [13, 41],
-						iconUrl: 'assets/marker-icon.png',
-						shadowUrl: 'assets/marker-shadow.png'
+						iconUrl: degree.iconUrl ? degree.iconUrl : 'assets/marker-icon.png',
+						shadowUrl: degree.shadowUrl ? degree.shadowUrl : 'assets/marker-shadow.png',
+						className: 'marker-red'
 					})
 				}).on('click', () => {
 				this.ngZone.run(() => {
-					this.router.navigate(['/home/college', x.id]);
+					this.router.navigate(['/home/college', college.id]);
 				});
-			})));
+			}));
 		});
 	}
 }

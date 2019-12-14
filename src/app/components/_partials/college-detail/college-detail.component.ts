@@ -21,8 +21,8 @@ export class CollegeDetailComponent implements OnInit {
 	}
 
 	getCollegeInfo() {
-		this.collegeService.list().subscribe(value => {
-			this.college = value.find(x => x.id === this.collegeId);
+		this.collegeService.dataGet$.subscribe(value => {
+			this.college = this.collegeService.getCollege(this.collegeId);
 		});
 	}
 }

@@ -11,6 +11,9 @@ import { MapCollegesComponent } from './components/_partials/map-colleges/map-co
 import {HttpClientModule} from '@angular/common/http';
 import { CollegeDetailComponent } from './components/_partials/college-detail/college-detail.component';
 import {CarouselModule} from 'ngx-bootstrap';
+import { DegreeListComponent } from './components/_partials/degree-list/degree-list.component';
+import {FormsModule, ReactiveFormsModule} from '@angular/forms';
+import {NgSelectModule} from '@ng-select/ng-select';
 
 @NgModule({
 	declarations: [
@@ -19,13 +22,17 @@ import {CarouselModule} from 'ngx-bootstrap';
 		HeaderComponent,
 		FooterComponent,
 		MapCollegesComponent,
-		CollegeDetailComponent
+		CollegeDetailComponent,
+		DegreeListComponent
 	],
 	imports: [
 		BrowserModule,
 		AppRoutingModule,
 		HttpClientModule,
 		CarouselModule,
+		FormsModule,
+		ReactiveFormsModule,
+		NgSelectModule,
 		LeafletModule.forRoot()
 	],
 	providers: [],
