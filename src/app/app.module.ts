@@ -14,6 +14,7 @@ import {CarouselModule} from 'ngx-bootstrap';
 import { DegreeListComponent } from './components/_partials/degree-list/degree-list.component';
 import {FormsModule, ReactiveFormsModule} from '@angular/forms';
 import {NgSelectModule} from '@ng-select/ng-select';
+import { CollegeTypePipe } from './pipes/college-type/college-type.pipe';
 
 @NgModule({
 	declarations: [
@@ -23,7 +24,8 @@ import {NgSelectModule} from '@ng-select/ng-select';
 		FooterComponent,
 		MapCollegesComponent,
 		CollegeDetailComponent,
-		DegreeListComponent
+		DegreeListComponent,
+		CollegeTypePipe,
 	],
 	imports: [
 		BrowserModule,
