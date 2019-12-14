@@ -16,7 +16,7 @@ export class CollegeTypePipe implements PipeTransform {
 		this.collegeService.dataGet$.subscribe(value1 => {
 			this.collegeTypes = value1.collegeTypes;
 		});
-		return this.collegeTypes.find(x => x.id === value).title;
+		return value ? this.collegeTypes.find(x => x.id === value).title : '';
 	}
 
 }
