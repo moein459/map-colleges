@@ -127,8 +127,8 @@
 		{
 			"id": 1,
 			"latLng": {
-				"latitude": 51.15044,
-				"longitude": 33.97027
+				"latitude": 33.97027,
+				"longitude": 51.15044
 			},
 			"collegeType": 202,
 			"title": "12فروردین 95103300",
@@ -151,8 +151,8 @@
 		{
 			"id": 2,
 			"latLng": {
-				"latitude": 51.27989,
-				"longitude": 34.2491
+				"latitude": 34.2491,
+				"longitude": 51.27989
 			},
 			"collegeType": 202,
 			"title": "17 شهریور 95103363",
@@ -175,8 +175,8 @@
 		{
 			"id": 3,
 			"latLng": {
-				"latitude": 51.40722,
-				"longitude": 33.97917
+				"latitude": 33.97917,
+				"longitude": 51.40722
 			},
 			"collegeType": 401,
 			"title": "آسودگی 96064612",
@@ -199,32 +199,8 @@
 		{
 			"id": 4,
 			"latLng": {
-				"latitude": 51.4614944,
-				"longitude": 33.98777
-			},
-			"collegeType": 101,
-			"title": "آسیه دو 38587205",
-			"telephone": [
-				"4441617"
-			],
-			"address": "کاشان خ امام خمینی جنب گلابچی",
-			"description": "ابتدایی عمومی",
-			"images": [
-				"assets/img/college.jpg",
-				"assets/img/college.jpg"
-			],
-			"features": [
-				"کد فضا : 20347966 کد پستی : 871665778",
-				"شهری دولتی شیفت اول",
-				"مستقل عادی شهری عادی"
-			],
-			"degree": 101
-		},
-		{
-			"id": 5,
-			"latLng": {
-				"latitude": 51.45055,
-				"longitude": 33.97167
+				"latitude": 33.97167,
+				"longitude": 51.45055
 			},
 			"collegeType": 102,
 			"title": "آقا بزرگ یک 96040153",
@@ -245,10 +221,10 @@
 			"degree": 102
 		},
 		{
-			"id": 6,
+			"id": 5,
 			"latLng": {
-				"latitude": 51.44111,
-				"longitude": 33.99166
+				"latitude": 33.99166,
+				"longitude": 51.44111
 			},
 			"collegeType": 302,
 			"title": "آقاشیخ علی آقانجفی (ره ) 38541304",
@@ -269,10 +245,10 @@
 			"degree": 302
 		},
 		{
-			"id": 7,
+			"id": 6,
 			"latLng": {
-				"latitude": 51.42595,
-				"longitude": 33.98159
+				"latitude": 33.98159,
+				"longitude": 51.42595
 			},
 			"collegeType": 102,
 			"title": "آیت اله رضوی یک 96040094",
@@ -293,10 +269,10 @@
 			"degree": 102
 		},
 		{
-			"id": 8,
+			"id": 7,
 			"latLng": {
-				"latitude": 51.44055,
-				"longitude": 33.99194
+				"latitude": 33.99194,
+				"longitude": 51.44055
 			},
 			"collegeType": 202,
 			"title": "ابن سینا 95103273",
@@ -317,10 +293,10 @@
 			"degree": 202
 		},
 		{
-			"id": 9,
+			"id": 8,
 			"latLng": {
-				"latitude": 51.35194,
-				"longitude": 34.02417
+				"latitude": 34.02417,
+				"longitude": 51.35194
 			},
 			"collegeType": 102,
 			"title": "ابوذر راوند 96070839",
@@ -341,10 +317,10 @@
 			"degree": 102
 		},
 		{
-			"id": 10,
+			"id": 9,
 			"latLng": {
-				"latitude": 51.40722,
-				"longitude": 33.97917
+				"latitude": 33.97917,
+				"longitude": 51.40722
 			},
 			"collegeType": 103,
 			"title": "ابومسلم خراسانی 38518900",
@@ -365,10 +341,34 @@
 			"degree": 103
 		},
 		{
+			"id": 10,
+			"latLng": {
+				"latitude": 33.98778,
+				"longitude": 51.41306
+			},
+			"collegeType": 401,
+			"title": "استاد تمنایی 95065566",
+			"telephone": [
+				"5422011"
+			],
+			"address": "میدان امام رضا (ع) کوچه شبنم 19",
+			"description": "هنرستان کاردانش",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11218602 کد پستی : 871977417",
+				"شهری دولتی شیفت اول",
+				"ضمیمه دارد عادی شهری عادی"
+			],
+			"degree": 401
+		},
+		{
 			"id": 11,
 			"latLng": {
-				"latitude": 51.41306,
-				"longitude": 33.98778
+				"latitude": 33.98778,
+				"longitude": 51.41306
 			},
 			"collegeType": 401,
 			"title": "استاد تمنایی 95065566",
@@ -391,32 +391,8 @@
 		{
 			"id": 12,
 			"latLng": {
-				"latitude": 51.41306,
-				"longitude": 33.98778
-			},
-			"collegeType": 401,
-			"title": "استاد تمنایی 95065566",
-			"telephone": [
-				"5422011"
-			],
-			"address": "میدان امام رضا (ع) کوچه شبنم 19",
-			"description": "هنرستان کاردانش",
-			"images": [
-				"assets/img/college.jpg",
-				"assets/img/college.jpg"
-			],
-			"features": [
-				"کد فضا : 11218602 کد پستی : 871977417",
-				"شهری دولتی شیفت اول",
-				"ضمیمه دارد عادی شهری عادی"
-			],
-			"degree": 401
-		},
-		{
-			"id": 13,
-			"latLng": {
-				"latitude": 51.40496,
-				"longitude": 33.99024
+				"latitude": 33.99024,
+				"longitude": 51.40496
 			},
 			"collegeType": 500,
 			"title": "استثنایی معارفی 38595601",
@@ -437,10 +413,10 @@
 			"degree": 500
 		},
 		{
-			"id": 14,
+			"id": 13,
 			"latLng": {
-				"latitude": 51.40722,
-				"longitude": 33.97917
+				"latitude": 33.97917,
+				"longitude": 51.40722
 			},
 			"collegeType": 202,
 			"title": "اعتماد الحسینی 95103275",
@@ -461,10 +437,10 @@
 			"degree": 202
 		},
 		{
-			"id": 15,
+			"id": 14,
 			"latLng": {
-				"latitude": 51.4184,
-				"longitude": 33.98555
+				"latitude": 33.98555,
+				"longitude": 51.4184
 			},
 			"collegeType": 102,
 			"title": "امام جواد (ع ) 1 38505708",
@@ -485,10 +461,10 @@
 			"degree": 102
 		},
 		{
-			"id": 16,
+			"id": 15,
 			"latLng": {
-				"latitude": 51.43086,
-				"longitude": 34.00609
+				"latitude": 34.00609,
+				"longitude": 51.43086
 			},
 			"collegeType": 401,
 			"title": "امام حسین (ع ) 38579509",
@@ -509,10 +485,10 @@
 			"degree": 401
 		},
 		{
-			"id": 17,
+			"id": 16,
 			"latLng": {
-				"latitude": 51.45781,
-				"longitude": 33.97916
+				"latitude": 33.97916,
+				"longitude": 51.45781
 			},
 			"collegeType": 301,
 			"title": "امام حسین (ع ) 38576801",
@@ -533,10 +509,10 @@
 			"degree": 301
 		},
 		{
-			"id": 18,
+			"id": 17,
 			"latLng": {
-				"latitude": 51.46909,
-				"longitude": 33.98151
+				"latitude": 33.98151,
+				"longitude": 51.46909
 			},
 			"collegeType": 301,
 			"title": "امام خامنه ای 95089918",
@@ -557,10 +533,10 @@
 			"degree": 301
 		},
 		{
-			"id": 19,
+			"id": 18,
 			"latLng": {
-				"latitude": 51.2135,
-				"longitude": 33.58518
+				"latitude": 33.58518,
+				"longitude": 51.2135
 			},
 			"collegeType": 301,
 			"title": "امام خمینی (جوشقان ) 38536402",
@@ -581,10 +557,10 @@
 			"degree": 301
 		},
 		{
-			"id": 20,
+			"id": 19,
 			"latLng": {
-				"latitude": 51.41143,
-				"longitude": 33.97145
+				"latitude": 33.97145,
+				"longitude": 51.41143
 			},
 			"collegeType": 202,
 			"title": "امام رضا (ع) 95103278",
@@ -605,10 +581,10 @@
 			"degree": 202
 		},
 		{
-			"id": 21,
+			"id": 20,
 			"latLng": {
-				"latitude": 51.44196,
-				"longitude": 33.99026
+				"latitude": 33.99026,
+				"longitude": 51.44196
 			},
 			"collegeType": 402,
 			"title": "امام زمان (ع) 96071076",
@@ -629,10 +605,10 @@
 			"degree": 402
 		},
 		{
-			"id": 22,
+			"id": 21,
 			"latLng": {
-				"latitude": 51.44196,
-				"longitude": 33.99026
+				"latitude": 33.99026,
+				"longitude": 51.44196
 			},
 			"collegeType": 302,
 			"title": "امام زمان (عج ) 38576905",
@@ -653,10 +629,10 @@
 			"degree": 302
 		},
 		{
-			"id": 23,
+			"id": 22,
 			"latLng": {
-				"latitude": 51.40557,
-				"longitude": 33.99041
+				"latitude": 33.99041,
+				"longitude": 51.40557
 			},
 			"collegeType": 201,
 			"title": "امام صادق (ع) 95103036",
@@ -677,58 +653,10 @@
 			"degree": 201
 		},
 		{
-			"id": 24,
+			"id": 23,
 			"latLng": {
-				"latitude": 51.4062462,
-				"longitude": 33.9900551
-			},
-			"collegeType": 101,
-			"title": "امام موسی کاظم (ع) 96070672",
-			"telephone": [
-				"55449988"
-			],
-			"address": "کاشان ناجی آباد فاز دوم چهارراه ورزشگاه مدرسه عباس زاده",
-			"description": "ابتدایی دوره دوم عمومی",
-			"images": [
-				"assets/img/college.jpg",
-				"assets/img/college.jpg"
-			],
-			"features": [
-				"کد فضا : 23940627 کد پستی : 0",
-				"شهری دولتی شیفت اول",
-				"مستقل مدرسه ورزش شهری عادی"
-			],
-			"degree": 101
-		},
-		{
-			"id": 25,
-			"latLng": {
-				"latitude": 51.4033241,
-				"longitude": 33.9937363
-			},
-			"collegeType": 102,
-			"title": "امام هادی(ع) 96013843",
-			"telephone": [
-				"3155429500"
-			],
-			"address": "کاشان - کمربندی - کوچه جنب دانشگاه کاشان - مدرسه یثربی",
-			"description": "ابتدایی عمومی",
-			"images": [
-				"assets/img/college.jpg",
-				"assets/img/college.jpg"
-			],
-			"features": [
-				"کد فضا : 11218741 کد پستی : 0",
-				"شهری دولتی شیفت اول",
-				"ضمیمه دارد عادی شهری عادی"
-			],
-			"degree": 102
-		},
-		{
-			"id": 26,
-			"latLng": {
-				"latitude": 51.32953,
-				"longitude": 33.87728
+				"latitude": 33.87728,
+				"longitude": 51.32953
 			},
 			"collegeType": 103,
 			"title": "امامت 38519301",
@@ -749,10 +677,10 @@
 			"degree": 103
 		},
 		{
-			"id": 27,
+			"id": 24,
 			"latLng": {
-				"latitude": 51.40326,
-				"longitude": 33.95676
+				"latitude": 33.95676,
+				"longitude": 51.40326
 			},
 			"collegeType": 402,
 			"title": "امیر کبیر 95090048",
@@ -773,10 +701,10 @@
 			"degree": 402
 		},
 		{
-			"id": 28,
+			"id": 25,
 			"latLng": {
-				"latitude": 51.40722,
-				"longitude": 33.97917
+				"latitude": 33.97917,
+				"longitude": 51.40722
 			},
 			"collegeType": 101,
 			"title": "امیر کبیر 96023431",
@@ -797,10 +725,10 @@
 			"degree": 101
 		},
 		{
-			"id": 29,
+			"id": 26,
 			"latLng": {
-				"latitude": 51.40722,
-				"longitude": 33.97917
+				"latitude": 33.97917,
+				"longitude": 51.40722
 			},
 			"collegeType": 301,
 			"title": "امیرالمومنین (ع ) 38537501",
@@ -821,10 +749,10 @@
 			"degree": 301
 		},
 		{
-			"id": 30,
+			"id": 27,
 			"latLng": {
-				"latitude": 51.40722,
-				"longitude": 33.97917
+				"latitude": 33.97917,
+				"longitude": 51.40722
 			},
 			"collegeType": 401,
 			"title": "امیرالمومنین(ع) 96071764",
@@ -845,10 +773,10 @@
 			"degree": 401
 		},
 		{
-			"id": 31,
+			"id": 28,
 			"latLng": {
-				"latitude": 51.40722,
-				"longitude": 33.97917
+				"latitude": 33.97917,
+				"longitude": 51.40722
 			},
 			"collegeType": 101,
 			"title": "انصارالحسین 96029584",
@@ -869,10 +797,10 @@
 			"degree": 101
 		},
 		{
-			"id": 32,
+			"id": 29,
 			"latLng": {
-				"latitude": 51.15051,
-				"longitude": 33.81656
+				"latitude": 33.81656,
+				"longitude": 51.15051
 			},
 			"collegeType": 103,
 			"title": "انقلاب اسلامی ازوار 38519405",
@@ -893,10 +821,10 @@
 			"degree": 103
 		},
 		{
-			"id": 33,
+			"id": 30,
 			"latLng": {
-				"latitude": 51.15668,
-				"longitude": 33.90714
+				"latitude": 33.90714,
+				"longitude": 51.15668
 			},
 			"collegeType": 203,
 			"title": "بابا افضل مرق 1 95128958",
@@ -917,10 +845,10 @@
 			"degree": 203
 		},
 		{
-			"id": 34,
+			"id": 31,
 			"latLng": {
-				"latitude": 51.11929,
-				"longitude": 34.08171
+				"latitude": 34.08171,
+				"longitude": 51.11929
 			},
 			"collegeType": 103,
 			"title": "بانوخلعتبری 38551004",
@@ -941,10 +869,10 @@
 			"degree": 103
 		},
 		{
-			"id": 35,
+			"id": 32,
 			"latLng": {
-				"latitude": 51.40722,
-				"longitude": 33.97917
+				"latitude": 33.97917,
+				"longitude": 51.40722
 			},
 			"collegeType": 103,
 			"title": "برادران شهید چناری 96069981",
@@ -965,58 +893,10 @@
 			"degree": 103
 		},
 		{
-			"id": 36,
+			"id": 33,
 			"latLng": {
-				"latitude": 51.4748955,
-				"longitude": 33.9653625
-			},
-			"collegeType": 202,
-			"title": "برکت 96064396",
-			"telephone": [
-				"55449988"
-			],
-			"address": "کاشان،خ آیت اله سعیدی،کوی ولیعصر،زمین بیدار اکبری ،مدرسه بنیاد برکت",
-			"description": "اول متوسطه عمومی",
-			"images": [
-				"assets/img/college.jpg",
-				"assets/img/college.jpg"
-			],
-			"features": [
-				"کد فضا : 24416713 کد پستی : 0",
-				"شهری دولتی شیفت اول",
-				"مستقل عادی شهری عادی"
-			],
-			"degree": 202
-		},
-		{
-			"id": 37,
-			"latLng": {
-				"latitude": 51.4095,
-				"longitude": 33.980793
-			},
-			"collegeType": 102,
-			"title": "بنت الهدی 96103380",
-			"telephone": [
-				"-2146826246"
-			],
-			"address": "-2146826246",
-			"description": "ابتدایی عمومی",
-			"images": [
-				"assets/img/college.jpg",
-				"assets/img/college.jpg"
-			],
-			"features": [
-				"-2146826246",
-				"شهری حمایتی شیفت اول",
-				"مستقل غیردولتی حمایتی شهری عادی"
-			],
-			"degree": 102
-		},
-		{
-			"id": 38,
-			"latLng": {
-				"latitude": 51.40722,
-				"longitude": 33.97917
+				"latitude": 33.97917,
+				"longitude": 51.40722
 			},
 			"collegeType": 101,
 			"title": "بیست ودوبهمن قمصر 96013618",
@@ -1037,34 +917,10 @@
 			"degree": 101
 		},
 		{
-			"id": 39,
+			"id": 34,
 			"latLng": {
-				"latitude": 51.4556732,
-				"longitude": 33.9809
-			},
-			"collegeType": 102,
-			"title": "پروین صفا 38508904",
-			"telephone": [
-				"4245484"
-			],
-			"address": "خ اباذرکوچه سلمان جنب آموزشگاه بهورزی",
-			"description": "ابتدایی عمومی",
-			"images": [
-				"assets/img/college.jpg",
-				"assets/img/college.jpg"
-			],
-			"features": [
-				"کد فضا : 11167124 کد پستی : 871799",
-				"شهری دولتی شیفت اول",
-				"مستقل عادی شهری عادی"
-			],
-			"degree": 102
-		},
-		{
-			"id": 40,
-			"latLng": {
-				"latitude": 51.442,
-				"longitude": 34.0008
+				"latitude": 34.0008,
+				"longitude": 51.442
 			},
 			"collegeType": 101,
 			"title": "پسرانه شهیدهاشمی نژاد 38504008",
@@ -1085,10 +941,10 @@
 			"degree": 101
 		},
 		{
-			"id": 41,
+			"id": 35,
 			"latLng": {
-				"latitude": 51.40722,
-				"longitude": 33.97917
+				"latitude": 33.97917,
+				"longitude": 51.40722
 			},
 			"collegeType": 201,
 			"title": "پسرانه خزاق 95103168",
@@ -1109,10 +965,10 @@
 			"degree": 201
 		},
 		{
-			"id": 42,
+			"id": 36,
 			"latLng": {
-				"latitude": 51.4062462,
-				"longitude": 33.9900551
+				"latitude": 33.77915,
+				"longitude": 51.2313
 			},
 			"collegeType": 302,
 			"title": "جانبازان انقلاب اسلامی 38536603",
@@ -1133,10 +989,10 @@
 			"degree": 302
 		},
 		{
-			"id": 43,
+			"id": 37,
 			"latLng": {
-				"latitude": 51.4556732,
-				"longitude": 33.9809
+				"latitude": 33.99125,
+				"longitude": 51.45828
 			},
 			"collegeType": 500,
 			"title": "جبار باغچه بان 95141374",
@@ -1157,10 +1013,10 @@
 			"degree": 500
 		},
 		{
-			"id": 44,
+			"id": 38,
 			"latLng": {
-				"latitude": 51.4033241,
-				"longitude": 33.9937363
+				"latitude": 33.99125,
+				"longitude": 51.45828
 			},
 			"collegeType": 500,
 			"title": "جبار باغچه بان 95141375",
@@ -1181,10 +1037,10 @@
 			"degree": 500
 		},
 		{
-			"id": 45,
+			"id": 39,
 			"latLng": {
-				"latitude": 51.4614944,
-				"longitude": 33.98777
+				"latitude": 33.99125,
+				"longitude": 51.45828
 			},
 			"collegeType": 500,
 			"title": "جبار باغچه بان 96027562",
@@ -1205,10 +1061,10 @@
 			"degree": 500
 		},
 		{
-			"id": 46,
+			"id": 40,
 			"latLng": {
-				"latitude": 51.4748955,
-				"longitude": 33.9653625
+				"latitude": 33.99125,
+				"longitude": 51.45828
 			},
 			"collegeType": 500,
 			"title": "جبار باغچه بان 95141376",
@@ -1229,10 +1085,10 @@
 			"degree": 500
 		},
 		{
-			"id": 47,
+			"id": 41,
 			"latLng": {
-				"latitude": 51.39593,
-				"longitude": 33.9479
+				"latitude": 33.9479,
+				"longitude": 51.39593
 			},
 			"collegeType": 500,
 			"title": "جواهرنیکبخت فین 38500508",
@@ -1253,10 +1109,10 @@
 			"degree": 500
 		},
 		{
-			"id": 48,
+			"id": 42,
 			"latLng": {
-				"latitude": 51.40722,
-				"longitude": 33.97917
+				"latitude": 33.97917,
+				"longitude": 51.40722
 			},
 			"collegeType": 102,
 			"title": "چاووشی 96029568",
@@ -1277,10 +1133,10 @@
 			"degree": 102
 		},
 		{
-			"id": 49,
+			"id": 43,
 			"latLng": {
-				"latitude": 51.42549,
-				"longitude": 33.97444
+				"latitude": 33.97444,
+				"longitude": 51.42549
 			},
 			"collegeType": 102,
 			"title": "چهارده معصوم (ع )1 38572104",
@@ -1301,10 +1157,10 @@
 			"degree": 102
 		},
 		{
-			"id": 50,
+			"id": 44,
 			"latLng": {
-				"latitude": 51.42549,
-				"longitude": 33.97444
+				"latitude": 33.97444,
+				"longitude": 51.42549
 			},
 			"collegeType": 101,
 			"title": "چهارده معصوم (ع )2 38572201",
@@ -1325,10 +1181,10 @@
 			"degree": 101
 		},
 		{
-			"id": 51,
+			"id": 45,
 			"latLng": {
-				"latitude": 51.40722,
-				"longitude": 33.97917
+				"latitude": 33.97917,
+				"longitude": 51.40722
 			},
 			"collegeType": 201,
 			"title": "حاج احمد سینائیان وپسران 95141369",
@@ -1349,10 +1205,10 @@
 			"degree": 201
 		},
 		{
-			"id": 52,
+			"id": 46,
 			"latLng": {
-				"latitude": 51.43869,
-				"longitude": 33.96594
+				"latitude": 33.96594,
+				"longitude": 51.43869
 			},
 			"collegeType": 102,
 			"title": "حاج جعفرابریشمی 38582809",
@@ -1373,34 +1229,10 @@
 			"degree": 102
 		},
 		{
-			"id": 53,
+			"id": 47,
 			"latLng": {
-				"latitude": 51.4659042,
-				"longitude": 33.9733849
-			},
-			"collegeType": 101,
-			"title": "حاج حبیب واحدی 96014091",
-			"telephone": [
-				"3"
-			],
-			"address": "کاشان - خ نطنز - مدرسه واحدی",
-			"description": "ابتدایی دوره اول عمومی",
-			"images": [
-				"assets/img/college.jpg",
-				"assets/img/college.jpg"
-			],
-			"features": [
-				"کد فضا : 24063617 کد پستی : 0",
-				"شهری دولتی شیفت اول",
-				"مستقل عادی شهری عادی"
-			],
-			"degree": 101
-		},
-		{
-			"id": 54,
-			"latLng": {
-				"latitude": 51.40722,
-				"longitude": 33.97917
+				"latitude": 33.97917,
+				"longitude": 51.40722
 			},
 			"collegeType": 102,
 			"title": "حاج عباس پیله وریان 96016175",
@@ -1421,10 +1253,10 @@
 			"degree": 102
 		},
 		{
-			"id": 55,
+			"id": 48,
 			"latLng": {
-				"latitude": 51.40722,
-				"longitude": 33.97917
+				"latitude": 33.97917,
+				"longitude": 51.40722
 			},
 			"collegeType": 102,
 			"title": "حاج علی مصراحی 96070838",
@@ -1445,10 +1277,10 @@
 			"degree": 102
 		},
 		{
-			"id": 56,
+			"id": 49,
 			"latLng": {
-				"latitude": 51.40722,
-				"longitude": 33.97917
+				"latitude": 33.97917,
+				"longitude": 51.40722
 			},
 			"collegeType": 101,
 			"title": "حافظ 96070671",
@@ -1469,34 +1301,10 @@
 			"degree": 101
 		},
 		{
-			"id": 57,
+			"id": 50,
 			"latLng": {
-				"latitude": 51.46882,
-				"longitude": 33.9768944
-			},
-			"collegeType": 101,
-			"title": "حبیب اله برقی 96070898",
-			"telephone": [
-				"55449988"
-			],
-			"address": "کاشان خیابان ژاندارمری کوی گازرگاه",
-			"description": "ابتدایی دوره دوم عمومی",
-			"images": [
-				"assets/img/college.jpg",
-				"assets/img/college.jpg"
-			],
-			"features": [
-				"کد فضا : 11109988 کد پستی : 0",
-				"شهری دولتی شیفت اول",
-				"مستقل عادی شهری عادی"
-			],
-			"degree": 101
-		},
-		{
-			"id": 58,
-			"latLng": {
-				"latitude": 51.41871,
-				"longitude": 33.74991
+				"latitude": 33.74991,
+				"longitude": 51.41871
 			},
 			"collegeType": 302,
 			"title": "حسام الدین نوابی 38592001",
@@ -1517,10 +1325,10 @@
 			"degree": 302
 		},
 		{
-			"id": 59,
+			"id": 51,
 			"latLng": {
-				"latitude": 51.44776,
-				"longitude": 33.98091
+				"latitude": 33.98091,
+				"longitude": 51.44776
 			},
 			"collegeType": 201,
 			"title": "حضرت علی اصغر (ع) 96013616",
@@ -1541,10 +1349,10 @@
 			"degree": 201
 		},
 		{
-			"id": 60,
+			"id": 52,
 			"latLng": {
-				"latitude": 51.2161,
-				"longitude": 33.58832
+				"latitude": 33.58832,
+				"longitude": 51.2161
 			},
 			"collegeType": 302,
 			"title": "حضرت مریم (ع ) 38538406",
@@ -1565,10 +1373,10 @@
 			"degree": 302
 		},
 		{
-			"id": 61,
+			"id": 53,
 			"latLng": {
-				"latitude": 51.26392,
-				"longitude": 34.17479
+				"latitude": 34.17479,
+				"longitude": 51.26392
 			},
 			"collegeType": 302,
 			"title": "حضرت معصومه (س ) 38592107",
@@ -1589,10 +1397,10 @@
 			"degree": 302
 		},
 		{
-			"id": 62,
+			"id": 54,
 			"latLng": {
-				"latitude": 51.4062462,
-				"longitude": 33.9900551
+				"latitude": 33.97917,
+				"longitude": 51.40722
 			},
 			"collegeType": 103,
 			"title": "حمزه 96029567",
@@ -1613,10 +1421,10 @@
 			"degree": 103
 		},
 		{
-			"id": 63,
+			"id": 55,
 			"latLng": {
-				"latitude": 51.4033241,
-				"longitude": 33.9937363
+				"latitude": 33.985,
+				"longitude": 51.41667
 			},
 			"collegeType": 201,
 			"title": "حمید اصفهانیان 95103182",
@@ -1637,10 +1445,10 @@
 			"degree": 201
 		},
 		{
-			"id": 64,
+			"id": 56,
 			"latLng": {
-				"latitude": 51.4556732,
-				"longitude": 33.9809
+				"latitude": 33.9703,
+				"longitude": 51.1481
 			},
 			"collegeType": 103,
 			"title": "حمیدی نیاسر 96029565",
@@ -1661,10 +1469,10 @@
 			"degree": 103
 		},
 		{
-			"id": 65,
+			"id": 57,
 			"latLng": {
-				"latitude": 51.4659042,
-				"longitude": 33.9733849
+				"latitude": 33.97917,
+				"longitude": 51.40722
 			},
 			"collegeType": 202,
 			"title": "حیدری فین 95103293",
@@ -1685,82 +1493,10 @@
 			"degree": 202
 		},
 		{
-			"id": 66,
+			"id": 58,
 			"latLng": {
-				"latitude": 51.4017448,
-				"longitude": 34.0037155
-			},
-			"collegeType": 101,
-			"title": "خاتم الانبیا (1) 96084133",
-			"telephone": [
-				"55449988"
-			],
-			"address": "کاشان",
-			"description": "ابتدایی دوره اول عمومی",
-			"images": [
-				"assets/img/college.jpg",
-				"assets/img/college.jpg"
-			],
-			"features": [
-				"کد فضا : 0 کد پستی : 0",
-				"شهری حمایتی شیفت دوم",
-				"مستقل غیردولتی حمایتی شهری عادی"
-			],
-			"degree": 101
-		},
-		{
-			"id": 67,
-			"latLng": {
-				"latitude": 51.46882,
-				"longitude": 33.9768944
-			},
-			"collegeType": 101,
-			"title": "خاتم الانبیا (2) 96086186",
-			"telephone": [
-				"55449988"
-			],
-			"address": "0",
-			"description": "ابتدایی دوره اول عمومی",
-			"images": [
-				"assets/img/college.jpg",
-				"assets/img/college.jpg"
-			],
-			"features": [
-				"کد فضا : 0 کد پستی : 0",
-				"شهری حمایتی شیفت دوم",
-				"مستقل غیردولتی حمایتی شهری عادی"
-			],
-			"degree": 101
-		},
-		{
-			"id": 68,
-			"latLng": {
-				"latitude": 51.4172325,
-				"longitude": 33.98185
-			},
-			"collegeType": 101,
-			"title": "خجسته کیا 96081152",
-			"telephone": [
-				"55449988"
-			],
-			"address": "0",
-			"description": "ابتدایی عمومی",
-			"images": [
-				"assets/img/college.jpg",
-				"assets/img/college.jpg"
-			],
-			"features": [
-				"کد فضا : 0 کد پستی : 0",
-				"شهری دولتی شیفت اول",
-				"مستقل عادی شهری عادی"
-			],
-			"degree": 101
-		},
-		{
-			"id": 69,
-			"latLng": {
-				"latitude": 51.44079,
-				"longitude": 34.00094
+				"latitude": 34.00094,
+				"longitude": 51.44079
 			},
 			"collegeType": 302,
 			"title": "خدیجه کبری 96013846",
@@ -1781,10 +1517,10 @@
 			"degree": 302
 		},
 		{
-			"id": 70,
+			"id": 59,
 			"latLng": {
-				"latitude": 51.34528,
-				"longitude": 34.01667
+				"latitude": 34.01667,
+				"longitude": 51.34528
 			},
 			"collegeType": 102,
 			"title": "خضرایی 95060638",
@@ -1805,10 +1541,10 @@
 			"degree": 102
 		},
 		{
-			"id": 71,
+			"id": 60,
 			"latLng": {
-				"latitude": 51.4033241,
-				"longitude": 33.9937363
+				"latitude": 33.99842,
+				"longitude": 51.44857
 			},
 			"collegeType": 101,
 			"title": "دبستان امام زمان (عج ) 38502004",
@@ -1829,10 +1565,10 @@
 			"degree": 101
 		},
 		{
-			"id": 72,
+			"id": 61,
 			"latLng": {
-				"latitude": 51.4556732,
-				"longitude": 33.9809
+				"latitude": 33.99029,
+				"longitude": 51.43263
 			},
 			"collegeType": 102,
 			"title": "دبستان علی بن ابیطالب (ع )شاهد1 38506403",
@@ -1853,10 +1589,10 @@
 			"degree": 102
 		},
 		{
-			"id": 73,
+			"id": 62,
 			"latLng": {
-				"latitude": 51.449646,
-				"longitude": 33.9716034
+				"latitude": 33.95676,
+				"longitude": 51.40326
 			},
 			"collegeType": 302,
 			"title": "دبیرستان امیرکبیر 38552006",
@@ -1877,34 +1613,10 @@
 			"degree": 302
 		},
 		{
-			"id": 74,
+			"id": 63,
 			"latLng": {
-				"latitude": 51.46096,
-				"longitude": 33.9934425
-			},
-			"collegeType": 301,
-			"title": "دبیرستان پسرانه شاهد 38551300",
-			"telephone": [
-				"4440100"
-			],
-			"address": "خ طالقانی جنب دانشکده آیت الله یثربی",
-			"description": "دوم متوسطه نظری",
-			"images": [
-				"assets/img/college.jpg",
-				"assets/img/college.jpg"
-			],
-			"features": [
-				"کد فضا : 20675984 کد پستی : 871668311",
-				"شهری دولتی شیفت اول",
-				"مستقل شاهد شهری عادی"
-			],
-			"degree": 301
-		},
-		{
-			"id": 75,
-			"latLng": {
-				"latitude": 51.4062462,
-				"longitude": 33.9900551
+				"latitude": 34.00277,
+				"longitude": 51.43722
 			},
 			"collegeType": 302,
 			"title": "دبیرستان دخترانه شاهد 38551205",
@@ -1925,10 +1637,10 @@
 			"degree": 302
 		},
 		{
-			"id": 76,
+			"id": 64,
 			"latLng": {
-				"latitude": 51.4614944,
-				"longitude": 33.98777
+				"latitude": 33.97027,
+				"longitude": 51.15044
 			},
 			"collegeType": 302,
 			"title": "دبیرستان دخترانه نیاسر 38537002",
@@ -1949,10 +1661,10 @@
 			"degree": 302
 		},
 		{
-			"id": 77,
+			"id": 65,
 			"latLng": {
-				"latitude": 51.4556732,
-				"longitude": 33.9809
+				"latitude": 34.03694,
+				"longitude": 51.0863
 			},
 			"collegeType": 301,
 			"title": "دبیرستان ساره بیگم علوی 38536201",
@@ -1973,34 +1685,10 @@
 			"degree": 301
 		},
 		{
-			"id": 78,
+			"id": 66,
 			"latLng": {
-				"latitude": 51.4659042,
-				"longitude": 33.9733849
-			},
-			"collegeType": 302,
-			"title": "دبیرستان سهراب سپهری 38588207",
-			"telephone": [
-				"3362577"
-			],
-			"address": "کاشان مشهداردهال روستای غیاث آباد پلاک 292",
-			"description": "دوم متوسطه نظری",
-			"images": [
-				"assets/img/college.jpg",
-				"assets/img/college.jpg"
-			],
-			"features": [
-				"کد فضا : 11209841 کد پستی : 87951",
-				"روستایی دولتی شیفت اول",
-				"ضمیمه دارد عادی روستایی عادی"
-			],
-			"degree": 302
-		},
-		{
-			"id": 79,
-			"latLng": {
-				"latitude": 51.4017448,
-				"longitude": 34.0037155
+				"latitude": 33.98472,
+				"longitude": 51.44333
 			},
 			"collegeType": 301,
 			"title": "دبیرستان سیدمحمدمحتشمی 38566602",
@@ -2021,10 +1709,10 @@
 			"degree": 301
 		},
 		{
-			"id": 80,
+			"id": 67,
 			"latLng": {
-				"latitude": 51.46882,
-				"longitude": 33.9768944
+				"latitude": 33.77984,
+				"longitude": 51.22549
 			},
 			"collegeType": 301,
 			"title": "دبیرستان شهدای برزک 38538205",
@@ -2045,10 +1733,10 @@
 			"degree": 301
 		},
 		{
-			"id": 81,
+			"id": 68,
 			"latLng": {
-				"latitude": 51.4172325,
-				"longitude": 33.98185
+				"latitude": 33.99451,
+				"longitude": 51.4378
 			},
 			"collegeType": 301,
 			"title": "دبیرستان شهیدبهشتی (سمپاد) 38570608",
@@ -2069,10 +1757,10 @@
 			"degree": 301
 		},
 		{
-			"id": 82,
+			"id": 69,
 			"latLng": {
-				"latitude": 51.46096,
-				"longitude": 33.9934425
+				"latitude": 33.98954,
+				"longitude": 51.40361
 			},
 			"collegeType": 302,
 			"title": "دبیرستان فرزانگان (سمپاد) 38570502",
@@ -2093,10 +1781,10 @@
 			"degree": 302
 		},
 		{
-			"id": 83,
+			"id": 70,
 			"latLng": {
-				"latitude": 51.4430962,
-				"longitude": 33.98742
+				"latitude": 33.96239,
+				"longitude": 51.43871
 			},
 			"collegeType": 302,
 			"title": "دبیرستان مصلحی 38565801",
@@ -2117,34 +1805,10 @@
 			"degree": 302
 		},
 		{
-			"id": 84,
+			"id": 71,
 			"latLng": {
-				"latitude": 51.3517952,
-				"longitude": 34.013134
-			},
-			"collegeType": 302,
-			"title": "دبیرستان مهندس حسین کیهان 38566200",
-			"telephone": [
-				"5513111"
-			],
-			"address": "شهرک قطب راوندی - لاله6",
-			"description": "دوم متوسطه نظری",
-			"images": [
-				"assets/img/college.jpg",
-				"assets/img/college.jpg"
-			],
-			"features": [
-				"کد فضا : 11135458 کد پستی : 873174517",
-				"شهری دولتی شیفت اول",
-				"ضمیمه دارد عادی شهری عادی"
-			],
-			"degree": 302
-		},
-		{
-			"id": 85,
-			"latLng": {
-				"latitude": 51.44159,
-				"longitude": 33.98762
+				"latitude": 33.98762,
+				"longitude": 51.44159
 			},
 			"collegeType": 402,
 			"title": "دخترانه متفرقه حرفه ای 38549806",
@@ -2165,10 +1829,10 @@
 			"degree": 402
 		},
 		{
-			"id": 86,
+			"id": 72,
 			"latLng": {
-				"latitude": 51.35208,
-				"longitude": 34.0135
+				"latitude": 34.0135,
+				"longitude": 51.35208
 			},
 			"collegeType": 201,
 			"title": "دکتر جوادیان 95103187",
@@ -2189,34 +1853,10 @@
 			"degree": 201
 		},
 		{
-			"id": 87,
+			"id": 73,
 			"latLng": {
-				"latitude": 51.4042931,
-				"longitude": 33.9893227
-			},
-			"collegeType": 202,
-			"title": "دکتر موتمن 95103298",
-			"telephone": [
-				"0"
-			],
-			"address": "0",
-			"description": "اول متوسطه عمومی",
-			"images": [
-				"assets/img/college.jpg",
-				"assets/img/college.jpg"
-			],
-			"features": [
-				"کد فضا : 23066026 کد پستی : 0",
-				"شهری دولتی شیفت اول",
-				"مستقل عادی شهری عادی"
-			],
-			"degree": 202
-		},
-		{
-			"id": 88,
-			"latLng": {
-				"latitude": 51.40581,
-				"longitude": 33.97954
+				"latitude": 33.97954,
+				"longitude": 51.40581
 			},
 			"collegeType": 101,
 			"title": "دین ودانش دو 38502406",
@@ -2237,10 +1877,10 @@
 			"degree": 101
 		},
 		{
-			"id": 89,
+			"id": 74,
 			"latLng": {
-				"latitude": 51.40581,
-				"longitude": 33.97954
+				"latitude": 33.97954,
+				"longitude": 51.40581
 			},
 			"collegeType": 102,
 			"title": "دین ودانش یک 38505909",
@@ -2261,10 +1901,10 @@
 			"degree": 102
 		},
 		{
-			"id": 90,
+			"id": 75,
 			"latLng": {
-				"latitude": 51.40722,
-				"longitude": 33.97917
+				"latitude": 33.97917,
+				"longitude": 51.40722
 			},
 			"collegeType": 103,
 			"title": "رضویه سفیدآب 96071074",
@@ -2285,10 +1925,10 @@
 			"degree": 103
 		},
 		{
-			"id": 91,
+			"id": 76,
 			"latLng": {
-				"latitude": 51.40722,
-				"longitude": 33.97917
+				"latitude": 33.97917,
+				"longitude": 51.40722
 			},
 			"collegeType": 302,
 			"title": "ریحانة النبی 96013844",
@@ -2309,10 +1949,10 @@
 			"degree": 302
 		},
 		{
-			"id": 92,
+			"id": 77,
 			"latLng": {
-				"latitude": 51.40722,
-				"longitude": 33.97917
+				"latitude": 33.97917,
+				"longitude": 51.40722
 			},
 			"collegeType": 202,
 			"title": "زاهد 95141370",
@@ -2333,10 +1973,10 @@
 			"degree": 202
 		},
 		{
-			"id": 93,
+			"id": 78,
 			"latLng": {
-				"latitude": 51.40722,
-				"longitude": 33.97917
+				"latitude": 33.97917,
+				"longitude": 51.40722
 			},
 			"collegeType": 202,
 			"title": "زرگر زاده 95103285",
@@ -2357,10 +1997,10 @@
 			"degree": 202
 		},
 		{
-			"id": 94,
+			"id": 79,
 			"latLng": {
-				"latitude": 51.40722,
-				"longitude": 33.97917
+				"latitude": 33.97917,
+				"longitude": 51.40722
 			},
 			"collegeType": 401,
 			"title": "زنده یاد حاج حسن تفضلی 96013613",
@@ -2381,10 +2021,10 @@
 			"degree": 401
 		},
 		{
-			"id": 95,
+			"id": 80,
 			"latLng": {
-				"latitude": 51.40722,
-				"longitude": 33.97917
+				"latitude": 33.97917,
+				"longitude": 51.40722
 			},
 			"collegeType": 401,
 			"title": "زنده یاد حاج حسن تفضلی 96013613",
@@ -2405,10 +2045,10 @@
 			"degree": 401
 		},
 		{
-			"id": 96,
+			"id": 81,
 			"latLng": {
-				"latitude": 51.45444,
-				"longitude": 33.98582
+				"latitude": 33.98582,
+				"longitude": 51.45444
 			},
 			"collegeType": 202,
 			"title": "سپیده کاشانی 96024337",
@@ -2429,10 +2069,10 @@
 			"degree": 202
 		},
 		{
-			"id": 97,
+			"id": 82,
 			"latLng": {
-				"latitude": 51.43833,
-				"longitude": 33.98138
+				"latitude": 33.98138,
+				"longitude": 51.43833
 			},
 			"collegeType": 201,
 			"title": "سراج 95103191",
@@ -2453,10 +2093,10 @@
 			"degree": 201
 		},
 		{
-			"id": 98,
+			"id": 83,
 			"latLng": {
-				"latitude": 51.0863,
-				"longitude": 34.03694
+				"latitude": 34.03694,
+				"longitude": 51.0863
 			},
 			"collegeType": 203,
 			"title": "سعادت کوهدشت 96021902",
@@ -2477,10 +2117,10 @@
 			"degree": 203
 		},
 		{
-			"id": 99,
+			"id": 84,
 			"latLng": {
-				"latitude": 51.40722,
-				"longitude": 33.97917
+				"latitude": 33.97917,
+				"longitude": 51.40722
 			},
 			"collegeType": 202,
 			"title": "سعدی 95103304",
@@ -2501,10 +2141,10 @@
 			"degree": 202
 		},
 		{
-			"id": 100,
+			"id": 85,
 			"latLng": {
-				"latitude": 51.44245,
-				"longitude": 33.97789
+				"latitude": 33.97789,
+				"longitude": 51.44245
 			},
 			"collegeType": 101,
 			"title": "سعیدی 96029569",
@@ -2525,10 +2165,10 @@
 			"degree": 101
 		},
 		{
-			"id": 101,
+			"id": 86,
 			"latLng": {
-				"latitude": 51.40722,
-				"longitude": 33.97917
+				"latitude": 33.97917,
+				"longitude": 51.40722
 			},
 			"collegeType": 201,
 			"title": "سلمان فارسی علوی 95103250",
@@ -2549,10 +2189,10 @@
 			"degree": 201
 		},
 		{
-			"id": 102,
+			"id": 87,
 			"latLng": {
-				"latitude": 51.34083,
-				"longitude": 34.02223
+				"latitude": 34.02223,
+				"longitude": 51.34083
 			},
 			"collegeType": 102,
 			"title": "سمیه 38553304",
@@ -2573,10 +2213,10 @@
 			"degree": 102
 		},
 		{
-			"id": 103,
+			"id": 88,
 			"latLng": {
-				"latitude": 51.41871,
-				"longitude": 33.74991
+				"latitude": 33.74991,
+				"longitude": 51.41871
 			},
 			"collegeType": 202,
 			"title": "سوده قمصر 95103307",
@@ -2597,10 +2237,10 @@
 			"degree": 202
 		},
 		{
-			"id": 104,
+			"id": 89,
 			"latLng": {
-				"latitude": 51.41306,
-				"longitude": 33.98778
+				"latitude": 33.98778,
+				"longitude": 51.41306
 			},
 			"collegeType": 101,
 			"title": "سید حاجی طباطبایی دو 96070822",
@@ -2621,10 +2261,10 @@
 			"degree": 101
 		},
 		{
-			"id": 105,
+			"id": 90,
 			"latLng": {
-				"latitude": 51.41306,
-				"longitude": 33.98778
+				"latitude": 33.98778,
+				"longitude": 51.41306
 			},
 			"collegeType": 101,
 			"title": "سید حاجی طباطبایی یک 96045784",
@@ -2645,10 +2285,10 @@
 			"degree": 101
 		},
 		{
-			"id": 106,
+			"id": 91,
 			"latLng": {
-				"latitude": 51.44245,
-				"longitude": 33.97789
+				"latitude": 33.97789,
+				"longitude": 51.44245
 			},
 			"collegeType": 102,
 			"title": "سید علی مصطفوی 38506107",
@@ -2669,10 +2309,10 @@
 			"degree": 102
 		},
 		{
-			"id": 107,
+			"id": 92,
 			"latLng": {
-				"latitude": 51.40722,
-				"longitude": 33.97917
+				"latitude": 33.97917,
+				"longitude": 51.40722
 			},
 			"collegeType": 102,
 			"title": "سید محمد قریشی 96070673",
@@ -2693,34 +2333,10 @@
 			"degree": 102
 		},
 		{
-			"id": 108,
+			"id": 93,
 			"latLng": {
-				"latitude": 51.4540749,
-				"longitude": 33.99428
-			},
-			"collegeType": 202,
-			"title": "شاهد (مس فروش) 95112802",
-			"telephone": [
-				"0"
-			],
-			"address": "0",
-			"description": "اول متوسطه عمومی",
-			"images": [
-				"assets/img/college.jpg",
-				"assets/img/college.jpg"
-			],
-			"features": [
-				"کد فضا : 11158377 کد پستی : 0",
-				"شهری دولتی شیفت اول",
-				"مستقل شاهد شهری عادی"
-			],
-			"degree": 202
-		},
-		{
-			"id": 109,
-			"latLng": {
-				"latitude": 51.40722,
-				"longitude": 33.97917
+				"latitude": 33.97917,
+				"longitude": 51.40722
 			},
 			"collegeType": 201,
 			"title": "شاهد(اخوان ستوده) 95112786",
@@ -2741,10 +2357,10 @@
 			"degree": 201
 		},
 		{
-			"id": 110,
+			"id": 94,
 			"latLng": {
-				"latitude": 51.41492,
-				"longitude": 33.67293
+				"latitude": 33.67293,
+				"longitude": 51.41492
 			},
 			"collegeType": 103,
 			"title": "شهدای قهرود 38520109",
@@ -2765,10 +2381,10 @@
 			"degree": 103
 		},
 		{
-			"id": 111,
+			"id": 95,
 			"latLng": {
-				"latitude": 51.42527,
-				"longitude": 33.98555
+				"latitude": 33.98555,
+				"longitude": 51.42527
 			},
 			"collegeType": 101,
 			"title": "شهدای انقلاب اسلامی 1 96070806",
@@ -2789,10 +2405,10 @@
 			"degree": 101
 		},
 		{
-			"id": 112,
+			"id": 96,
 			"latLng": {
-				"latitude": 51.40722,
-				"longitude": 33.97917
+				"latitude": 33.97917,
+				"longitude": 51.40722
 			},
 			"collegeType": 101,
 			"title": "شهدای انقلاب اسلامی 2 96070829",
@@ -2813,10 +2429,10 @@
 			"degree": 101
 		},
 		{
-			"id": 113,
+			"id": 97,
 			"latLng": {
-				"latitude": 51.40722,
-				"longitude": 33.97917
+				"latitude": 33.97917,
+				"longitude": 51.40722
 			},
 			"collegeType": 202,
 			"title": "شهدای خزاق 95103310",
@@ -2837,10 +2453,10 @@
 			"degree": 202
 		},
 		{
-			"id": 114,
+			"id": 98,
 			"latLng": {
-				"latitude": 51.34181,
-				"longitude": 34.02445
+				"latitude": 34.02445,
+				"longitude": 51.34181
 			},
 			"collegeType": 401,
 			"title": "شهدای صنایع راوند 95090037",
@@ -2861,10 +2477,10 @@
 			"degree": 401
 		},
 		{
-			"id": 115,
+			"id": 99,
 			"latLng": {
-				"latitude": 51.34181,
-				"longitude": 34.02445
+				"latitude": 34.02445,
+				"longitude": 51.34181
 			},
 			"collegeType": 301,
 			"title": "شهدای صنایع راوند 38577103",
@@ -2885,10 +2501,10 @@
 			"degree": 301
 		},
 		{
-			"id": 116,
+			"id": 100,
 			"latLng": {
-				"latitude": 51.40722,
-				"longitude": 33.97917
+				"latitude": 33.97917,
+				"longitude": 51.40722
 			},
 			"collegeType": 101,
 			"title": "شهدای طریق القدس یک 96070651",
@@ -2909,10 +2525,10 @@
 			"degree": 101
 		},
 		{
-			"id": 117,
+			"id": 101,
 			"latLng": {
-				"latitude": 51.40722,
-				"longitude": 33.97917
+				"latitude": 33.97917,
+				"longitude": 51.40722
 			},
 			"collegeType": 103,
 			"title": "شهدای گمنام 96039709",
@@ -2933,34 +2549,10 @@
 			"degree": 103
 		},
 		{
-			"id": 118,
+			"id": 102,
 			"latLng": {
-				"latitude": 51.42469,
-				"longitude": 33.9803963
-			},
-			"collegeType": 202,
-			"title": "شهدای مخملبافی(1) 95103322",
-			"telephone": [
-				"55308040"
-			],
-			"address": "کاشان خیابان امیر کبیر خیابان نواب صفوی",
-			"description": "اول متوسطه عمومی",
-			"images": [
-				"assets/img/college.jpg",
-				"assets/img/college.jpg"
-			],
-			"features": [
-				"کد فضا : 0 کد پستی : 8719677687",
-				"شهری دولتی شیفت اول",
-				"مستقل عادی شهری عادی"
-			],
-			"degree": 202
-		},
-		{
-			"id": 119,
-			"latLng": {
-				"latitude": 51.40722,
-				"longitude": 33.97917
+				"latitude": 33.97917,
+				"longitude": 51.40722
 			},
 			"collegeType": 301,
 			"title": "شهدای مشکات 96039726",
@@ -2981,10 +2573,10 @@
 			"degree": 301
 		},
 		{
-			"id": 120,
+			"id": 103,
 			"latLng": {
-				"latitude": 51.4091,
-				"longitude": 33.95313
+				"latitude": 33.95313,
+				"longitude": 51.4091
 			},
 			"collegeType": 201,
 			"title": "شهدای مکه 95103208",
@@ -3005,10 +2597,10 @@
 			"degree": 201
 		},
 		{
-			"id": 121,
+			"id": 104,
 			"latLng": {
-				"latitude": 51.07334,
-				"longitude": 33.99112
+				"latitude": 33.99112,
+				"longitude": 51.07334
 			},
 			"collegeType": 201,
 			"title": "شهدای نشلج 95103252",
@@ -3029,10 +2621,10 @@
 			"degree": 201
 		},
 		{
-			"id": 122,
+			"id": 105,
 			"latLng": {
-				"latitude": 51.40722,
-				"longitude": 33.97917
+				"latitude": 33.97917,
+				"longitude": 51.40722
 			},
 			"collegeType": 202,
 			"title": "شهدای هفتم تیر 95103326",
@@ -3053,10 +2645,10 @@
 			"degree": 202
 		},
 		{
-			"id": 123,
+			"id": 106,
 			"latLng": {
-				"latitude": 51.14924,
-				"longitude": 33.83987
+				"latitude": 33.83987,
+				"longitude": 51.14924
 			},
 			"collegeType": 103,
 			"title": "شهدای ویده جا 95001830",
@@ -3077,58 +2669,34 @@
 			"degree": 103
 		},
 		{
-			"id": 124,
+			"id": 107,
 			"latLng": {
-				"latitude": 51.40916,
-				"longitude": 33.9533234
+				"latitude": 34.00722,
+				"longitude": 51.45167
 			},
 			"collegeType": 102,
-			"title": "شهید دستغیب 96086183",
+			"title": "شهدای کرک 96100896",
 			"telephone": [
 				"55449988"
 			],
-			"address": "0",
-			"description": "ابتدایی عمومی",
+			"address": "کاشان بلوار کارگر",
+			"description": "ابتدایی دوره اول عمومی",
 			"images": [
 				"assets/img/college.jpg",
 				"assets/img/college.jpg"
 			],
 			"features": [
-				"کد فضا : 0 کد پستی : 0",
-				"شهری حمایتی شیفت اول",
-				"مستقل غیردولتی حمایتی شهری عادی"
+				"کد فضا : 11220067 کد پستی : 0",
+				"شهری دولتی شیفت اول",
+				"مستقل عادی شهری عادی"
 			],
 			"degree": 102
 		},
 		{
-			"id": 125,
+			"id": 108,
 			"latLng": {
-				"latitude": 51.4399948,
-				"longitude": 33.9751778
-			},
-			"collegeType": 402,
-			"title": "شهید آوینی 96084075",
-			"telephone": [
-				"55243388"
-			],
-			"address": "خ علوی جنب خانه تاریخی طباطباییها",
-			"description": "هنرستان فنی و حرفه ای",
-			"images": [
-				"assets/img/college.jpg",
-				"assets/img/college.jpg"
-			],
-			"features": [
-				"کد فضا : 0 کد پستی : 0",
-				"شهری دولتی شیفت اول",
-				"مستقل عادی شهری عادی"
-			],
-			"degree": 402
-		},
-		{
-			"id": 126,
-			"latLng": {
-				"latitude": 51.40722,
-				"longitude": 33.97917
+				"latitude": 33.97917,
+				"longitude": 51.40722
 			},
 			"collegeType": 101,
 			"title": "شهید احتشامی 95123934",
@@ -3149,10 +2717,10 @@
 			"degree": 101
 		},
 		{
-			"id": 127,
+			"id": 109,
 			"latLng": {
-				"latitude": 51.21306,
-				"longitude": 33.58639
+				"latitude": 33.58639,
+				"longitude": 51.21306
 			},
 			"collegeType": 201,
 			"title": "شهید اشرفی اصفهانی 95103213",
@@ -3173,10 +2741,10 @@
 			"degree": 201
 		},
 		{
-			"id": 128,
+			"id": 110,
 			"latLng": {
-				"latitude": 51.44027,
-				"longitude": 33.98666
+				"latitude": 33.98666,
+				"longitude": 51.44027
 			},
 			"collegeType": 201,
 			"title": "شهید الماسی 96040159",
@@ -3197,10 +2765,10 @@
 			"degree": 201
 		},
 		{
-			"id": 129,
+			"id": 111,
 			"latLng": {
-				"latitude": 51.45555,
-				"longitude": 33.98115
+				"latitude": 33.98115,
+				"longitude": 51.45555
 			},
 			"collegeType": 201,
 			"title": "شهید باهنر 95103215",
@@ -3221,58 +2789,10 @@
 			"degree": 201
 		},
 		{
-			"id": 130,
+			"id": 112,
 			"latLng": {
-				"latitude": 51.43519,
-				"longitude": 34.00583
-			},
-			"collegeType": 401,
-			"title": "شهید بهشتی 96084072",
-			"telephone": [
-				"5544488"
-			],
-			"address": "0",
-			"description": "هنرستان فنی و حرفه ای",
-			"images": [
-				"assets/img/college.jpg",
-				"assets/img/college.jpg"
-			],
-			"features": [
-				"کد فضا : 0 کد پستی : 0",
-				"شهری دولتی شیفت اول",
-				"مستقل عادی شهری عادی"
-			],
-			"degree": 401
-		},
-		{
-			"id": 131,
-			"latLng": {
-				"latitude": 51.43519,
-				"longitude": 34.00583
-			},
-			"collegeType": 401,
-			"title": "شهید بهشتی 96084072",
-			"telephone": [
-				"5544488"
-			],
-			"address": "0",
-			"description": "هنرستان فنی و حرفه ای",
-			"images": [
-				"assets/img/college.jpg",
-				"assets/img/college.jpg"
-			],
-			"features": [
-				"کد فضا : 0 کد پستی : 0",
-				"شهری دولتی شیفت اول",
-				"مستقل عادی شهری عادی"
-			],
-			"degree": 401
-		},
-		{
-			"id": 132,
-			"latLng": {
-				"latitude": 51.40722,
-				"longitude": 33.97917
+				"latitude": 33.97917,
+				"longitude": 51.40722
 			},
 			"collegeType": 101,
 			"title": "شهید ترامیده 96070811",
@@ -3293,10 +2813,10 @@
 			"degree": 101
 		},
 		{
-			"id": 133,
+			"id": 113,
 			"latLng": {
-				"latitude": 51.43388,
-				"longitude": 34.00441
+				"latitude": 34.00441,
+				"longitude": 51.43388
 			},
 			"collegeType": 202,
 			"title": "شهید ترنجی 95103327",
@@ -3317,10 +2837,10 @@
 			"degree": 202
 		},
 		{
-			"id": 134,
+			"id": 114,
 			"latLng": {
-				"latitude": 51.40722,
-				"longitude": 33.97917
+				"latitude": 33.97917,
+				"longitude": 51.40722
 			},
 			"collegeType": 202,
 			"title": "شهید ترکیان فر 95112810",
@@ -3341,10 +2861,10 @@
 			"degree": 202
 		},
 		{
-			"id": 135,
+			"id": 115,
 			"latLng": {
-				"latitude": 51.45167,
-				"longitude": 34.00722
+				"latitude": 34.00722,
+				"longitude": 51.45167
 			},
 			"collegeType": 102,
 			"title": "شهید جهانگیر 96070667",
@@ -3365,10 +2885,10 @@
 			"degree": 102
 		},
 		{
-			"id": 136,
+			"id": 116,
 			"latLng": {
-				"latitude": 51.34889,
-				"longitude": 34.01944
+				"latitude": 34.01944,
+				"longitude": 51.34889
 			},
 			"collegeType": 101,
 			"title": "شهید جواد طحانی راوند 38511305",
@@ -3389,10 +2909,10 @@
 			"degree": 101
 		},
 		{
-			"id": 137,
+			"id": 117,
 			"latLng": {
-				"latitude": 51.40722,
-				"longitude": 33.97917
+				"latitude": 33.97917,
+				"longitude": 51.40722
 			},
 			"collegeType": 101,
 			"title": "شهید جوانی 1 96013614",
@@ -3413,10 +2933,10 @@
 			"degree": 101
 		},
 		{
-			"id": 138,
+			"id": 118,
 			"latLng": {
-				"latitude": 51.40722,
-				"longitude": 33.97917
+				"latitude": 33.97917,
+				"longitude": 51.40722
 			},
 			"collegeType": 101,
 			"title": "شهید جوانی دو 96070896",
@@ -3437,10 +2957,10 @@
 			"degree": 101
 		},
 		{
-			"id": 139,
+			"id": 119,
 			"latLng": {
-				"latitude": 51.40722,
-				"longitude": 33.97917
+				"latitude": 33.97917,
+				"longitude": 51.40722
 			},
 			"collegeType": 201,
 			"title": "شهید حاجی زاده 95121459",
@@ -3461,10 +2981,10 @@
 			"degree": 201
 		},
 		{
-			"id": 140,
+			"id": 120,
 			"latLng": {
-				"latitude": 51.47273,
-				"longitude": 33.98163
+				"latitude": 33.98163,
+				"longitude": 51.47273
 			},
 			"collegeType": 101,
 			"title": "شهید حجازی 38503006",
@@ -3485,10 +3005,10 @@
 			"degree": 101
 		},
 		{
-			"id": 141,
+			"id": 121,
 			"latLng": {
-				"latitude": 51.40722,
-				"longitude": 33.97917
+				"latitude": 33.97917,
+				"longitude": 51.40722
 			},
 			"collegeType": 103,
 			"title": "شهید حسین زاده 38578105",
@@ -3509,34 +3029,34 @@
 			"degree": 103
 		},
 		{
-			"id": 142,
+			"id": 122,
 			"latLng": {
-				"latitude": 51.4537125,
-				"longitude": 33.99392
+				"latitude": 34.01404,
+				"longitude": 51.35232
 			},
-			"collegeType": 202,
-			"title": "شهید سالم 95103334",
+			"collegeType": 102,
+			"title": "شهید شاهرودیان یک 96100882",
 			"telephone": [
-				"0"
+				"55449988"
 			],
-			"address": "کاشان خ طالقانی خ شهید سعادتی",
-			"description": "اول متوسطه عمومی",
+			"address": "بلوار قطب راوندی شهرک قطب بلوار ازادی دبستان",
+			"description": "ابتدایی عمومی",
 			"images": [
 				"assets/img/college.jpg",
 				"assets/img/college.jpg"
 			],
 			"features": [
-				"کد فضا : 11107493 کد پستی : 0",
-				"شهری دولتی شیفت اول",
-				"مستقل عادی شهری عادی"
+				"کد فضا : 11160160 کد پستی : 0",
+				"شهری حمایتی شیفت اول",
+				"مستقل غیردولتی حمایتی شهری عادی"
 			],
-			"degree": 202
+			"degree": 102
 		},
 		{
-			"id": 143,
+			"id": 123,
 			"latLng": {
-				"latitude": 51.40722,
-				"longitude": 33.97917
+				"latitude": 33.97917,
+				"longitude": 51.40722
 			},
 			"collegeType": 101,
 			"title": "شهید شیرخدایی 96013603",
@@ -3557,10 +3077,10 @@
 			"degree": 101
 		},
 		{
-			"id": 144,
+			"id": 124,
 			"latLng": {
-				"latitude": 51.34869,
-				"longitude": 34.04623
+				"latitude": 34.04623,
+				"longitude": 51.34869
 			},
 			"collegeType": 101,
 			"title": "شهید صدوقی 38511400",
@@ -3581,10 +3101,10 @@
 			"degree": 101
 		},
 		{
-			"id": 145,
+			"id": 125,
 			"latLng": {
-				"latitude": 51.44857,
-				"longitude": 33.99842
+				"latitude": 33.99842,
+				"longitude": 51.44857
 			},
 			"collegeType": 102,
 			"title": "شهید علائیان 38507109",
@@ -3605,10 +3125,10 @@
 			"degree": 102
 		},
 		{
-			"id": 146,
+			"id": 126,
 			"latLng": {
-				"latitude": 51.43639,
-				"longitude": 34.0
+				"latitude": 34.0,
+				"longitude": 51.43639
 			},
 			"collegeType": 102,
 			"title": "شهید فخار 1 96014092",
@@ -3629,10 +3149,10 @@
 			"degree": 102
 		},
 		{
-			"id": 147,
+			"id": 127,
 			"latLng": {
-				"latitude": 51.43639,
-				"longitude": 34.0
+				"latitude": 34.0,
+				"longitude": 51.43639
 			},
 			"collegeType": 101,
 			"title": "شهید فخار 2 96014089",
@@ -3653,10 +3173,10 @@
 			"degree": 101
 		},
 		{
-			"id": 148,
+			"id": 128,
 			"latLng": {
-				"latitude": 51.40722,
-				"longitude": 33.97917
+				"latitude": 33.97917,
+				"longitude": 51.40722
 			},
 			"collegeType": 202,
 			"title": "شهید فرجی 95103336",
@@ -3677,10 +3197,10 @@
 			"degree": 202
 		},
 		{
-			"id": 149,
+			"id": 129,
 			"latLng": {
-				"latitude": 51.45969,
-				"longitude": 33.9925
+				"latitude": 33.9925,
+				"longitude": 51.45969
 			},
 			"collegeType": 500,
 			"title": "شهید فهمیده 95121169",
@@ -3701,10 +3221,10 @@
 			"degree": 500
 		},
 		{
-			"id": 150,
+			"id": 130,
 			"latLng": {
-				"latitude": 51.45969,
-				"longitude": 33.9925
+				"latitude": 33.9925,
+				"longitude": 51.45969
 			},
 			"collegeType": 500,
 			"title": "شهید فهمیده 95034963",
@@ -3725,10 +3245,10 @@
 			"degree": 500
 		},
 		{
-			"id": 151,
+			"id": 131,
 			"latLng": {
-				"latitude": 51.45969,
-				"longitude": 33.9925
+				"latitude": 33.9925,
+				"longitude": 51.45969
 			},
 			"collegeType": 500,
 			"title": "شهید فهمیده (کودکستان) 95129791",
@@ -3749,10 +3269,10 @@
 			"degree": 500
 		},
 		{
-			"id": 152,
+			"id": 132,
 			"latLng": {
-				"latitude": 51.40722,
-				"longitude": 33.97917
+				"latitude": 33.97917,
+				"longitude": 51.40722
 			},
 			"collegeType": 101,
 			"title": "شهید قاسمی 96029576",
@@ -3773,10 +3293,10 @@
 			"degree": 101
 		},
 		{
-			"id": 153,
+			"id": 133,
 			"latLng": {
-				"latitude": 51.40722,
-				"longitude": 33.97917
+				"latitude": 33.97917,
+				"longitude": 51.40722
 			},
 			"collegeType": 101,
 			"title": "شهید گلچهرگان 96070648",
@@ -3797,58 +3317,10 @@
 			"degree": 101
 		},
 		{
-			"id": 154,
+			"id": 134,
 			"latLng": {
-				"latitude": 51.4634476,
-				"longitude": 33.9793549
-			},
-			"collegeType": 402,
-			"title": "شهید گلچهرگان 95067324",
-			"telephone": [
-				"55230109"
-			],
-			"address": "کاشان-خیابان رسالت",
-			"description": "هنرستان کاردانش",
-			"images": [
-				"assets/img/college.jpg",
-				"assets/img/college.jpg"
-			],
-			"features": [
-				"کد فضا : 24081598 کد پستی : 8716846116",
-				"شهری دولتی شیفت اول",
-				"مستقل عادی شهری عادی"
-			],
-			"degree": 402
-		},
-		{
-			"id": 155,
-			"latLng": {
-				"latitude": 51.4634476,
-				"longitude": 33.9793549
-			},
-			"collegeType": 402,
-			"title": "شهید گلچهرگان 95067324",
-			"telephone": [
-				"55230109"
-			],
-			"address": "کاشان-خیابان رسالت",
-			"description": "هنرستان کاردانش",
-			"images": [
-				"assets/img/college.jpg",
-				"assets/img/college.jpg"
-			],
-			"features": [
-				"کد فضا : 24081598 کد پستی : 8716846116",
-				"شهری دولتی شیفت اول",
-				"مستقل عادی شهری عادی"
-			],
-			"degree": 402
-		},
-		{
-			"id": 156,
-			"latLng": {
-				"latitude": 51.45923,
-				"longitude": 33.99232
+				"latitude": 33.99232,
+				"longitude": 51.45923
 			},
 			"collegeType": 500,
 			"title": "شهید محمد خیامی 95141378",
@@ -3869,10 +3341,10 @@
 			"degree": 500
 		},
 		{
-			"id": 157,
+			"id": 135,
 			"latLng": {
-				"latitude": 51.45923,
-				"longitude": 33.99232
+				"latitude": 33.99232,
+				"longitude": 51.45923
 			},
 			"collegeType": 500,
 			"title": "شهید محمد خیامی 95141379",
@@ -3893,10 +3365,10 @@
 			"degree": 500
 		},
 		{
-			"id": 158,
+			"id": 136,
 			"latLng": {
-				"latitude": 51.40722,
-				"longitude": 33.97917
+				"latitude": 33.97917,
+				"longitude": 51.40722
 			},
 			"collegeType": 101,
 			"title": "شهید محمود خادمی 96070644",
@@ -3917,10 +3389,10 @@
 			"degree": 101
 		},
 		{
-			"id": 159,
+			"id": 137,
 			"latLng": {
-				"latitude": 51.45585,
-				"longitude": 33.97798
+				"latitude": 33.97798,
+				"longitude": 51.45585
 			},
 			"collegeType": 202,
 			"title": "شهید مطهری 96064392",
@@ -3941,10 +3413,10 @@
 			"degree": 202
 		},
 		{
-			"id": 160,
+			"id": 138,
 			"latLng": {
-				"latitude": 51.40722,
-				"longitude": 33.97917
+				"latitude": 33.97917,
+				"longitude": 51.40722
 			},
 			"collegeType": 101,
 			"title": "شهید معمار 96070666",
@@ -3965,34 +3437,10 @@
 			"degree": 101
 		},
 		{
-			"id": 161,
+			"id": 139,
 			"latLng": {
-				"latitude": 51.45738,
-				"longitude": 33.99244
-			},
-			"collegeType": 102,
-			"title": "شهید مفتح 38507204",
-			"telephone": [
-				"4448737"
-			],
-			"address": "کاشان خ طالقانی کوچه محراب16",
-			"description": "ابتدایی عمومی",
-			"images": [
-				"assets/img/college.jpg",
-				"assets/img/college.jpg"
-			],
-			"features": [
-				"کد فضا : 11159927 کد پستی : 871667369",
-				"شهری دولتی شیفت اول",
-				"مستقل عادی شهری عادی"
-			],
-			"degree": 102
-		},
-		{
-			"id": 162,
-			"latLng": {
-				"latitude": 51.34165,
-				"longitude": 34.02151
+				"latitude": 34.02151,
+				"longitude": 51.34165
 			},
 			"collegeType": 101,
 			"title": "شهید مهدی عراقی 38511707",
@@ -4013,10 +3461,10 @@
 			"degree": 101
 		},
 		{
-			"id": 163,
+			"id": 140,
 			"latLng": {
-				"latitude": 51.43444,
-				"longitude": 33.97472
+				"latitude": 33.97472,
+				"longitude": 51.43444
 			},
 			"collegeType": 101,
 			"title": "شهید مهدی هنردار 96070892",
@@ -4037,10 +3485,10 @@
 			"degree": 101
 		},
 		{
-			"id": 164,
+			"id": 141,
 			"latLng": {
-				"latitude": 51.40722,
-				"longitude": 33.97917
+				"latitude": 33.97917,
+				"longitude": 51.40722
 			},
 			"collegeType": 202,
 			"title": "شهید نوری 95103341",
@@ -4061,10 +3509,10 @@
 			"degree": 202
 		},
 		{
-			"id": 165,
+			"id": 142,
 			"latLng": {
-				"latitude": 51.27989,
-				"longitude": 34.2491
+				"latitude": 34.2491,
+				"longitude": 51.27989
 			},
 			"collegeType": 103,
 			"title": "شهید هاشمی سن سن 96045785",
@@ -4085,10 +3533,10 @@
 			"degree": 103
 		},
 		{
-			"id": 166,
+			"id": 143,
 			"latLng": {
-				"latitude": 51.46079,
-				"longitude": 33.93079
+				"latitude": 33.93079,
+				"longitude": 51.46079
 			},
 			"collegeType": 202,
 			"title": "شهید واحدی 95103337",
@@ -4109,10 +3557,10 @@
 			"degree": 202
 		},
 		{
-			"id": 167,
+			"id": 144,
 			"latLng": {
-				"latitude": 51.44838,
-				"longitude": 33.99469
+				"latitude": 33.99469,
+				"longitude": 51.44838
 			},
 			"collegeType": 101,
 			"title": "شهید کلانتری 38511506",
@@ -4133,10 +3581,10 @@
 			"degree": 101
 		},
 		{
-			"id": 168,
+			"id": 145,
 			"latLng": {
-				"latitude": 51.45055,
-				"longitude": 33.97167
+				"latitude": 33.97167,
+				"longitude": 51.45055
 			},
 			"collegeType": 102,
 			"title": "شهید یوسف پور 96070654",
@@ -4157,10 +3605,10 @@
 			"degree": 102
 		},
 		{
-			"id": 169,
+			"id": 146,
 			"latLng": {
-				"latitude": 51.40055,
-				"longitude": 33.95084
+				"latitude": 33.95084,
+				"longitude": 51.40055
 			},
 			"collegeType": 102,
 			"title": "شهیدآیت اله مدنی یک 38516706",
@@ -4181,10 +3629,10 @@
 			"degree": 102
 		},
 		{
-			"id": 170,
+			"id": 147,
 			"latLng": {
-				"latitude": 51.40722,
-				"longitude": 33.97917
+				"latitude": 33.97917,
+				"longitude": 51.40722
 			},
 			"collegeType": 201,
 			"title": "شهیدان تقی زاده 96014103",
@@ -4205,34 +3653,34 @@
 			"degree": 201
 		},
 		{
-			"id": 171,
+			"id": 148,
 			"latLng": {
-				"latitude": 51.45533,
-				"longitude": 34.00524
+				"latitude": 33.97917,
+				"longitude": 51.40722
 			},
-			"collegeType": 101,
-			"title": "شهیداکبرنقاده (2) 96081559",
+			"collegeType": 103,
+			"title": "شهیدان رجبی 96100894",
 			"telephone": [
 				"55449988"
 			],
-			"address": "0",
-			"description": "ابتدایی دوره دوم عمومی",
+			"address": "کاشان ازناوه مدرسه شهیدرجبی",
+			"description": "ابتدایی عمومی",
 			"images": [
 				"assets/img/college.jpg",
 				"assets/img/college.jpg"
 			],
 			"features": [
-				"کد فضا : 0 کد پستی : 0",
-				"شهری دولتی شیفت دوم",
-				"مستقل عادی شهری عادی"
+				"کد فضا : 11119291 کد پستی : 0",
+				"روستایی دولتی شیفت اول",
+				"مستقل عادی روستایی عادی"
 			],
-			"degree": 101
+			"degree": 103
 		},
 		{
-			"id": 172,
+			"id": 149,
 			"latLng": {
-				"latitude": 51.40722,
-				"longitude": 33.97917
+				"latitude": 33.97917,
+				"longitude": 51.40722
 			},
 			"collegeType": 202,
 			"title": "شهیدجمال 95103330",
@@ -4253,10 +3701,10 @@
 			"degree": 202
 		},
 		{
-			"id": 173,
+			"id": 150,
 			"latLng": {
-				"latitude": 51.07972,
-				"longitude": 34.04139
+				"latitude": 34.04139,
+				"longitude": 51.07972
 			},
 			"collegeType": 103,
 			"title": "شهیدچمران 38553801",
@@ -4277,10 +3725,10 @@
 			"degree": 103
 		},
 		{
-			"id": 174,
+			"id": 151,
 			"latLng": {
-				"latitude": 51.40722,
-				"longitude": 33.97917
+				"latitude": 33.97917,
+				"longitude": 51.40722
 			},
 			"collegeType": 302,
 			"title": "شهیدحاج محسن پورمحمدیان 96013845",
@@ -4301,10 +3749,10 @@
 			"degree": 302
 		},
 		{
-			"id": 175,
+			"id": 152,
 			"latLng": {
-				"latitude": 51.42762,
-				"longitude": 33.98783
+				"latitude": 33.98783,
+				"longitude": 51.42762
 			},
 			"collegeType": 202,
 			"title": "شهیدرحمانی 95103332",
@@ -4325,10 +3773,10 @@
 			"degree": 202
 		},
 		{
-			"id": 176,
+			"id": 153,
 			"latLng": {
-				"latitude": 51.43444,
-				"longitude": 33.97472
+				"latitude": 33.97472,
+				"longitude": 51.43444
 			},
 			"collegeType": 102,
 			"title": "شهیدرحمت اله روحانی 38553600",
@@ -4349,10 +3797,10 @@
 			"degree": 102
 		},
 		{
-			"id": 177,
+			"id": 154,
 			"latLng": {
-				"latitude": 51.03416,
-				"longitude": 33.68027
+				"latitude": 33.68027,
+				"longitude": 51.03416
 			},
 			"collegeType": 103,
 			"title": "شهیدرضوی تجره 38520606",
@@ -4373,10 +3821,10 @@
 			"degree": 103
 		},
 		{
-			"id": 178,
+			"id": 155,
 			"latLng": {
-				"latitude": 51.15668,
-				"longitude": 33.90714
+				"latitude": 33.90714,
+				"longitude": 51.15668
 			},
 			"collegeType": 103,
 			"title": "شهیدسیدمرتضی هاشمی رضا 38569407",
@@ -4397,10 +3845,10 @@
 			"degree": 103
 		},
 		{
-			"id": 179,
+			"id": 156,
 			"latLng": {
-				"latitude": 51.35232,
-				"longitude": 34.01404
+				"latitude": 34.01404,
+				"longitude": 51.35232
 			},
 			"collegeType": 101,
 			"title": "شهیدشاهرودیان دو 38512709",
@@ -4421,10 +3869,10 @@
 			"degree": 101
 		},
 		{
-			"id": 180,
+			"id": 157,
 			"latLng": {
-				"latitude": 51.40722,
-				"longitude": 33.97917
+				"latitude": 33.97917,
+				"longitude": 51.40722
 			},
 			"collegeType": 102,
 			"title": "شهیدعبدالحمیددیالمه 96013646",
@@ -4445,10 +3893,10 @@
 			"degree": 102
 		},
 		{
-			"id": 181,
+			"id": 158,
 			"latLng": {
-				"latitude": 51.43388,
-				"longitude": 34.00441
+				"latitude": 34.00441,
+				"longitude": 51.43388
 			},
 			"collegeType": 102,
 			"title": "شهیدعلیرضایزدانی یک 38507807",
@@ -4469,10 +3917,10 @@
 			"degree": 102
 		},
 		{
-			"id": 182,
+			"id": 159,
 			"latLng": {
-				"latitude": 51.04546,
-				"longitude": 33.71757
+				"latitude": 33.71757,
+				"longitude": 51.04546
 			},
 			"collegeType": 103,
 			"title": "شهیدفارسی ورکان 38512901",
@@ -4493,10 +3941,10 @@
 			"degree": 103
 		},
 		{
-			"id": 183,
+			"id": 160,
 			"latLng": {
-				"latitude": 51.152977,
-				"longitude": 33.97447
+				"latitude": 34.0,
+				"longitude": 51.43639
 			},
 			"collegeType": 201,
 			"title": "شهیدقاسمی نیاسر 95103218",
@@ -4517,10 +3965,10 @@
 			"degree": 201
 		},
 		{
-			"id": 184,
+			"id": 161,
 			"latLng": {
-				"latitude": 51.34944,
-				"longitude": 34.04694
+				"latitude": 34.04694,
+				"longitude": 51.34944
 			},
 			"collegeType": 102,
 			"title": "شهیدقاضی طباطبائی 38517306",
@@ -4541,10 +3989,10 @@
 			"degree": 102
 		},
 		{
-			"id": 185,
+			"id": 162,
 			"latLng": {
-				"latitude": 51.13173,
-				"longitude": 33.71213
+				"latitude": 33.71213,
+				"longitude": 51.13173
 			},
 			"collegeType": 103,
 			"title": "شهیدلطیفی 38560104",
@@ -4565,34 +4013,10 @@
 			"degree": 103
 		},
 		{
-			"id": 186,
+			"id": 163,
 			"latLng": {
-				"latitude": 51.4399834,
-				"longitude": 33.992836
-			},
-			"collegeType": 302,
-			"title": "شهیدمازوچی 38591507",
-			"telephone": [
-				"4468183"
-			],
-			"address": "خیابان شاهد",
-			"description": "دوم متوسطه نظری",
-			"images": [
-				"assets/img/college.jpg",
-				"assets/img/college.jpg"
-			],
-			"features": [
-				"کد فضا : 20677978 کد پستی : 871473343",
-				"شهری دولتی شیفت اول",
-				"ضمیمه دارد نمونه دولتی شهری عادی"
-			],
-			"degree": 302
-		},
-		{
-			"id": 187,
-			"latLng": {
-				"latitude": 51.22499,
-				"longitude": 33.78138
+				"latitude": 33.78138,
+				"longitude": 51.22499
 			},
 			"collegeType": 201,
 			"title": "شهیدمیرزایی برزک 95103222",
@@ -4613,10 +4037,10 @@
 			"degree": 201
 		},
 		{
-			"id": 188,
+			"id": 164,
 			"latLng": {
-				"latitude": 51.18867,
-				"longitude": 33.55776
+				"latitude": 33.55776,
+				"longitude": 51.18867
 			},
 			"collegeType": 103,
 			"title": "شهیدنوراله سبزواری 38522007",
@@ -4637,10 +4061,10 @@
 			"degree": 103
 		},
 		{
-			"id": 189,
+			"id": 165,
 			"latLng": {
-				"latitude": 51.442,
-				"longitude": 34.0008
+				"latitude": 34.0008,
+				"longitude": 51.442
 			},
 			"collegeType": 102,
 			"title": "شهیدهاشمی نژاد 38505105",
@@ -4661,10 +4085,10 @@
 			"degree": 102
 		},
 		{
-			"id": 190,
+			"id": 166,
 			"latLng": {
-				"latitude": 51.24139,
-				"longitude": 34.01972
+				"latitude": 34.01972,
+				"longitude": 51.24139
 			},
 			"collegeType": 103,
 			"title": "شهیدهدهدی 38578909",
@@ -4685,10 +4109,10 @@
 			"degree": 103
 		},
 		{
-			"id": 191,
+			"id": 167,
 			"latLng": {
-				"latitude": 51.43819,
-				"longitude": 33.96379
+				"latitude": 33.96379,
+				"longitude": 51.43819
 			},
 			"collegeType": 201,
 			"title": "شهیدکاظمی لتحر 95103220",
@@ -4709,10 +4133,10 @@
 			"degree": 201
 		},
 		{
-			"id": 192,
+			"id": 168,
 			"latLng": {
-				"latitude": 51.07334,
-				"longitude": 33.99112
+				"latitude": 33.99112,
+				"longitude": 51.07334
 			},
 			"collegeType": 103,
 			"title": "شهیدکمرانیان زاده نشلج 38560201",
@@ -4733,10 +4157,10 @@
 			"degree": 103
 		},
 		{
-			"id": 193,
+			"id": 169,
 			"latLng": {
-				"latitude": 51.165,
-				"longitude": 33.84027
+				"latitude": 33.84027,
+				"longitude": 51.165
 			},
 			"collegeType": 201,
 			"title": "صادقیه ویدوج 95103269",
@@ -4757,10 +4181,10 @@
 			"degree": 201
 		},
 		{
-			"id": 194,
+			"id": 170,
 			"latLng": {
-				"latitude": 51.10366,
-				"longitude": 34.08985
+				"latitude": 34.08985,
+				"longitude": 51.10366
 			},
 			"collegeType": 103,
 			"title": "صالح کله 38522303",
@@ -4781,10 +4205,10 @@
 			"degree": 103
 		},
 		{
-			"id": 195,
+			"id": 171,
 			"latLng": {
-				"latitude": 51.15962,
-				"longitude": 33.97164
+				"latitude": 33.97164,
+				"longitude": 51.15962
 			},
 			"collegeType": 201,
 			"title": "صفاری 95123933",
@@ -4805,34 +4229,10 @@
 			"degree": 201
 		},
 		{
-			"id": 196,
+			"id": 172,
 			"latLng": {
-				"latitude": 51.43922,
-				"longitude": 33.98806
-			},
-			"collegeType": 101,
-			"title": "صلاحی 96070899",
-			"telephone": [
-				"55449988"
-			],
-			"address": "کاشان خیابان شهید بهشتی خیابان سپاه پاسداران",
-			"description": "ابتدایی دوره دوم عمومی",
-			"images": [
-				"assets/img/college.jpg",
-				"assets/img/college.jpg"
-			],
-			"features": [
-				"کد فضا : 11196428 کد پستی : 0",
-				"شهری دولتی شیفت اول",
-				"مستقل عادی شهری عادی"
-			],
-			"degree": 101
-		},
-		{
-			"id": 197,
-			"latLng": {
-				"latitude": 51.46386,
-				"longitude": 33.97966
+				"latitude": 33.97966,
+				"longitude": 51.46386
 			},
 			"collegeType": 102,
 			"title": "طالبیان 38508005",
@@ -4853,10 +4253,10 @@
 			"degree": 102
 		},
 		{
-			"id": 198,
+			"id": 173,
 			"latLng": {
-				"latitude": 51.40722,
-				"longitude": 33.97917
+				"latitude": 33.97917,
+				"longitude": 51.40722
 			},
 			"collegeType": 102,
 			"title": "طالقانی 95141381",
@@ -4877,10 +4277,10 @@
 			"degree": 102
 		},
 		{
-			"id": 199,
+			"id": 174,
 			"latLng": {
-				"latitude": 51.05361,
-				"longitude": 34.03611
+				"latitude": 34.03611,
+				"longitude": 51.05361
 			},
 			"collegeType": 103,
 			"title": "طاهری باریکرسف 96070865",
@@ -4901,10 +4301,10 @@
 			"degree": 103
 		},
 		{
-			"id": 200,
+			"id": 175,
 			"latLng": {
-				"latitude": 51.40722,
-				"longitude": 33.97917
+				"latitude": 33.97917,
+				"longitude": 51.40722
 			},
 			"collegeType": 202,
 			"title": "عترت راوند 95103343",
@@ -4925,34 +4325,10 @@
 			"degree": 202
 		},
 		{
-			"id": 201,
+			"id": 176,
 			"latLng": {
-				"latitude": 51.4174767,
-				"longitude": 33.99283
-			},
-			"collegeType": 202,
-			"title": "علی ابن ابیطالب 96081536",
-			"telephone": [
-				"55449988"
-			],
-			"address": "0",
-			"description": "اول متوسطه عمومی",
-			"images": [
-				"assets/img/college.jpg",
-				"assets/img/college.jpg"
-			],
-			"features": [
-				"کد فضا : 0 کد پستی : 0",
-				"شهری دولتی شیفت اول",
-				"مستقل عادی شهری عادی"
-			],
-			"degree": 202
-		},
-		{
-			"id": 202,
-			"latLng": {
-				"latitude": 51.44224,
-				"longitude": 33.98995
+				"latitude": 33.98995,
+				"longitude": 51.44224
 			},
 			"collegeType": 401,
 			"title": "علی شهیدنراقی 38588408",
@@ -4973,10 +4349,10 @@
 			"degree": 401
 		},
 		{
-			"id": 203,
+			"id": 177,
 			"latLng": {
-				"latitude": 51.44224,
-				"longitude": 33.98995
+				"latitude": 33.98995,
+				"longitude": 51.44224
 			},
 			"collegeType": 401,
 			"title": "علی شهیدنراقی کاشان (نساجی ) 38538702",
@@ -4997,10 +4373,10 @@
 			"degree": 401
 		},
 		{
-			"id": 204,
+			"id": 178,
 			"latLng": {
-				"latitude": 51.42527,
-				"longitude": 33.98555
+				"latitude": 33.98555,
+				"longitude": 51.42527
 			},
 			"collegeType": 101,
 			"title": "فاضل نراقی 96070864",
@@ -5021,10 +4397,10 @@
 			"degree": 101
 		},
 		{
-			"id": 205,
+			"id": 179,
 			"latLng": {
-				"latitude": 51.42527,
-				"longitude": 33.98555
+				"latitude": 33.98555,
+				"longitude": 51.42527
 			},
 			"collegeType": 101,
 			"title": "فاضل نراقی 96040093",
@@ -5045,10 +4421,10 @@
 			"degree": 101
 		},
 		{
-			"id": 206,
+			"id": 180,
 			"latLng": {
-				"latitude": 51.43194,
-				"longitude": 33.99027
+				"latitude": 33.99027,
+				"longitude": 51.43194
 			},
 			"collegeType": 302,
 			"title": "فاطمه زهرا (س) 95121470",
@@ -5069,10 +4445,10 @@
 			"degree": 302
 		},
 		{
-			"id": 207,
+			"id": 181,
 			"latLng": {
-				"latitude": 51.40039,
-				"longitude": 33.96945
+				"latitude": 33.96945,
+				"longitude": 51.40039
 			},
 			"collegeType": 101,
 			"title": "فاطمه عابد سلطان 2 95059255",
@@ -5093,10 +4469,10 @@
 			"degree": 101
 		},
 		{
-			"id": 208,
+			"id": 182,
 			"latLng": {
-				"latitude": 51.40611,
-				"longitude": 33.98964
+				"latitude": 33.98964,
+				"longitude": 51.40611
 			},
 			"collegeType": 102,
 			"title": "فردوسی 2 96015995",
@@ -5117,10 +4493,10 @@
 			"degree": 102
 		},
 		{
-			"id": 209,
+			"id": 183,
 			"latLng": {
-				"latitude": 51.40611,
-				"longitude": 33.98964
+				"latitude": 33.98964,
+				"longitude": 51.40611
 			},
 			"collegeType": 102,
 			"title": "فردوسی یک 96070649",
@@ -5141,10 +4517,10 @@
 			"degree": 102
 		},
 		{
-			"id": 210,
+			"id": 184,
 			"latLng": {
-				"latitude": 51.27989,
-				"longitude": 34.2491
+				"latitude": 34.2491,
+				"longitude": 51.27989
 			},
 			"collegeType": 202,
 			"title": "فرش سپهر سن سن 95103381",
@@ -5165,34 +4541,10 @@
 			"degree": 202
 		},
 		{
-			"id": 211,
+			"id": 185,
 			"latLng": {
-				"latitude": 51.4375839,
-				"longitude": 33.9866829
-			},
-			"collegeType": 102,
-			"title": "فقیه 96081557",
-			"telephone": [
-				"55449988"
-			],
-			"address": "0",
-			"description": "ابتدایی دوره اول عمومی",
-			"images": [
-				"assets/img/college.jpg",
-				"assets/img/college.jpg"
-			],
-			"features": [
-				"کد فضا : 0 کد پستی : 0",
-				"شهری دولتی شیفت اول",
-				"مستقل عادی شهری عادی"
-			],
-			"degree": 102
-		},
-		{
-			"id": 212,
-			"latLng": {
-				"latitude": 51.34056,
-				"longitude": 34.02528
+				"latitude": 34.02528,
+				"longitude": 51.34056
 			},
 			"collegeType": 201,
 			"title": "قطب راوندی 95103228",
@@ -5213,10 +4565,10 @@
 			"degree": 201
 		},
 		{
-			"id": 213,
+			"id": 186,
 			"latLng": {
-				"latitude": 51.44659,
-				"longitude": 33.98723
+				"latitude": 33.98723,
+				"longitude": 51.44659
 			},
 			"collegeType": 102,
 			"title": "لاجوردی (2) 38571102",
@@ -5237,10 +4589,10 @@
 			"degree": 102
 		},
 		{
-			"id": 214,
+			"id": 187,
 			"latLng": {
-				"latitude": 51.44659,
-				"longitude": 33.98723
+				"latitude": 33.98723,
+				"longitude": 51.44659
 			},
 			"collegeType": 101,
 			"title": "لاجوردی 1 96013604",
@@ -5261,34 +4613,10 @@
 			"degree": 101
 		},
 		{
-			"id": 215,
+			"id": 188,
 			"latLng": {
-				"latitude": 33.985054,
-				"longitude": 33.985054
-			},
-			"collegeType": 102,
-			"title": "مادر 96014096",
-			"telephone": [
-				"3"
-			],
-			"address": "کاشان،شهرک امیرالمومنین،روبروی مجتمع سرافرازی ،مدرسه خانم اصفهانیان",
-			"description": "ابتدایی عمومی",
-			"images": [
-				"assets/img/college.jpg",
-				"assets/img/college.jpg"
-			],
-			"features": [
-				"کد فضا : 24418201 کد پستی : 0",
-				"شهری دولتی شیفت اول",
-				"مستقل عادی شهری عادی"
-			],
-			"degree": 102
-		},
-		{
-			"id": 216,
-			"latLng": {
-				"latitude": 51.44196,
-				"longitude": 33.99026
+				"latitude": 33.99026,
+				"longitude": 51.44196
 			},
 			"collegeType": 302,
 			"title": "مجتمع ایثارگران زینب (س ) 38555107",
@@ -5309,10 +4637,10 @@
 			"degree": 302
 		},
 		{
-			"id": 217,
+			"id": 189,
 			"latLng": {
-				"latitude": 51.45969,
-				"longitude": 33.9925
+				"latitude": 33.9925,
+				"longitude": 51.45969
 			},
 			"collegeType": 500,
 			"title": "مجتمع آموزشی شهیدفهمیده کاشان 39136206",
@@ -5333,10 +4661,10 @@
 			"degree": 500
 		},
 		{
-			"id": 218,
+			"id": 190,
 			"latLng": {
-				"latitude": 51.40722,
-				"longitude": 33.97917
+				"latitude": 33.97917,
+				"longitude": 51.40722
 			},
 			"collegeType": 102,
 			"title": "مجلسی 96013643",
@@ -5357,10 +4685,10 @@
 			"degree": 102
 		},
 		{
-			"id": 219,
+			"id": 191,
 			"latLng": {
-				"latitude": 51.40722,
-				"longitude": 33.97917
+				"latitude": 33.97917,
+				"longitude": 51.40722
 			},
 			"collegeType": 301,
 			"title": "محمودیه 95121465",
@@ -5381,10 +4709,10 @@
 			"degree": 301
 		},
 		{
-			"id": 220,
+			"id": 192,
 			"latLng": {
-				"latitude": 51.40722,
-				"longitude": 33.97917
+				"latitude": 33.97917,
+				"longitude": 51.40722
 			},
 			"collegeType": 202,
 			"title": "مخمل و ابریشم جوشقان 95103385",
@@ -5405,10 +4733,10 @@
 			"degree": 202
 		},
 		{
-			"id": 221,
+			"id": 193,
 			"latLng": {
-				"latitude": 51.40722,
-				"longitude": 33.97917
+				"latitude": 33.97917,
+				"longitude": 51.40722
 			},
 			"collegeType": 201,
 			"title": "مدرس 96013824",
@@ -5429,10 +4757,10 @@
 			"degree": 201
 		},
 		{
-			"id": 222,
+			"id": 194,
 			"latLng": {
-				"latitude": 51.43958,
-				"longitude": 33.98089
+				"latitude": 33.98089,
+				"longitude": 51.43958
 			},
 			"collegeType": 102,
 			"title": "مسلم بن عقیل 38583601",
@@ -5453,10 +4781,10 @@
 			"degree": 102
 		},
 		{
-			"id": 223,
+			"id": 195,
 			"latLng": {
-				"latitude": 51.15323,
-				"longitude": 33.97434
+				"latitude": 33.97434,
+				"longitude": 51.15323
 			},
 			"collegeType": 101,
 			"title": "مسلم بن عقیل نیاسر 96070665",
@@ -5477,10 +4805,10 @@
 			"degree": 101
 		},
 		{
-			"id": 224,
+			"id": 196,
 			"latLng": {
-				"latitude": 51.43871,
-				"longitude": 33.96239
+				"latitude": 33.96239,
+				"longitude": 51.43871
 			},
 			"collegeType": 202,
 			"title": "مصلحی لتحر 95103356",
@@ -5501,10 +4829,10 @@
 			"degree": 202
 		},
 		{
-			"id": 225,
+			"id": 197,
 			"latLng": {
-				"latitude": 51.40722,
-				"longitude": 33.97917
+				"latitude": 33.97917,
+				"longitude": 51.40722
 			},
 			"collegeType": 301,
 			"title": "ملامحسن فیض کاشانی 95059249",
@@ -5525,10 +4853,10 @@
 			"degree": 301
 		},
 		{
-			"id": 226,
+			"id": 198,
 			"latLng": {
-				"latitude": 51.28972,
-				"longitude": 34.29611
+				"latitude": 34.29611,
+				"longitude": 51.28972
 			},
 			"collegeType": 203,
 			"title": "منوچهری آب شیرین 1 95128374",
@@ -5549,34 +4877,10 @@
 			"degree": 203
 		},
 		{
-			"id": 227,
+			"id": 199,
 			"latLng": {
-				"latitude": 51.38557,
-				"longitude": 33.9390259
-			},
-			"collegeType": 102,
-			"title": "مهر(1) 96081562",
-			"telephone": [
-				"55349590"
-			],
-			"address": "کاشان - جنب پروژه های مسکونی مسکن مهر",
-			"description": "ابتدایی دوره اول عمومی",
-			"images": [
-				"assets/img/college.jpg",
-				"assets/img/college.jpg"
-			],
-			"features": [
-				"کد فضا : 24049667 کد پستی : 0",
-				"شهری دولتی شیفت اول",
-				"مستقل عادی شهری عادی"
-			],
-			"degree": 102
-		},
-		{
-			"id": 228,
-			"latLng": {
-				"latitude": 51.40722,
-				"longitude": 33.97917
+				"latitude": 33.97917,
+				"longitude": 51.40722
 			},
 			"collegeType": 102,
 			"title": "مهر(2) 96081561",
@@ -5597,10 +4901,10 @@
 			"degree": 102
 		},
 		{
-			"id": 229,
+			"id": 200,
 			"latLng": {
-				"latitude": 51.40722,
-				"longitude": 33.97917
+				"latitude": 33.97917,
+				"longitude": 51.40722
 			},
 			"collegeType": 102,
 			"title": "مهندس امینی 96040095",
@@ -5621,10 +4925,10 @@
 			"degree": 102
 		},
 		{
-			"id": 230,
+			"id": 201,
 			"latLng": {
-				"latitude": 51.40722,
-				"longitude": 33.97917
+				"latitude": 33.97917,
+				"longitude": 51.40722
 			},
 			"collegeType": 101,
 			"title": "مکی فین 96029566",
@@ -5645,10 +4949,10 @@
 			"degree": 101
 		},
 		{
-			"id": 231,
+			"id": 202,
 			"latLng": {
-				"latitude": 51.40722,
-				"longitude": 33.97917
+				"latitude": 33.97917,
+				"longitude": 51.40722
 			},
 			"collegeType": 202,
 			"title": "میرزایی راوند 95103350",
@@ -5669,10 +4973,10 @@
 			"degree": 202
 		},
 		{
-			"id": 232,
+			"id": 203,
 			"latLng": {
-				"latitude": 51.40722,
-				"longitude": 33.97917
+				"latitude": 33.97917,
+				"longitude": 51.40722
 			},
 			"collegeType": 101,
 			"title": "نبوی 95096794",
@@ -5693,10 +4997,10 @@
 			"degree": 101
 		},
 		{
-			"id": 233,
+			"id": 204,
 			"latLng": {
-				"latitude": 51.46384,
-				"longitude": 33.99303
+				"latitude": 33.99303,
+				"longitude": 51.46384
 			},
 			"collegeType": 302,
 			"title": "نرجس (س ) 38541401",
@@ -5717,10 +5021,10 @@
 			"degree": 302
 		},
 		{
-			"id": 234,
+			"id": 205,
 			"latLng": {
-				"latitude": 51.449646,
-				"longitude": 33.9716034
+				"latitude": 34.17479,
+				"longitude": 51.26392
 			},
 			"collegeType": 202,
 			"title": "نور مشکات 95103358",
@@ -5741,10 +5045,10 @@
 			"degree": 202
 		},
 		{
-			"id": 235,
+			"id": 206,
 			"latLng": {
-				"latitude": 51.3517952,
-				"longitude": 34.013134
+				"latitude": 33.97917,
+				"longitude": 51.40722
 			},
 			"collegeType": 202,
 			"title": "نوریان 96013636",
@@ -5765,10 +5069,10 @@
 			"degree": 202
 		},
 		{
-			"id": 236,
+			"id": 207,
 			"latLng": {
-				"latitude": 51.42469,
-				"longitude": 33.9803963
+				"latitude": 33.74777,
+				"longitude": 51.42586
 			},
 			"collegeType": 201,
 			"title": "نیمه شعبان قمصر 95103232",
@@ -5789,10 +5093,10 @@
 			"degree": 201
 		},
 		{
-			"id": 237,
+			"id": 208,
 			"latLng": {
-				"latitude": 51.4399948,
-				"longitude": 33.9751778
+				"latitude": 34.04246,
+				"longitude": 51.09844
 			},
 			"collegeType": 103,
 			"title": "هاجر 38524000",
@@ -5813,34 +5117,10 @@
 			"degree": 103
 		},
 		{
-			"id": 238,
+			"id": 209,
 			"latLng": {
-				"latitude": 51.43519,
-				"longitude": 34.00583
-			},
-			"collegeType": 301,
-			"title": "هاشم زاده 95015858",
-			"telephone": [
-				"5426060"
-			],
-			"address": "کاشان بلوار دانش جنب پارک آیت اله مدنی",
-			"description": "دوم متوسطه نظری",
-			"images": [
-				"assets/img/college.jpg",
-				"assets/img/college.jpg"
-			],
-			"features": [
-				"کد فضا : 20679501 کد پستی : 871488363",
-				"شهری دولتی شیفت اول",
-				"مستقل عادی شهری عادی"
-			],
-			"degree": 301
-		},
-		{
-			"id": 239,
-			"latLng": {
-				"latitude": 51.40916,
-				"longitude": 33.9533234
+				"latitude": 33.93083,
+				"longitude": 51.46167
 			},
 			"collegeType": 101,
 			"title": "هجرت شهرک 22 بهمن 95154067",
@@ -5861,10 +5141,10 @@
 			"degree": 101
 		},
 		{
-			"id": 240,
+			"id": 210,
 			"latLng": {
-				"latitude": 51.4399834,
-				"longitude": 33.992836
+				"latitude": 33.97917,
+				"longitude": 51.40722
 			},
 			"collegeType": 401,
 			"title": "هنرستان فنی محمدنراقی 38538808",
@@ -5885,10 +5165,10 @@
 			"degree": 401
 		},
 		{
-			"id": 241,
+			"id": 211,
 			"latLng": {
-				"latitude": 51.4399834,
-				"longitude": 33.992836
+				"latitude": 33.97917,
+				"longitude": 51.40722
 			},
 			"collegeType": 401,
 			"title": "هنرستان فنی محمدنراقی 38538808",
@@ -5909,154 +5189,10 @@
 			"degree": 401
 		},
 		{
-			"id": 242,
+			"id": 212,
 			"latLng": {
-				"latitude": 51.43922,
-				"longitude": 33.98806
-			},
-			"collegeType": 401,
-			"title": "هنرستان کاردانش حضرت آیت اله یثربی 38547707",
-			"telephone": [
-				"4220022"
-			],
-			"address": "خیابان آیت اله یثربی کوچه شهیداحسان روحی",
-			"description": "هنرستان کاردانش",
-			"images": [
-				"assets/img/college.jpg",
-				"assets/img/college.jpg"
-			],
-			"features": [
-				"کد فضا : 11288059 کد پستی : 871685713",
-				"شهری دولتی شیفت اول",
-				"مستقل عادی شهری عادی"
-			],
-			"degree": 401
-		},
-		{
-			"id": 243,
-			"latLng": {
-				"latitude": 51.43922,
-				"longitude": 33.98806
-			},
-			"collegeType": 401,
-			"title": "هنرستان کاردانش حضرت آیت اله یثربی 38547707",
-			"telephone": [
-				"4220022"
-			],
-			"address": "خیابان آیت اله یثربی کوچه شهیداحسان روحی",
-			"description": "هنرستان کاردانش",
-			"images": [
-				"assets/img/college.jpg",
-				"assets/img/college.jpg"
-			],
-			"features": [
-				"کد فضا : 11288059 کد پستی : 871685713",
-				"شهری دولتی شیفت اول",
-				"مستقل عادی شهری عادی"
-			],
-			"degree": 401
-		},
-		{
-			"id": 244,
-			"latLng": {
-				"latitude": 51.4375839,
-				"longitude": 33.9866829
-			},
-			"collegeType": 402,
-			"title": "هنرستان کاردانش دستمالچی 38572802",
-			"telephone": [
-				"4442655"
-			],
-			"address": "شهیدرجایی کوچه مخابرات",
-			"description": "هنرستان کاردانش",
-			"images": [
-				"assets/img/college.jpg",
-				"assets/img/college.jpg"
-			],
-			"features": [
-				"کد فضا : 11209696 کد پستی : 871376113",
-				"شهری دولتی شیفت اول",
-				"مستقل عادی شهری عادی"
-			],
-			"degree": 402
-		},
-		{
-			"id": 245,
-			"latLng": {
-				"latitude": 51.4333763,
-				"longitude": 33.99254
-			},
-			"collegeType": 101,
-			"title": "واحدی پور 96029572",
-			"telephone": [
-				"3"
-			],
-			"address": "کاشان - خ نطنز - مدرسه واحدی",
-			"description": "ابتدایی عمومی",
-			"images": [
-				"assets/img/college.jpg",
-				"assets/img/college.jpg"
-			],
-			"features": [
-				"کد فضا : 24063617 کد پستی : 0",
-				"شهری حمایتی شیفت اول",
-				"مستقل غیردولتی حمایتی شهری عادی"
-			],
-			"degree": 101
-		},
-		{
-			"id": 246,
-			"latLng": {
-				"latitude": 51.43351,
-				"longitude": 33.9994164
-			},
-			"collegeType": 103,
-			"title": "وحدت 96045790",
-			"telephone": [
-				"55449988"
-			],
-			"address": "خیابان امام خمینی .کوچه دروازه قدیر",
-			"description": "ابتدایی عمومی",
-			"images": [
-				"assets/img/college.jpg",
-				"assets/img/college.jpg"
-			],
-			"features": [
-				"کد فضا : 11209972 کد پستی : 8716657784",
-				"شهری حمایتی شیفت اول",
-				"مستقل غیردولتی حمایتی شهری عادی"
-			],
-			"degree": 103
-		},
-		{
-			"id": 247,
-			"latLng": {
-				"latitude": 51.9991722,
-				"longitude": 33.733078
-			},
-			"collegeType": 101,
-			"title": "وحدت(2) 96086180",
-			"telephone": [
-				"55449988"
-			],
-			"address": "0",
-			"description": "ابتدایی عمومی",
-			"images": [
-				"assets/img/college.jpg",
-				"assets/img/college.jpg"
-			],
-			"features": [
-				"کد فضا : 0 کد پستی : 0",
-				"شهری حمایتی شیفت اول",
-				"مستقل غیردولتی حمایتی شهری عادی"
-			],
-			"degree": 101
-		},
-		{
-			"id": 248,
-			"latLng": {
-				"latitude": 51.41454,
-				"longitude": 34.0010452
+				"latitude": 33.98783,
+				"longitude": 51.42762
 			},
 			"collegeType": 102,
 			"title": "ولی عصر (عج )یک 38508703",
@@ -6077,10 +5213,10 @@
 			"degree": 102
 		},
 		{
-			"id": 249,
+			"id": 213,
 			"latLng": {
-				"latitude": 51.4098969,
-				"longitude": 33.9852448
+				"latitude": 33.97192,
+				"longitude": 51.46526
 			},
 			"collegeType": 201,
 			"title": "ولی عصر (عج) 95103233",
@@ -6101,10 +5237,10 @@
 			"degree": 201
 		},
 		{
-			"id": 250,
+			"id": 214,
 			"latLng": {
-				"latitude": 51.4494171,
-				"longitude": 33.9988327
+				"latitude": 33.97917,
+				"longitude": 51.40722
 			},
 			"collegeType": 202,
 			"title": "ویده جا 95103386",
@@ -6125,10 +5261,10 @@
 			"degree": 202
 		},
 		{
-			"id": 251,
+			"id": 215,
 			"latLng": {
-				"latitude": 51.40722,
-				"longitude": 33.97917
+				"latitude": 33.97917,
+				"longitude": 51.40722
 			},
 			"collegeType": 101,
 			"title": "کاشانی پور 96013825",
@@ -6149,10 +5285,10 @@
 			"degree": 101
 		},
 		{
-			"id": 252,
+			"id": 216,
 			"latLng": {
-				"latitude": 51.37311,
-				"longitude": 33.97917
+				"latitude": 33.97917,
+				"longitude": 51.37311
 			},
 			"collegeType": 103,
 			"title": "کاظمیه 38523009",
@@ -6173,10 +5309,10 @@
 			"degree": 103
 		},
 		{
-			"id": 253,
+			"id": 217,
 			"latLng": {
-				"latitude": 51.39593,
-				"longitude": 33.9479
+				"latitude": 33.9479,
+				"longitude": 51.39593
 			},
 			"collegeType": 500,
 			"title": "کودکستان جواهرنیکبخت 38594206",
@@ -6197,10 +5333,10 @@
 			"degree": 500
 		},
 		{
-			"id": 254,
+			"id": 218,
 			"latLng": {
-				"latitude": 51.40496,
-				"longitude": 33.99024
+				"latitude": 33.99024,
+				"longitude": 51.40496
 			},
 			"collegeType": 500,
 			"title": "کودکستان معارفی 38597201",
@@ -6221,10 +5357,10 @@
 			"degree": 500
 		},
 		{
-			"id": 255,
+			"id": 219,
 			"latLng": {
-				"latitude": 51.37967,
-				"longitude": 33.95157
+				"latitude": 33.95157,
+				"longitude": 51.37967
 			},
 			"collegeType": 101,
 			"title": "کیمیاخجسته کیا 38589008",
@@ -6245,34 +5381,10 @@
 			"degree": 101
 		},
 		{
-			"id": 256,
+			"id": 220,
 			"latLng": {
-				"latitude": 51.3831367,
-				"longitude": 33.94069
-			},
-			"collegeType": 202,
-			"title": "یزدانیان 96081537",
-			"telephone": [
-				"55449988"
-			],
-			"address": "0",
-			"description": "اول متوسطه عمومی",
-			"images": [
-				"assets/img/college.jpg",
-				"assets/img/college.jpg"
-			],
-			"features": [
-				"کد فضا : 0 کد پستی : 0",
-				"شهری دولتی شیفت اول",
-				"مستقل عادی شهری عادی"
-			],
-			"degree": 202
-		},
-		{
-			"id": 257,
-			"latLng": {
-				"latitude": 51.39001,
-				"longitude": 33.85212
+				"latitude": 33.85212,
+				"longitude": 51.39001
 			},
 			"collegeType": 103,
 			"title": "یوم اله جزه 38524307",
