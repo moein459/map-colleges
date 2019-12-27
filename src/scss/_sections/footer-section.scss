@@ -1,21 +1,14 @@
 #footer {
 	text-align: center;
 	font-size: .85em;
-	font-weight: lighter;
+	font-weight: normal;
 	padding-bottom: 15px;
 
-	background: url('./assets/svg/footer-bg.svg');
-	background-repeat: no-repeat;
-	background-position: center bottom;
+	background: url('./assets/svg/footer-bg.svg') no-repeat center bottom;
 	background-size: 100% 98%;
 
-	@include media-breakpoint-up(xl) {
-		padding-top: 110px;
-	}
+	padding-top: 130px;
 
-	@include media-breakpoint-down(lg) {
-		padding-top: 120px;
-	}
 
 	@include media-breakpoint-down(sm) {
 		background-size: 200% 75%;

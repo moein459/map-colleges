@@ -1,25 +1,125 @@
 {
 	"collegeTypes": [
 		{
-			"id": 1,
-			"title": "فنی حرفه ای"
+			"id": 101,
+			"title": "ابتدایی پسرانه(دولتی)"
 		},
 		{
-			"id": 2,
-			"title": "نظری"
+			"id": 102,
+			"title": "ابتدایی دخترانه(دولتی)"
+		},
+		{
+			"id": 103,
+			"title": "ابتدایی - مختلط(دولتی)"
+		},
+		{
+			"id": 201,
+			"title": "متوسطه اول-پسرانه(دولتی)"
+		},
+		{
+			"id": 202,
+			"title": "متوسطه اول دخترانه(دولتی)"
+		},
+		{
+			"id": 203,
+			"title": "متوسطه اول مختلط(دولتی)"
+		},
+		{
+			"id": 301,
+			"title": "متوسطه دوم پسرانه(دولتی)"
+		},
+		{
+			"id": 302,
+			"title": "متوسطه دوم دخترانه(دولتی)"
+		},
+		{
+			"id": 401,
+			"title": "هنرستان پسرانه(دولتی)"
+		},
+		{
+			"id": 402,
+			"title": "هنرستان دخترانه(دولتی)"
+		},
+		{
+			"id": 500,
+			"title": "استثنایی"
+		},
+		{
+			"id": 600,
+			"title": "پیش دبستانی"
 		}
 	],
 	"degrees": [
 		{
-			"id": 1,
-			"title": "دبستان",
-			"iconUrl": "assets/marker-icon.png",
+			"id": 101,
+			"title": "ابتدایی پسرانه(دولتی)",
+			"iconUrl": "assets/m101.png",
 			"shadowUrl": "assets/marker-shadow.png"
 		},
 		{
-			"id": 2,
-			"title": "دبیرستان",
-			"iconUrl": "assets/marker-icon-gold.png",
+			"id": 102,
+			"title": "ابتدایی دخترانه(دولتی)",
+			"iconUrl": "assets/m102.png",
+			"shadowUrl": "assets/marker-shadow.png"
+		},
+		{
+			"id": 103,
+			"title": "ابتدایی - مختلط(دولتی)",
+			"iconUrl": "assets/m103.png",
+			"shadowUrl": "assets/marker-shadow.png"
+		},
+		{
+			"id": 201,
+			"title": "متوسطه اول-پسرانه(دولتی)",
+			"iconUrl": "assets/m201.png",
+			"shadowUrl": "assets/marker-shadow.png"
+		},
+		{
+			"id": 202,
+			"title": "متوسطه اول دخترانه(دولتی)",
+			"iconUrl": "assets/m202.png",
+			"shadowUrl": "assets/marker-shadow.png"
+		},
+		{
+			"id": 203,
+			"title": "متوسطه اول مختلط(دولتی)",
+			"iconUrl": "assets/m203.png",
+			"shadowUrl": "assets/marker-shadow.png"
+		},
+		{
+			"id": 301,
+			"title": "متوسطه دوم پسرانه(دولتی)",
+			"iconUrl": "assets/m301.png",
+			"shadowUrl": "assets/marker-shadow.png"
+		},
+		{
+			"id": 302,
+			"title": "متوسطه دوم دخترانه(دولتی)",
+			"iconUrl": "assets/m302.png",
+			"shadowUrl": "assets/marker-shadow.png"
+		},
+		{
+			"id": 401,
+			"title": "هنرستان پسرانه(دولتی)",
+			"iconUrl": "assets/m401.png",
+			"shadowUrl": "assets/marker-shadow.png"
+		},
+		{
+			"id": 402,
+			"title": "هنرستان دخترانه(دولتی)",
+			"iconUrl": "assets/m402.png",
+			"shadowUrl": "assets/marker-shadow.png"
+		},
+		{
+			"id": 500,
+			"title": "استثنایی",
+			"iconUrl": "assets/m500.png",
+			"shadowUrl": "assets/marker-shadow.png"
+		},
+		{
+			"id": 600,
+			"title": "پیش دبستانی",
+			"iconUrl": "assets/m600.png",
 			"shadowUrl": "assets/marker-shadow.png"
 		}
 	],
@@ -27,50 +127,6170 @@
 		{
 			"id": 1,
 			"latLng": {
-				"latitude": 33.9850,
-				"longitude": 51.4100
+				"latitude": 51.15044,
+				"longitude": 33.97027
 			},
-			"title": "هنرستان شهید بهشتی",
-			"collegeType": 1,
+			"collegeType": 202,
+			"title": "12فروردین 95103300",
 			"telephone": [
-				"031-55459876"
+				"0"
 			],
-			"address": "کاشان میدان مدخل شهر",
-			"description": "هنرستان منتخب سال 97 استان اصفهان.",
+			"address": "0",
+			"description": "اول متوسطه عمومی",
 			"images": [
 				"assets/img/college.jpg",
 				"assets/img/college.jpg"
 			],
 			"features": [
-				"کیفیت تدریس",
-				"بهترین اساتید شهرستان",
-				"بهترین خروجی کنکور در بین دبیرستان های منطقه"
+				"کد فضا : 11119967 کد پستی : 0",
+				"شهری دولتی شیفت اول",
+				"ضمیمه عادی شهری عادی"
 			],
-			"degree": 1
+			"degree": 202
 		},
 		{
 			"id": 2,
 			"latLng": {
-				"latitude": 33.9750,
-				"longitude": 51.4500
+				"latitude": 51.27989,
+				"longitude": 34.2491
 			},
-			"title": "دبیرستان شهید محتشمی",
-			"collegeType": 2,
+			"collegeType": 202,
+			"title": "17 شهریور 95103363",
 			"telephone": [
-				"031-55456545"
+				"55662433"
 			],
-			"address": "کاشان میدان محشتم",
-			"description": "دبیرستان منتخب سال 97 استان اصفهان.",
+			"address": "جوشقان قالی خیابان شهید مطهری",
+			"description": "اول متوسطه عمومی",
 			"images": [
 				"assets/img/college.jpg",
 				"assets/img/college.jpg"
 			],
 			"features": [
-				"کیفیت تدریس",
-				"بهترین اساتید شهرستان",
-				"بهترین خروجی کنکور در بین دبیرستان های منطقه"
+				"کد فضا : 11238398 کد پستی : 0",
+				"شهری دولتی شیفت اول",
+				"ضمیمه عادی شهری عادی"
 			],
-			"degree": 2
+			"degree": 202
+		},
+		{
+			"id": 3,
+			"latLng": {
+				"latitude": 51.40722,
+				"longitude": 33.97917
+			},
+			"collegeType": 401,
+			"title": "آسودگی 96064612",
+			"telephone": [
+				"55449988"
+			],
+			"address": "خ- طالقانی.جنب کوچه داروخانه",
+			"description": "هنرستان کاردانش",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11235553 کد پستی : 0",
+				"شهری دولتی شیفت اول",
+				"مستقل عادی شهری عادی"
+			],
+			"degree": 401
+		},
+		{
+			"id": 4,
+			"latLng": {
+				"latitude": 51.4614944,
+				"longitude": 33.98777
+			},
+			"collegeType": 101,
+			"title": "آسیه دو 38587205",
+			"telephone": [
+				"4441617"
+			],
+			"address": "کاشان خ امام خمینی جنب گلابچی",
+			"description": "ابتدایی عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 20347966 کد پستی : 871665778",
+				"شهری دولتی شیفت اول",
+				"مستقل عادی شهری عادی"
+			],
+			"degree": 101
+		},
+		{
+			"id": 5,
+			"latLng": {
+				"latitude": 51.45055,
+				"longitude": 33.97167
+			},
+			"collegeType": 102,
+			"title": "آقا بزرگ یک 96040153",
+			"telephone": [
+				"55444020"
+			],
+			"address": "کاشان انتهای خیابان درب اصفهان کوچه جانبازان دبستان آقا بزرگ",
+			"description": "ابتدایی دوره اول عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11196877 کد پستی : 0",
+				"شهری دولتی شیفت اول",
+				"مستقل عادی شهری عادی"
+			],
+			"degree": 102
+		},
+		{
+			"id": 6,
+			"latLng": {
+				"latitude": 51.44111,
+				"longitude": 33.99166
+			},
+			"collegeType": 302,
+			"title": "آقاشیخ علی آقانجفی (ره ) 38541304",
+			"telephone": [
+				"4452097"
+			],
+			"address": "خ بهشتی کوچه شهیدوزیری",
+			"description": "دوم متوسطه نظری",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11287487 کد پستی : 871473379",
+				"شهری دولتی شیفت اول",
+				"مستقل عادی شهری عادی"
+			],
+			"degree": 302
+		},
+		{
+			"id": 7,
+			"latLng": {
+				"latitude": 51.42595,
+				"longitude": 33.98159
+			},
+			"collegeType": 102,
+			"title": "آیت اله رضوی یک 96040094",
+			"telephone": [
+				"55442040"
+			],
+			"address": "کاشان خیابان امیرکبیر خیابان نواب صفوی دبستان رضوی",
+			"description": "ابتدایی دوره دوم عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11252608 کد پستی : 0",
+				"شهری دولتی شیفت اول",
+				"مستقل عادی شهری عادی"
+			],
+			"degree": 102
+		},
+		{
+			"id": 8,
+			"latLng": {
+				"latitude": 51.44055,
+				"longitude": 33.99194
+			},
+			"collegeType": 202,
+			"title": "ابن سینا 95103273",
+			"telephone": [
+				"55460112"
+			],
+			"address": "کاشان خیابان بهشتی کوی شهید وزیری",
+			"description": "اول متوسطه عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11110984 کد پستی : 8714733785",
+				"شهری دولتی شیفت اول",
+				"مستقل عادی شهری عادی"
+			],
+			"degree": 202
+		},
+		{
+			"id": 9,
+			"latLng": {
+				"latitude": 51.35194,
+				"longitude": 34.02417
+			},
+			"collegeType": 102,
+			"title": "ابوذر راوند 96070839",
+			"telephone": [
+				"55449988"
+			],
+			"address": "میدان قطب راوندی.خ حرم راوند. ک مومنی",
+			"description": "ابتدایی عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11252346 کد پستی : 0",
+				"شهری حمایتی شیفت اول",
+				"مستقل غیردولتی حمایتی شهری عادی"
+			],
+			"degree": 102
+		},
+		{
+			"id": 10,
+			"latLng": {
+				"latitude": 51.40722,
+				"longitude": 33.97917
+			},
+			"collegeType": 103,
+			"title": "ابومسلم خراسانی 38518900",
+			"telephone": [
+				"3383434"
+			],
+			"address": "کاشان روستای وادقان",
+			"description": "ابتدایی عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11252559 کد پستی : 87581",
+				"روستایی دولتی شیفت اول",
+				"مستقل عادی روستایی عادی"
+			],
+			"degree": 103
+		},
+		{
+			"id": 11,
+			"latLng": {
+				"latitude": 51.41306,
+				"longitude": 33.98778
+			},
+			"collegeType": 401,
+			"title": "استاد تمنایی 95065566",
+			"telephone": [
+				"5422011"
+			],
+			"address": "میدان امام رضا (ع) کوچه شبنم 19",
+			"description": "هنرستان کاردانش",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11218602 کد پستی : 871977417",
+				"شهری دولتی شیفت اول",
+				"ضمیمه دارد عادی شهری عادی"
+			],
+			"degree": 401
+		},
+		{
+			"id": 12,
+			"latLng": {
+				"latitude": 51.41306,
+				"longitude": 33.98778
+			},
+			"collegeType": 401,
+			"title": "استاد تمنایی 95065566",
+			"telephone": [
+				"5422011"
+			],
+			"address": "میدان امام رضا (ع) کوچه شبنم 19",
+			"description": "هنرستان کاردانش",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11218602 کد پستی : 871977417",
+				"شهری دولتی شیفت اول",
+				"ضمیمه دارد عادی شهری عادی"
+			],
+			"degree": 401
+		},
+		{
+			"id": 13,
+			"latLng": {
+				"latitude": 51.40496,
+				"longitude": 33.99024
+			},
+			"collegeType": 500,
+			"title": "استثنایی معارفی 38595601",
+			"telephone": [
+				"5429030"
+			],
+			"address": "فاز2ناجی آبادروبروی مدرسه کاشانی پور",
+			"description": "ابتدایی عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 21814692 کد پستی : 87157",
+				"شهری دولتی شیفت اول",
+				"ضمیمه دارد عادی شهری استثنايي"
+			],
+			"degree": 500
+		},
+		{
+			"id": 14,
+			"latLng": {
+				"latitude": 51.40722,
+				"longitude": 33.97917
+			},
+			"collegeType": 202,
+			"title": "اعتماد الحسینی 95103275",
+			"telephone": [
+				"55423022"
+			],
+			"address": "کاشان فاز 1 ناجی آباد خیابان بعثت میلاد 8 غربی",
+			"description": "اول متوسطه عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11210027 کد پستی : 0",
+				"شهری دولتی شیفت اول",
+				"مستقل عادی شهری عادی"
+			],
+			"degree": 202
+		},
+		{
+			"id": 15,
+			"latLng": {
+				"latitude": 51.4184,
+				"longitude": 33.98555
+			},
+			"collegeType": 102,
+			"title": "امام جواد (ع ) 1 38505708",
+			"telephone": [
+				"5422881"
+			],
+			"address": "کاشان خ شهیدصالحی کوی آزادگان مقابل مسجدالزهرا",
+			"description": "ابتدایی عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11253105 کد پستی : 871976",
+				"شهری دولتی شیفت اول",
+				"مستقل عادی شهری عادی"
+			],
+			"degree": 102
+		},
+		{
+			"id": 16,
+			"latLng": {
+				"latitude": 51.43086,
+				"longitude": 34.00609
+			},
+			"collegeType": 401,
+			"title": "امام حسین (ع ) 38579509",
+			"telephone": [
+				"5554480"
+			],
+			"address": "ابتدای جاده راوند",
+			"description": "هنرستان کاردانش",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11288207 کد پستی : 871593",
+				"شهری دولتی شیفت اول",
+				"مستقل عادی شهری عادی"
+			],
+			"degree": 401
+		},
+		{
+			"id": 17,
+			"latLng": {
+				"latitude": 51.45781,
+				"longitude": 33.97916
+			},
+			"collegeType": 301,
+			"title": "امام حسین (ع ) 38576801",
+			"telephone": [
+				"3155237171"
+			],
+			"address": "میدان قاضی اسداله جنب بانک خون",
+			"description": "دوم متوسطه نظری",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11239420 کد پستی : 8717611111",
+				"شهری دولتی شیفت اول",
+				"ضمیمه دارد عادی شهری عادی"
+			],
+			"degree": 301
+		},
+		{
+			"id": 18,
+			"latLng": {
+				"latitude": 51.46909,
+				"longitude": 33.98151
+			},
+			"collegeType": 301,
+			"title": "امام خامنه ای 95089918",
+			"telephone": [
+				"5319844"
+			],
+			"address": "کاشان میدان قاضی اسداله خیابان آیت اله اسلامی پشت سازمان انتقال خون",
+			"description": "دوم متوسطه نظری",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11210155 کد پستی : 0",
+				"شهری دولتی شیفت اول",
+				"ضمیمه دارد نمونه دولتی شهری عادی"
+			],
+			"degree": 301
+		},
+		{
+			"id": 19,
+			"latLng": {
+				"latitude": 51.2135,
+				"longitude": 33.58518
+			},
+			"collegeType": 301,
+			"title": "امام خمینی (جوشقان ) 38536402",
+			"telephone": [
+				"3722320"
+			],
+			"address": "جوشقان قالی کوی تکیه",
+			"description": "دوم متوسطه نظری",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11111204 کد پستی : 87551",
+				"شهری دولتی شیفت اول",
+				"ضمیمه دارد عادی شهری عادی"
+			],
+			"degree": 301
+		},
+		{
+			"id": 20,
+			"latLng": {
+				"latitude": 51.41143,
+				"longitude": 33.97145
+			},
+			"collegeType": 202,
+			"title": "امام رضا (ع) 95103278",
+			"telephone": [
+				"0"
+			],
+			"address": "0",
+			"description": "اول متوسطه عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11120597 کد پستی : 0",
+				"شهری دولتی شیفت اول",
+				"مستقل عادی شهری عادی"
+			],
+			"degree": 202
+		},
+		{
+			"id": 21,
+			"latLng": {
+				"latitude": 51.44196,
+				"longitude": 33.99026
+			},
+			"collegeType": 402,
+			"title": "امام زمان (ع) 96071076",
+			"telephone": [
+				"55449988"
+			],
+			"address": "کاشان خیابان شهید بهشتی کوچه تقدیسی",
+			"description": "هنرستان کاردانش",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11238123 کد پستی : 0",
+				"شهری دولتی شیفت اول",
+				"ضمیمه عادی شهری عادی"
+			],
+			"degree": 402
+		},
+		{
+			"id": 22,
+			"latLng": {
+				"latitude": 51.44196,
+				"longitude": 33.99026
+			},
+			"collegeType": 302,
+			"title": "امام زمان (عج ) 38576905",
+			"telephone": [
+				"4446422"
+			],
+			"address": "خ باباافضل کوی میدان کهنه",
+			"description": "دوم متوسطه نظری",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11238123 کد پستی : 871473",
+				"شهری دولتی شیفت اول",
+				"ضمیمه دارد عادی شهری عادی"
+			],
+			"degree": 302
+		},
+		{
+			"id": 23,
+			"latLng": {
+				"latitude": 51.40557,
+				"longitude": 33.99041
+			},
+			"collegeType": 201,
+			"title": "امام صادق (ع) 95103036",
+			"telephone": [
+				"0"
+			],
+			"address": "0",
+			"description": "اول متوسطه عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 20532609 کد پستی : 0",
+				"شهری دولتی شیفت اول",
+				"مستقل عادی شهری عادی"
+			],
+			"degree": 201
+		},
+		{
+			"id": 24,
+			"latLng": {
+				"latitude": 51.4062462,
+				"longitude": 33.9900551
+			},
+			"collegeType": 101,
+			"title": "امام موسی کاظم (ع) 96070672",
+			"telephone": [
+				"55449988"
+			],
+			"address": "کاشان ناجی آباد فاز دوم چهارراه ورزشگاه مدرسه عباس زاده",
+			"description": "ابتدایی دوره دوم عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 23940627 کد پستی : 0",
+				"شهری دولتی شیفت اول",
+				"مستقل مدرسه ورزش شهری عادی"
+			],
+			"degree": 101
+		},
+		{
+			"id": 25,
+			"latLng": {
+				"latitude": 51.4033241,
+				"longitude": 33.9937363
+			},
+			"collegeType": 102,
+			"title": "امام هادی(ع) 96013843",
+			"telephone": [
+				"3155429500"
+			],
+			"address": "کاشان - کمربندی - کوچه جنب دانشگاه کاشان - مدرسه یثربی",
+			"description": "ابتدایی عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11218741 کد پستی : 0",
+				"شهری دولتی شیفت اول",
+				"ضمیمه دارد عادی شهری عادی"
+			],
+			"degree": 102
+		},
+		{
+			"id": 26,
+			"latLng": {
+				"latitude": 51.32953,
+				"longitude": 33.87728
+			},
+			"collegeType": 103,
+			"title": "امامت 38519301",
+			"telephone": [
+				"2253222"
+			],
+			"address": "کاشان روستای دره دبستان امامت درین",
+			"description": "ابتدایی عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11253015 کد پستی : 87341",
+				"روستایی دولتی شیفت اول",
+				"مستقل عادی روستایی عادی"
+			],
+			"degree": 103
+		},
+		{
+			"id": 27,
+			"latLng": {
+				"latitude": 51.40326,
+				"longitude": 33.95676
+			},
+			"collegeType": 402,
+			"title": "امیر کبیر 95090048",
+			"telephone": [
+				"55332160"
+			],
+			"address": "کاشان خیابان امیر کبیر فین بزرگ بلوار جانجانی",
+			"description": "هنرستان کاردانش",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11112519 کد پستی : 8718618361",
+				"شهری دولتی شیفت اول",
+				"ضمیمه عادی شهری عادی"
+			],
+			"degree": 402
+		},
+		{
+			"id": 28,
+			"latLng": {
+				"latitude": 51.40722,
+				"longitude": 33.97917
+			},
+			"collegeType": 101,
+			"title": "امیر کبیر 96023431",
+			"telephone": [
+				"55309555"
+			],
+			"address": "کاشان فین بزرگ خ-ورزشگاه به طرف مصلی دبستان امیرکبیر",
+			"description": "ابتدایی عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11253595 کد پستی : 0",
+				"شهری حمایتی شیفت اول",
+				"مستقل غیردولتی حمایتی شهری عادی"
+			],
+			"degree": 101
+		},
+		{
+			"id": 29,
+			"latLng": {
+				"latitude": 51.40722,
+				"longitude": 33.97917
+			},
+			"collegeType": 301,
+			"title": "امیرالمومنین (ع ) 38537501",
+			"telephone": [
+				"4442726"
+			],
+			"address": "کاشان خ شهیدبهشتی روبروی سپاه پاسداران کوچه تقدیسی",
+			"description": "دوم متوسطه نظری",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 23065588 کد پستی : 871474",
+				"شهری دولتی شیفت اول",
+				"مستقل ایثارگران شهری عادی"
+			],
+			"degree": 301
+		},
+		{
+			"id": 30,
+			"latLng": {
+				"latitude": 51.40722,
+				"longitude": 33.97917
+			},
+			"collegeType": 401,
+			"title": "امیرالمومنین(ع) 96071764",
+			"telephone": [
+				"55449988"
+			],
+			"address": "کاشان میدان بونصر شیبانی مدرسه ملا محسن فیض",
+			"description": "هنرستان کاردانش",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 23065588 کد پستی : 0",
+				"شهری دولتی شیفت اول",
+				"ضمیمه ایثارگران شهری عادی"
+			],
+			"degree": 401
+		},
+		{
+			"id": 31,
+			"latLng": {
+				"latitude": 51.40722,
+				"longitude": 33.97917
+			},
+			"collegeType": 101,
+			"title": "انصارالحسین 96029584",
+			"telephone": [
+				"55220650"
+			],
+			"address": "لتحر.میدان شهدای لتحر",
+			"description": "ابتدایی عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11119090 کد پستی : 0",
+				"شهری حمایتی شیفت اول",
+				"مستقل غیردولتی حمایتی شهری عادی"
+			],
+			"degree": 101
+		},
+		{
+			"id": 32,
+			"latLng": {
+				"latitude": 51.15051,
+				"longitude": 33.81656
+			},
+			"collegeType": 103,
+			"title": "انقلاب اسلامی ازوار 38519405",
+			"telephone": [
+				"3324335"
+			],
+			"address": "کاشان روستای ازوارسده",
+			"description": "ابتدایی عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11252985 کد پستی : 871411343",
+				"روستایی دولتی شیفت اول",
+				"ضمیمه دارد عادی روستایی عادی"
+			],
+			"degree": 103
+		},
+		{
+			"id": 33,
+			"latLng": {
+				"latitude": 51.15668,
+				"longitude": 33.90714
+			},
+			"collegeType": 203,
+			"title": "بابا افضل مرق 1 95128958",
+			"telephone": [
+				"0"
+			],
+			"address": "0",
+			"description": "اول متوسطه عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11238793 کد پستی : 0",
+				"روستایی دولتی شیفت اول",
+				"ضمیمه عادی روستایی عادی"
+			],
+			"degree": 203
+		},
+		{
+			"id": 34,
+			"latLng": {
+				"latitude": 51.11929,
+				"longitude": 34.08171
+			},
+			"collegeType": 103,
+			"title": "بانوخلعتبری 38551004",
+			"telephone": [
+				"3295142"
+			],
+			"address": "روستای برزآباد",
+			"description": "ابتدایی عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11237700 کد پستی : 87581",
+				"روستایی دولتی شیفت اول",
+				"مستقل عادی روستایی عادی"
+			],
+			"degree": 103
+		},
+		{
+			"id": 35,
+			"latLng": {
+				"latitude": 51.40722,
+				"longitude": 33.97917
+			},
+			"collegeType": 103,
+			"title": "برادران شهید چناری 96069981",
+			"telephone": [
+				"55449988"
+			],
+			"address": "کاشان نیاسر سه راهی ارمک مشهد اردهال مدرسه 15",
+			"description": "ابتدایی عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11252214 کد پستی : 0",
+				"روستایی دولتی شیفت اول",
+				"مستقل عادی روستایی عادی"
+			],
+			"degree": 103
+		},
+		{
+			"id": 36,
+			"latLng": {
+				"latitude": 51.4748955,
+				"longitude": 33.9653625
+			},
+			"collegeType": 202,
+			"title": "برکت 96064396",
+			"telephone": [
+				"55449988"
+			],
+			"address": "کاشان،خ آیت اله سعیدی،کوی ولیعصر،زمین بیدار اکبری ،مدرسه بنیاد برکت",
+			"description": "اول متوسطه عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 24416713 کد پستی : 0",
+				"شهری دولتی شیفت اول",
+				"مستقل عادی شهری عادی"
+			],
+			"degree": 202
+		},
+		{
+			"id": 37,
+			"latLng": {
+				"latitude": 51.4095,
+				"longitude": 33.980793
+			},
+			"collegeType": 102,
+			"title": "بنت الهدی 96103380",
+			"telephone": [
+				"-2146826246"
+			],
+			"address": "-2146826246",
+			"description": "ابتدایی عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"-2146826246",
+				"شهری حمایتی شیفت اول",
+				"مستقل غیردولتی حمایتی شهری عادی"
+			],
+			"degree": 102
+		},
+		{
+			"id": 38,
+			"latLng": {
+				"latitude": 51.40722,
+				"longitude": 33.97917
+			},
+			"collegeType": 101,
+			"title": "بیست ودوبهمن قمصر 96013618",
+			"telephone": [
+				"3155642122"
+			],
+			"address": "کاشان قمصر محله بالان جنب شهرداری دبستان 22 بهمن",
+			"description": "ابتدایی عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11252075 کد پستی : 0",
+				"شهری دولتی شیفت اول",
+				"ضمیمه دارد عادی شهری عادی"
+			],
+			"degree": 101
+		},
+		{
+			"id": 39,
+			"latLng": {
+				"latitude": 51.4556732,
+				"longitude": 33.9809
+			},
+			"collegeType": 102,
+			"title": "پروین صفا 38508904",
+			"telephone": [
+				"4245484"
+			],
+			"address": "خ اباذرکوچه سلمان جنب آموزشگاه بهورزی",
+			"description": "ابتدایی عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11167124 کد پستی : 871799",
+				"شهری دولتی شیفت اول",
+				"مستقل عادی شهری عادی"
+			],
+			"degree": 102
+		},
+		{
+			"id": 40,
+			"latLng": {
+				"latitude": 51.442,
+				"longitude": 34.0008
+			},
+			"collegeType": 101,
+			"title": "پسرانه شهیدهاشمی نژاد 38504008",
+			"telephone": [
+				"5559767"
+			],
+			"address": "بلوارخادمی کوچه توحیدهشتم",
+			"description": "ابتدایی عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11159465 کد پستی : 871517461",
+				"شهری دولتی شیفت دوم",
+				"مستقل عادی شهری عادی"
+			],
+			"degree": 101
+		},
+		{
+			"id": 41,
+			"latLng": {
+				"latitude": 51.40722,
+				"longitude": 33.97917
+			},
+			"collegeType": 201,
+			"title": "پسرانه خزاق 95103168",
+			"telephone": [
+				"0"
+			],
+			"address": "0",
+			"description": "اول متوسطه عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11157104 کد پستی : 0",
+				"شهری دولتی شیفت اول",
+				"مستقل عادی شهری عادی"
+			],
+			"degree": 201
+		},
+		{
+			"id": 42,
+			"latLng": {
+				"latitude": 51.4062462,
+				"longitude": 33.9900551
+			},
+			"collegeType": 302,
+			"title": "جانبازان انقلاب اسلامی 38536603",
+			"telephone": [
+				"55673275"
+			],
+			"address": "برزک محله کارگاه",
+			"description": "دوم متوسطه نظری",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11134410 کد پستی : 0",
+				"شهری دولتی شیفت اول",
+				"مستقل عادی شهری عادی"
+			],
+			"degree": 302
+		},
+		{
+			"id": 43,
+			"latLng": {
+				"latitude": 51.4556732,
+				"longitude": 33.9809
+			},
+			"collegeType": 500,
+			"title": "جبار باغچه بان 95141374",
+			"telephone": [
+				"0"
+			],
+			"address": "خ- امیریه میدان دروازه دولت مدرسه شهید خیامی-جبار باغچه بان",
+			"description": "پیش دبستان عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11158192 کد پستی : 0",
+				"شهری دولتی شیفت اول",
+				"ضمیمه عادی شهری استثنايي"
+			],
+			"degree": 500
+		},
+		{
+			"id": 44,
+			"latLng": {
+				"latitude": 51.4033241,
+				"longitude": 33.9937363
+			},
+			"collegeType": 500,
+			"title": "جبار باغچه بان 95141375",
+			"telephone": [
+				"0"
+			],
+			"address": "خ- امیریه میدان دروازه دولت مدرسه شهید خیامی",
+			"description": "ابتدایی عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11158192 کد پستی : 0",
+				"شهری دولتی شیفت اول",
+				"ضمیمه دارد عادی شهری استثنايي"
+			],
+			"degree": 500
+		},
+		{
+			"id": 45,
+			"latLng": {
+				"latitude": 51.4614944,
+				"longitude": 33.98777
+			},
+			"collegeType": 500,
+			"title": "جبار باغچه بان 96027562",
+			"telephone": [
+				"31"
+			],
+			"address": "خیابان کمربندی.خیابان دانشگاه یثربی",
+			"description": "هنرستان کاردانش",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11158192 کد پستی : 0",
+				"شهری دولتی شیفت اول",
+				"ضمیمه عادی شهری استثنايي"
+			],
+			"degree": 500
+		},
+		{
+			"id": 46,
+			"latLng": {
+				"latitude": 51.4748955,
+				"longitude": 33.9653625
+			},
+			"collegeType": 500,
+			"title": "جبار باغچه بان 95141376",
+			"telephone": [
+				"0"
+			],
+			"address": "خ- امیریه میدان دروازه دولت مدرسه شهید خیامی-جبار باغچه بان",
+			"description": "اول متوسطه عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11158192 کد پستی : 0",
+				"شهری دولتی شیفت اول",
+				"ضمیمه عادی شهری استثنايي"
+			],
+			"degree": 500
+		},
+		{
+			"id": 47,
+			"latLng": {
+				"latitude": 51.39593,
+				"longitude": 33.9479
+			},
+			"collegeType": 500,
+			"title": "جواهرنیکبخت فین 38500508",
+			"telephone": [
+				"5309595"
+			],
+			"address": "کاشان فین بزرگ",
+			"description": "ابتدایی عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11166083 کد پستی : 871888764",
+				"شهری دولتی شیفت اول",
+				"ضمیمه دارد عادی شهری استثنايي"
+			],
+			"degree": 500
+		},
+		{
+			"id": 48,
+			"latLng": {
+				"latitude": 51.40722,
+				"longitude": 33.97917
+			},
+			"collegeType": 102,
+			"title": "چاووشی 96029568",
+			"telephone": [
+				"55247424"
+			],
+			"address": "لتحر خیابان حرم کوچه شهید واحد پور",
+			"description": "ابتدایی عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11157606 کد پستی : 0",
+				"شهری حمایتی شیفت اول",
+				"مستقل غیردولتی حمایتی شهری عادی"
+			],
+			"degree": 102
+		},
+		{
+			"id": 49,
+			"latLng": {
+				"latitude": 51.42549,
+				"longitude": 33.97444
+			},
+			"collegeType": 102,
+			"title": "چهارده معصوم (ع )1 38572104",
+			"telephone": [
+				"5314040"
+			],
+			"address": "کاشان خ امیرکبیرپل دشت چال کوی فرهنگیان",
+			"description": "ابتدایی عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11219530 کد پستی : 871867694",
+				"شهری دولتی شیفت اول",
+				"مستقل عادی شهری عادی"
+			],
+			"degree": 102
+		},
+		{
+			"id": 50,
+			"latLng": {
+				"latitude": 51.42549,
+				"longitude": 33.97444
+			},
+			"collegeType": 101,
+			"title": "چهارده معصوم (ع )2 38572201",
+			"telephone": [
+				"5314040"
+			],
+			"address": "کاشان خ امیرکبیرپل دشت چال کوی فرهنگیان",
+			"description": "ابتدایی عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11219530 کد پستی : 871867",
+				"شهری دولتی شیفت دوم",
+				"ضمیمه دارد عادی شهری عادی"
+			],
+			"degree": 101
+		},
+		{
+			"id": 51,
+			"latLng": {
+				"latitude": 51.40722,
+				"longitude": 33.97917
+			},
+			"collegeType": 201,
+			"title": "حاج احمد سینائیان وپسران 95141369",
+			"telephone": [
+				"0"
+			],
+			"address": "خ شمس آبادی کوچه بهار آزادی مدرسه سینائیان",
+			"description": "اول متوسطه عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 20532810 کد پستی : 0",
+				"شهری دولتی شیفت اول",
+				"مستقل استعدادهای درخشان شهری عادی"
+			],
+			"degree": 201
+		},
+		{
+			"id": 52,
+			"latLng": {
+				"latitude": 51.43869,
+				"longitude": 33.96594
+			},
+			"collegeType": 102,
+			"title": "حاج جعفرابریشمی 38582809",
+			"telephone": [
+				"4224700"
+			],
+			"address": "لتحرمقابل مسجدامام حسن کوی شهیدکاظمی",
+			"description": "ابتدایی عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11219670 کد پستی : 871399483",
+				"شهری دولتی شیفت اول",
+				"مستقل عادی شهری عادی"
+			],
+			"degree": 102
+		},
+		{
+			"id": 53,
+			"latLng": {
+				"latitude": 51.4659042,
+				"longitude": 33.9733849
+			},
+			"collegeType": 101,
+			"title": "حاج حبیب واحدی 96014091",
+			"telephone": [
+				"3"
+			],
+			"address": "کاشان - خ نطنز - مدرسه واحدی",
+			"description": "ابتدایی دوره اول عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 24063617 کد پستی : 0",
+				"شهری دولتی شیفت اول",
+				"مستقل عادی شهری عادی"
+			],
+			"degree": 101
+		},
+		{
+			"id": 54,
+			"latLng": {
+				"latitude": 51.40722,
+				"longitude": 33.97917
+			},
+			"collegeType": 102,
+			"title": "حاج عباس پیله وریان 96016175",
+			"telephone": [
+				"3"
+			],
+			"address": "کاشان،بلوار دانش ، زید آباد،مدرسه پیله وریان.",
+			"description": "ابتدایی عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 24424528 کد پستی : 0",
+				"شهری دولتی شیفت اول",
+				"مستقل عادی شهری عادی"
+			],
+			"degree": 102
+		},
+		{
+			"id": 55,
+			"latLng": {
+				"latitude": 51.40722,
+				"longitude": 33.97917
+			},
+			"collegeType": 102,
+			"title": "حاج علی مصراحی 96070838",
+			"telephone": [
+				"55449988"
+			],
+			"address": "کاشان شهرک 22 بهمن.خیابان جمهوری.خیابان آزادی",
+			"description": "ابتدایی عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11063304 کد پستی : 0",
+				"شهری حمایتی شیفت اول",
+				"مستقل غیردولتی حمایتی شهری عادی"
+			],
+			"degree": 102
+		},
+		{
+			"id": 56,
+			"latLng": {
+				"latitude": 51.40722,
+				"longitude": 33.97917
+			},
+			"collegeType": 101,
+			"title": "حافظ 96070671",
+			"telephone": [
+				"55449988"
+			],
+			"address": "کاشان سن سن مدرسه حافظ",
+			"description": "ابتدایی دوره دوم عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11220283 کد پستی : 0",
+				"روستایی دولتی شیفت اول",
+				"مستقل عادی روستایی عادی"
+			],
+			"degree": 101
+		},
+		{
+			"id": 57,
+			"latLng": {
+				"latitude": 51.46882,
+				"longitude": 33.9768944
+			},
+			"collegeType": 101,
+			"title": "حبیب اله برقی 96070898",
+			"telephone": [
+				"55449988"
+			],
+			"address": "کاشان خیابان ژاندارمری کوی گازرگاه",
+			"description": "ابتدایی دوره دوم عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11109988 کد پستی : 0",
+				"شهری دولتی شیفت اول",
+				"مستقل عادی شهری عادی"
+			],
+			"degree": 101
+		},
+		{
+			"id": 58,
+			"latLng": {
+				"latitude": 51.41871,
+				"longitude": 33.74991
+			},
+			"collegeType": 302,
+			"title": "حسام الدین نوابی 38592001",
+			"telephone": [
+				"55642592"
+			],
+			"address": "قمصر مقابل امامزاده میرداود",
+			"description": "دوم متوسطه نظری",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11135997 کد پستی : 875181113",
+				"شهری دولتی شیفت اول",
+				"ضمیمه دارد عادی شهری عادی"
+			],
+			"degree": 302
+		},
+		{
+			"id": 59,
+			"latLng": {
+				"latitude": 51.44776,
+				"longitude": 33.98091
+			},
+			"collegeType": 201,
+			"title": "حضرت علی اصغر (ع) 96013616",
+			"telephone": [
+				"55222343"
+			],
+			"address": "خ- محتشم کوی مسجد صادقیه مدرسه حضرت علی اصغر",
+			"description": "اول متوسطه عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11111015 کد پستی : 0",
+				"شهری دولتی شیفت اول",
+				"مستقل عادی شهری عادی"
+			],
+			"degree": 201
+		},
+		{
+			"id": 60,
+			"latLng": {
+				"latitude": 51.2161,
+				"longitude": 33.58832
+			},
+			"collegeType": 302,
+			"title": "حضرت مریم (ع ) 38538406",
+			"telephone": [
+				"3722400"
+			],
+			"address": "کاشان جوشقان قالی",
+			"description": "دوم متوسطه نظری",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11235721 کد پستی : 87551",
+				"شهری دولتی شیفت اول",
+				"ضمیمه دارد عادی شهری عادی"
+			],
+			"degree": 302
+		},
+		{
+			"id": 61,
+			"latLng": {
+				"latitude": 51.26392,
+				"longitude": 34.17479
+			},
+			"collegeType": 302,
+			"title": "حضرت معصومه (س ) 38592107",
+			"telephone": [
+				"2483385"
+			],
+			"address": "مشکات شهرک انقلاب",
+			"description": "دوم متوسطه نظری",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11208954 کد پستی : 873910000",
+				"شهری دولتی شیفت اول",
+				"ضمیمه عادی شهری عادی"
+			],
+			"degree": 302
+		},
+		{
+			"id": 62,
+			"latLng": {
+				"latitude": 51.4062462,
+				"longitude": 33.9900551
+			},
+			"collegeType": 103,
+			"title": "حمزه 96029567",
+			"telephone": [
+				"55300444"
+			],
+			"address": "حسن آباد.خیابان شهید علی معمار.روبروی درمانگاه",
+			"description": "ابتدایی عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11118934 کد پستی : 0",
+				"شهری حمایتی شیفت اول",
+				"مستقل غیردولتی حمایتی شهری عادی"
+			],
+			"degree": 103
+		},
+		{
+			"id": 63,
+			"latLng": {
+				"latitude": 51.4033241,
+				"longitude": 33.9937363
+			},
+			"collegeType": 201,
+			"title": "حمید اصفهانیان 95103182",
+			"telephone": [
+				"55423231"
+			],
+			"address": "کاشان بلوار خاندایی انتهای کوچه ایثار",
+			"description": "اول متوسطه عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11208195 کد پستی : 0",
+				"شهری دولتی شیفت اول",
+				"مستقل عادی شهری عادی"
+			],
+			"degree": 201
+		},
+		{
+			"id": 64,
+			"latLng": {
+				"latitude": 51.4556732,
+				"longitude": 33.9809
+			},
+			"collegeType": 103,
+			"title": "حمیدی نیاسر 96029565",
+			"telephone": [
+				"3"
+			],
+			"address": "کاشان نیاسر محله شهید هاشمی نژاد دبستان 12 فروردین",
+			"description": "ابتدایی عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11217605 کد پستی : 0",
+				"شهری حمایتی شیفت اول",
+				"مستقل غیردولتی حمایتی شهری عادی"
+			],
+			"degree": 103
+		},
+		{
+			"id": 65,
+			"latLng": {
+				"latitude": 51.4659042,
+				"longitude": 33.9733849
+			},
+			"collegeType": 202,
+			"title": "حیدری فین 95103293",
+			"telephone": [
+				"55335011"
+			],
+			"address": "کاشان خیابان امیر کبیر خیابان صادق اصفهانی صادق سوم",
+			"description": "اول متوسطه عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11217485 کد پستی : 8719964799",
+				"شهری دولتی شیفت اول",
+				"مستقل عادی شهری عادی"
+			],
+			"degree": 202
+		},
+		{
+			"id": 66,
+			"latLng": {
+				"latitude": 51.4017448,
+				"longitude": 34.0037155
+			},
+			"collegeType": 101,
+			"title": "خاتم الانبیا (1) 96084133",
+			"telephone": [
+				"55449988"
+			],
+			"address": "کاشان",
+			"description": "ابتدایی دوره اول عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 0 کد پستی : 0",
+				"شهری حمایتی شیفت دوم",
+				"مستقل غیردولتی حمایتی شهری عادی"
+			],
+			"degree": 101
+		},
+		{
+			"id": 67,
+			"latLng": {
+				"latitude": 51.46882,
+				"longitude": 33.9768944
+			},
+			"collegeType": 101,
+			"title": "خاتم الانبیا (2) 96086186",
+			"telephone": [
+				"55449988"
+			],
+			"address": "0",
+			"description": "ابتدایی دوره اول عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 0 کد پستی : 0",
+				"شهری حمایتی شیفت دوم",
+				"مستقل غیردولتی حمایتی شهری عادی"
+			],
+			"degree": 101
+		},
+		{
+			"id": 68,
+			"latLng": {
+				"latitude": 51.4172325,
+				"longitude": 33.98185
+			},
+			"collegeType": 101,
+			"title": "خجسته کیا 96081152",
+			"telephone": [
+				"55449988"
+			],
+			"address": "0",
+			"description": "ابتدایی عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 0 کد پستی : 0",
+				"شهری دولتی شیفت اول",
+				"مستقل عادی شهری عادی"
+			],
+			"degree": 101
+		},
+		{
+			"id": 69,
+			"latLng": {
+				"latitude": 51.44079,
+				"longitude": 34.00094
+			},
+			"collegeType": 302,
+			"title": "خدیجه کبری 96013846",
+			"telephone": [
+				"3155548486"
+			],
+			"address": "کاشان خیابان شهید زیارتی مدرسه خدیجه کبری",
+			"description": "دوم متوسطه نظری",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11134065 کد پستی : 0",
+				"شهری دولتی شیفت اول",
+				"مستقل عادی شهری عادی"
+			],
+			"degree": 302
+		},
+		{
+			"id": 70,
+			"latLng": {
+				"latitude": 51.34528,
+				"longitude": 34.01667
+			},
+			"collegeType": 102,
+			"title": "خضرایی 95060638",
+			"telephone": [
+				"5515851"
+			],
+			"address": "راوند کوچه شهید طحانی",
+			"description": "ابتدایی عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 20529480 کد پستی : 873113541",
+				"شهری دولتی شیفت اول",
+				"مستقل عادی شهری عادی"
+			],
+			"degree": 102
+		},
+		{
+			"id": 71,
+			"latLng": {
+				"latitude": 51.4033241,
+				"longitude": 33.9937363
+			},
+			"collegeType": 101,
+			"title": "دبستان امام زمان (عج ) 38502004",
+			"telephone": [
+				"4459512"
+			],
+			"address": "خ 22بهمن کوچه بلندیان",
+			"description": "ابتدایی عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11166627 کد پستی : 871561576",
+				"شهری دولتی شیفت دوم",
+				"مستقل عادی شهری عادی"
+			],
+			"degree": 101
+		},
+		{
+			"id": 72,
+			"latLng": {
+				"latitude": 51.4556732,
+				"longitude": 33.9809
+			},
+			"collegeType": 102,
+			"title": "دبستان علی بن ابیطالب (ع )شاهد1 38506403",
+			"telephone": [
+				"5560011"
+			],
+			"address": "بلوارمفتح کوچه جنب آتش نشانی",
+			"description": "ابتدایی عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11120348 کد پستی : 871464679",
+				"شهری دولتی شیفت اول",
+				"مستقل شاهد شهری عادی"
+			],
+			"degree": 102
+		},
+		{
+			"id": 73,
+			"latLng": {
+				"latitude": 51.449646,
+				"longitude": 33.9716034
+			},
+			"collegeType": 302,
+			"title": "دبیرستان امیرکبیر 38552006",
+			"telephone": [
+				"5332160"
+			],
+			"address": "خیابان امیرکبیرفین بزرگ",
+			"description": "دوم متوسطه نظری",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11112519 کد پستی : 871885",
+				"شهری دولتی شیفت اول",
+				"ضمیمه دارد عادی شهری عادی"
+			],
+			"degree": 302
+		},
+		{
+			"id": 74,
+			"latLng": {
+				"latitude": 51.46096,
+				"longitude": 33.9934425
+			},
+			"collegeType": 301,
+			"title": "دبیرستان پسرانه شاهد 38551300",
+			"telephone": [
+				"4440100"
+			],
+			"address": "خ طالقانی جنب دانشکده آیت الله یثربی",
+			"description": "دوم متوسطه نظری",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 20675984 کد پستی : 871668311",
+				"شهری دولتی شیفت اول",
+				"مستقل شاهد شهری عادی"
+			],
+			"degree": 301
+		},
+		{
+			"id": 75,
+			"latLng": {
+				"latitude": 51.4062462,
+				"longitude": 33.9900551
+			},
+			"collegeType": 302,
+			"title": "دبیرستان دخترانه شاهد 38551205",
+			"telephone": [
+				"4451717"
+			],
+			"address": "خیابان شاهد",
+			"description": "دوم متوسطه نظری",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 20676863 کد پستی : 871479311",
+				"شهری دولتی شیفت اول",
+				"مستقل شاهد شهری عادی"
+			],
+			"degree": 302
+		},
+		{
+			"id": 76,
+			"latLng": {
+				"latitude": 51.4614944,
+				"longitude": 33.98777
+			},
+			"collegeType": 302,
+			"title": "دبیرستان دخترانه نیاسر 38537002",
+			"telephone": [
+				"3223466"
+			],
+			"address": "کاشان نیاسرمحله هاشمی نژاد",
+			"description": "دوم متوسطه نظری",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11119967 کد پستی : 871811745",
+				"شهری دولتی شیفت اول",
+				"ضمیمه دارد عادی شهری عادی"
+			],
+			"degree": 302
+		},
+		{
+			"id": 77,
+			"latLng": {
+				"latitude": 51.4556732,
+				"longitude": 33.9809
+			},
+			"collegeType": 301,
+			"title": "دبیرستان ساره بیگم علوی 38536201",
+			"telephone": [
+				"3373444"
+			],
+			"address": "روستای علوی",
+			"description": "دوم متوسطه نظری",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11210482 کد پستی : 0",
+				"روستایی دولتی شیفت اول",
+				"ضمیمه دارد عادی روستایی عادی"
+			],
+			"degree": 301
+		},
+		{
+			"id": 78,
+			"latLng": {
+				"latitude": 51.4659042,
+				"longitude": 33.9733849
+			},
+			"collegeType": 302,
+			"title": "دبیرستان سهراب سپهری 38588207",
+			"telephone": [
+				"3362577"
+			],
+			"address": "کاشان مشهداردهال روستای غیاث آباد پلاک 292",
+			"description": "دوم متوسطه نظری",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11209841 کد پستی : 87951",
+				"روستایی دولتی شیفت اول",
+				"ضمیمه دارد عادی روستایی عادی"
+			],
+			"degree": 302
+		},
+		{
+			"id": 79,
+			"latLng": {
+				"latitude": 51.4017448,
+				"longitude": 34.0037155
+			},
+			"collegeType": 301,
+			"title": "دبیرستان سیدمحمدمحتشمی 38566602",
+			"telephone": [
+				"4444010"
+			],
+			"address": "خ باباافضل روبروی سازمان آب",
+			"description": "دوم متوسطه نظری",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11181345 کد پستی : 871368656",
+				"شهری دولتی شیفت اول",
+				"مستقل عادی شهری عادی"
+			],
+			"degree": 301
+		},
+		{
+			"id": 80,
+			"latLng": {
+				"latitude": 51.46882,
+				"longitude": 33.9768944
+			},
+			"collegeType": 301,
+			"title": "دبیرستان شهدای برزک 38538205",
+			"telephone": [
+				"3473297"
+			],
+			"address": "برزک محله درب زیارت",
+			"description": "دوم متوسطه نظری",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11133602 کد پستی : 875610000",
+				"شهری دولتی شیفت اول",
+				"ضمیمه دارد عادی شهری عادی"
+			],
+			"degree": 301
+		},
+		{
+			"id": 81,
+			"latLng": {
+				"latitude": 51.4172325,
+				"longitude": 33.98185
+			},
+			"collegeType": 301,
+			"title": "دبیرستان شهیدبهشتی (سمپاد) 38570608",
+			"telephone": [
+				"5571060"
+			],
+			"address": "خیابان شهیدزیارتی",
+			"description": "دوم متوسطه نظری",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11287999 کد پستی : 871514433",
+				"شهری دولتی شیفت اول",
+				"مستقل استعدادهای درخشان شهری عادی"
+			],
+			"degree": 301
+		},
+		{
+			"id": 82,
+			"latLng": {
+				"latitude": 51.46096,
+				"longitude": 33.9934425
+			},
+			"collegeType": 302,
+			"title": "دبیرستان فرزانگان (سمپاد) 38570502",
+			"telephone": [
+				"5427744"
+			],
+			"address": "شهرک ناجی آباد فاز 2 چهارراه ورزشگاه",
+			"description": "دوم متوسطه نظری",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 23327282 کد پستی : 871931395",
+				"شهری دولتی شیفت اول",
+				"مستقل استعدادهای درخشان شهری عادی"
+			],
+			"degree": 302
+		},
+		{
+			"id": 83,
+			"latLng": {
+				"latitude": 51.4430962,
+				"longitude": 33.98742
+			},
+			"collegeType": 302,
+			"title": "دبیرستان مصلحی 38565801",
+			"telephone": [
+				"4229899"
+			],
+			"address": "لتحر خ زیارت کوچه شهید حمامی دوازدهم",
+			"description": "دوم متوسطه نظری",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11287692 کد پستی : 871783679",
+				"شهری دولتی شیفت اول",
+				"ضمیمه عادی شهری عادی"
+			],
+			"degree": 302
+		},
+		{
+			"id": 84,
+			"latLng": {
+				"latitude": 51.3517952,
+				"longitude": 34.013134
+			},
+			"collegeType": 302,
+			"title": "دبیرستان مهندس حسین کیهان 38566200",
+			"telephone": [
+				"5513111"
+			],
+			"address": "شهرک قطب راوندی - لاله6",
+			"description": "دوم متوسطه نظری",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11135458 کد پستی : 873174517",
+				"شهری دولتی شیفت اول",
+				"ضمیمه دارد عادی شهری عادی"
+			],
+			"degree": 302
+		},
+		{
+			"id": 85,
+			"latLng": {
+				"latitude": 51.44159,
+				"longitude": 33.98762
+			},
+			"collegeType": 402,
+			"title": "دخترانه متفرقه حرفه ای 38549806",
+			"telephone": [
+				"0"
+			],
+			"address": "0",
+			"description": "هنرستان فنی و حرفه ای",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11238220 کد پستی : 0",
+				"شهری دولتی شیفت اول",
+				"مستقل داوطلب آزاد شهری عادی"
+			],
+			"degree": 402
+		},
+		{
+			"id": 86,
+			"latLng": {
+				"latitude": 51.35208,
+				"longitude": 34.0135
+			},
+			"collegeType": 201,
+			"title": "دکتر جوادیان 95103187",
+			"telephone": [
+				"55516020"
+			],
+			"address": "راوند شهرک قطب لاله 6",
+			"description": "اول متوسطه عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11108299 کد پستی : 8731745168",
+				"شهری دولتی شیفت اول",
+				"مستقل عادی شهری عادی"
+			],
+			"degree": 201
+		},
+		{
+			"id": 87,
+			"latLng": {
+				"latitude": 51.4042931,
+				"longitude": 33.9893227
+			},
+			"collegeType": 202,
+			"title": "دکتر موتمن 95103298",
+			"telephone": [
+				"0"
+			],
+			"address": "0",
+			"description": "اول متوسطه عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 23066026 کد پستی : 0",
+				"شهری دولتی شیفت اول",
+				"مستقل عادی شهری عادی"
+			],
+			"degree": 202
+		},
+		{
+			"id": 88,
+			"latLng": {
+				"latitude": 51.40581,
+				"longitude": 33.97954
+			},
+			"collegeType": 101,
+			"title": "دین ودانش دو 38502406",
+			"telephone": [
+				"5422030"
+			],
+			"address": "کاشان شهرک ناجی آباد میلاد 16شرقی",
+			"description": "ابتدایی عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11107182 کد پستی : 871971",
+				"شهری دولتی شیفت دوم",
+				"مستقل عادی شهری عادی"
+			],
+			"degree": 101
+		},
+		{
+			"id": 89,
+			"latLng": {
+				"latitude": 51.40581,
+				"longitude": 33.97954
+			},
+			"collegeType": 102,
+			"title": "دین ودانش یک 38505909",
+			"telephone": [
+				"5422030"
+			],
+			"address": "کاشان شهرک ناجی آبادمیلاد16 شرقی",
+			"description": "ابتدایی عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11107182 کد پستی : 871971",
+				"شهری دولتی شیفت اول",
+				"مستقل عادی شهری عادی"
+			],
+			"degree": 102
+		},
+		{
+			"id": 90,
+			"latLng": {
+				"latitude": 51.40722,
+				"longitude": 33.97917
+			},
+			"collegeType": 103,
+			"title": "رضویه سفیدآب 96071074",
+			"telephone": [
+				"55447544"
+			],
+			"address": "کاشان انتهای فین بزرگ خیابان یزد آباد مدرسه رضویه",
+			"description": "ابتدایی عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11106514 کد پستی : 0",
+				"روستایی دولتی شیفت اول",
+				"مستقل عادی روستایی عادی"
+			],
+			"degree": 103
+		},
+		{
+			"id": 91,
+			"latLng": {
+				"latitude": 51.40722,
+				"longitude": 33.97917
+			},
+			"collegeType": 302,
+			"title": "ریحانة النبی 96013844",
+			"telephone": [
+				"3155311212"
+			],
+			"address": "کاشان خیابان مدرس کوچه سیاست 5",
+			"description": "دوم متوسطه نظری",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11210397 کد پستی : 0",
+				"شهری دولتی شیفت اول",
+				"مستقل عادی شهری عادی"
+			],
+			"degree": 302
+		},
+		{
+			"id": 92,
+			"latLng": {
+				"latitude": 51.40722,
+				"longitude": 33.97917
+			},
+			"collegeType": 202,
+			"title": "زاهد 95141370",
+			"telephone": [
+				"0"
+			],
+			"address": "خ نطنز کوچه زاهد",
+			"description": "اول متوسطه عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 20533530 کد پستی : 0",
+				"شهری دولتی شیفت اول",
+				"مستقل عادی شهری عادی"
+			],
+			"degree": 202
+		},
+		{
+			"id": 93,
+			"latLng": {
+				"latitude": 51.40722,
+				"longitude": 33.97917
+			},
+			"collegeType": 202,
+			"title": "زرگر زاده 95103285",
+			"telephone": [
+				"0"
+			],
+			"address": "0",
+			"description": "اول متوسطه عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11218095 کد پستی : 0",
+				"شهری دولتی شیفت اول",
+				"مستقل عادی شهری عادی"
+			],
+			"degree": 202
+		},
+		{
+			"id": 94,
+			"latLng": {
+				"latitude": 51.40722,
+				"longitude": 33.97917
+			},
+			"collegeType": 401,
+			"title": "زنده یاد حاج حسن تفضلی 96013613",
+			"telephone": [
+				"31"
+			],
+			"address": "کاشان خیابان غیاث الدین جمشید کاشانی جنب طوق شیخ رضا",
+			"description": "هنرستان کاردانش",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11135236 کد پستی : 0",
+				"شهری دولتی شیفت اول",
+				"مستقل عادی شهری عادی"
+			],
+			"degree": 401
+		},
+		{
+			"id": 95,
+			"latLng": {
+				"latitude": 51.40722,
+				"longitude": 33.97917
+			},
+			"collegeType": 401,
+			"title": "زنده یاد حاج حسن تفضلی 96013613",
+			"telephone": [
+				"31"
+			],
+			"address": "کاشان خیابان غیاث الدین جمشید کاشانی جنب طوق شیخ رضا",
+			"description": "هنرستان کاردانش",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11135236 کد پستی : 0",
+				"شهری دولتی شیفت اول",
+				"مستقل عادی شهری عادی"
+			],
+			"degree": 401
+		},
+		{
+			"id": 96,
+			"latLng": {
+				"latitude": 51.45444,
+				"longitude": 33.98582
+			},
+			"collegeType": 202,
+			"title": "سپیده کاشانی 96024337",
+			"telephone": [
+				"55560022"
+			],
+			"address": "کاشان خیابان اباذر مقابل کاروانسرای میرپنج هنرستان سمانه",
+			"description": "اول متوسطه عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11191263 کد پستی : 0",
+				"شهری دولتی شیفت اول",
+				"مستقل نمونه دولتی شهری عادی"
+			],
+			"degree": 202
+		},
+		{
+			"id": 97,
+			"latLng": {
+				"latitude": 51.43833,
+				"longitude": 33.98138
+			},
+			"collegeType": 201,
+			"title": "سراج 95103191",
+			"telephone": [
+				"0"
+			],
+			"address": "0",
+			"description": "اول متوسطه عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11218879 کد پستی : 0",
+				"شهری دولتی شیفت اول",
+				"مستقل عادی شهری عادی"
+			],
+			"degree": 201
+		},
+		{
+			"id": 98,
+			"latLng": {
+				"latitude": 51.0863,
+				"longitude": 34.03694
+			},
+			"collegeType": 203,
+			"title": "سعادت کوهدشت 96021902",
+			"telephone": [
+				"3"
+			],
+			"address": "برزآباد مدرسه سعادت",
+			"description": "اول متوسطه عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11210482 کد پستی : 0",
+				"روستایی دولتی شیفت اول",
+				"ضمیمه عادی روستایی عادی"
+			],
+			"degree": 203
+		},
+		{
+			"id": 99,
+			"latLng": {
+				"latitude": 51.40722,
+				"longitude": 33.97917
+			},
+			"collegeType": 202,
+			"title": "سعدی 95103304",
+			"telephone": [
+				"0"
+			],
+			"address": "0",
+			"description": "اول متوسطه عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11157081 کد پستی : 0",
+				"شهری دولتی شیفت اول",
+				"مستقل عادی شهری عادی"
+			],
+			"degree": 202
+		},
+		{
+			"id": 100,
+			"latLng": {
+				"latitude": 51.44245,
+				"longitude": 33.97789
+			},
+			"collegeType": 101,
+			"title": "سعیدی 96029569",
+			"telephone": [
+				"55229339"
+			],
+			"address": "خ علوی.جنب زیارت سلطان امیراحمد",
+			"description": "ابتدایی عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11062742 کد پستی : 0",
+				"شهری دولتی شیفت اول",
+				"مستقل عادی شهری عادی"
+			],
+			"degree": 101
+		},
+		{
+			"id": 101,
+			"latLng": {
+				"latitude": 51.40722,
+				"longitude": 33.97917
+			},
+			"collegeType": 201,
+			"title": "سلمان فارسی علوی 95103250",
+			"telephone": [
+				"0"
+			],
+			"address": "0",
+			"description": "اول متوسطه عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11107905 کد پستی : 0",
+				"روستایی دولتی شیفت اول",
+				"ضمیمه عادی روستایی عادی"
+			],
+			"degree": 201
+		},
+		{
+			"id": 102,
+			"latLng": {
+				"latitude": 51.34083,
+				"longitude": 34.02223
+			},
+			"collegeType": 102,
+			"title": "سمیه 38553304",
+			"telephone": [
+				"5512250"
+			],
+			"address": "راوند بلوار ابوالرضا راوندی",
+			"description": "ابتدایی عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11157405 کد پستی : 873193143",
+				"شهری دولتی شیفت اول",
+				"مستقل عادی شهری عادی"
+			],
+			"degree": 102
+		},
+		{
+			"id": 103,
+			"latLng": {
+				"latitude": 51.41871,
+				"longitude": 33.74991
+			},
+			"collegeType": 202,
+			"title": "سوده قمصر 95103307",
+			"telephone": [
+				"55642332"
+			],
+			"address": "کاشان قمصر خیابان شهید بهشتی روبروی امامزاده داوود",
+			"description": "اول متوسطه عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11135997 کد پستی : 8751811137",
+				"شهری دولتی شیفت اول",
+				"ضمیمه عادی شهری عادی"
+			],
+			"degree": 202
+		},
+		{
+			"id": 104,
+			"latLng": {
+				"latitude": 51.41306,
+				"longitude": 33.98778
+			},
+			"collegeType": 101,
+			"title": "سید حاجی طباطبایی دو 96070822",
+			"telephone": [
+				"55449988"
+			],
+			"address": "م اما رضا. کوی شبنم 19",
+			"description": "ابتدایی دوره دوم عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11218602 کد پستی : 0",
+				"شهری حمایتی شیفت دوم",
+				"مستقل غیردولتی حمایتی شهری عادی"
+			],
+			"degree": 101
+		},
+		{
+			"id": 105,
+			"latLng": {
+				"latitude": 51.41306,
+				"longitude": 33.98778
+			},
+			"collegeType": 101,
+			"title": "سید حاجی طباطبایی یک 96045784",
+			"telephone": [
+				"55444020"
+			],
+			"address": "م اما رضا. کوی شبنم 19",
+			"description": "ابتدایی دوره اول عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11218602 کد پستی : 0",
+				"شهری حمایتی شیفت اول",
+				"مستقل غیردولتی حمایتی شهری عادی"
+			],
+			"degree": 101
+		},
+		{
+			"id": 106,
+			"latLng": {
+				"latitude": 51.44245,
+				"longitude": 33.97789
+			},
+			"collegeType": 102,
+			"title": "سید علی مصطفوی 38506107",
+			"telephone": [
+				"4226948"
+			],
+			"address": "خ علوی سلطان امیراحمد",
+			"description": "ابتدایی عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11062742 کد پستی : 871399",
+				"شهری دولتی شیفت اول",
+				"مستقل عادی شهری عادی"
+			],
+			"degree": 102
+		},
+		{
+			"id": 107,
+			"latLng": {
+				"latitude": 51.40722,
+				"longitude": 33.97917
+			},
+			"collegeType": 102,
+			"title": "سید محمد قریشی 96070673",
+			"telephone": [
+				"55449988"
+			],
+			"address": "خ آیت اله بهشتی.کوچه مسجدشامخی",
+			"description": "ابتدایی دوره دوم عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11165764 کد پستی : 0",
+				"شهری دولتی شیفت اول",
+				"مستقل عادی شهری عادی"
+			],
+			"degree": 102
+		},
+		{
+			"id": 108,
+			"latLng": {
+				"latitude": 51.4540749,
+				"longitude": 33.99428
+			},
+			"collegeType": 202,
+			"title": "شاهد (مس فروش) 95112802",
+			"telephone": [
+				"0"
+			],
+			"address": "0",
+			"description": "اول متوسطه عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11158377 کد پستی : 0",
+				"شهری دولتی شیفت اول",
+				"مستقل شاهد شهری عادی"
+			],
+			"degree": 202
+		},
+		{
+			"id": 109,
+			"latLng": {
+				"latitude": 51.40722,
+				"longitude": 33.97917
+			},
+			"collegeType": 201,
+			"title": "شاهد(اخوان ستوده) 95112786",
+			"telephone": [
+				"55312443"
+			],
+			"address": "کاشان خیابان فیض ابتدای بلوار شهید معمار",
+			"description": "اول متوسطه عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11111106 کد پستی : 8718700000",
+				"شهری دولتی شیفت اول",
+				"مستقل شاهد شهری عادی"
+			],
+			"degree": 201
+		},
+		{
+			"id": 110,
+			"latLng": {
+				"latitude": 51.41492,
+				"longitude": 33.67293
+			},
+			"collegeType": 103,
+			"title": "شهدای قهرود 38520109",
+			"telephone": [
+				"3773270"
+			],
+			"address": "کاشان قهرود خ اصلی",
+			"description": "ابتدایی عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11167398 کد پستی : 87541",
+				"روستایی دولتی شیفت اول",
+				"مستقل عادی روستایی عادی"
+			],
+			"degree": 103
+		},
+		{
+			"id": 111,
+			"latLng": {
+				"latitude": 51.42527,
+				"longitude": 33.98555
+			},
+			"collegeType": 101,
+			"title": "شهدای انقلاب اسلامی 1 96070806",
+			"telephone": [
+				"55449988"
+			],
+			"address": "کاشان خیابان مدرس خیابان شهید خاندائی دبستان فاضل",
+			"description": "ابتدایی دوره اول عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11120960 کد پستی : 0",
+				"شهری حمایتی شیفت اول",
+				"مستقل غیردولتی حمایتی شهری عادی"
+			],
+			"degree": 101
+		},
+		{
+			"id": 112,
+			"latLng": {
+				"latitude": 51.40722,
+				"longitude": 33.97917
+			},
+			"collegeType": 101,
+			"title": "شهدای انقلاب اسلامی 2 96070829",
+			"telephone": [
+				"55449988"
+			],
+			"address": "کاشان خیابان آیت اله سعیدی انتهای خیابان نطنز زیر پل هوایی عابر پیاده مدرسه شهدای انقلاب",
+			"description": "ابتدایی دوره دوم عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11166962 کد پستی : 0",
+				"شهری حمایتی شیفت دوم",
+				"مستقل غیردولتی حمایتی شهری عادی"
+			],
+			"degree": 101
+		},
+		{
+			"id": 113,
+			"latLng": {
+				"latitude": 51.40722,
+				"longitude": 33.97917
+			},
+			"collegeType": 202,
+			"title": "شهدای خزاق 95103310",
+			"telephone": [
+				"0"
+			],
+			"address": "0",
+			"description": "اول متوسطه عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11157104 کد پستی : 0",
+				"شهری دولتی شیفت اول",
+				"مستقل عادی شهری عادی"
+			],
+			"degree": 202
+		},
+		{
+			"id": 114,
+			"latLng": {
+				"latitude": 51.34181,
+				"longitude": 34.02445
+			},
+			"collegeType": 401,
+			"title": "شهدای صنایع راوند 95090037",
+			"telephone": [
+				"0"
+			],
+			"address": "کاشان راوند بلوار ابوالرضا راوندی جنب اداره برق",
+			"description": "هنرستان کاردانش",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11133356 کد پستی : 0",
+				"شهری دولتی شیفت اول",
+				"ضمیمه دارد عادی شهری عادی"
+			],
+			"degree": 401
+		},
+		{
+			"id": 115,
+			"latLng": {
+				"latitude": 51.34181,
+				"longitude": 34.02445
+			},
+			"collegeType": 301,
+			"title": "شهدای صنایع راوند 38577103",
+			"telephone": [
+				"55512090"
+			],
+			"address": "راوند جنب اداره برق",
+			"description": "دوم متوسطه نظری",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11133356 کد پستی : 873183113",
+				"شهری دولتی شیفت اول",
+				"ضمیمه عادی شهری عادی"
+			],
+			"degree": 301
+		},
+		{
+			"id": 116,
+			"latLng": {
+				"latitude": 51.40722,
+				"longitude": 33.97917
+			},
+			"collegeType": 101,
+			"title": "شهدای طریق القدس یک 96070651",
+			"telephone": [
+				"55449988"
+			],
+			"address": "کاشان مشکان خ بهشتیان خ انقلاب ک شهید فریدونی ک کریمی بنت الهدی دبستان طریق القدس و بنت الهدی",
+			"description": "ابتدایی دوره اول عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11219199 کد پستی : 0",
+				"روستایی دولتی شیفت اول",
+				"ضمیمه دارد عادی روستایی عادی"
+			],
+			"degree": 101
+		},
+		{
+			"id": 117,
+			"latLng": {
+				"latitude": 51.40722,
+				"longitude": 33.97917
+			},
+			"collegeType": 103,
+			"title": "شهدای گمنام 96039709",
+			"telephone": [
+				"55449988"
+			],
+			"address": "کاشان -روستای خرمدشت مدرسه شهید گمنام",
+			"description": "ابتدایی عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11119425 کد پستی : 0",
+				"روستایی دولتی شیفت اول",
+				"مستقل عادی روستایی عادی"
+			],
+			"degree": 103
+		},
+		{
+			"id": 118,
+			"latLng": {
+				"latitude": 51.42469,
+				"longitude": 33.9803963
+			},
+			"collegeType": 202,
+			"title": "شهدای مخملبافی(1) 95103322",
+			"telephone": [
+				"55308040"
+			],
+			"address": "کاشان خیابان امیر کبیر خیابان نواب صفوی",
+			"description": "اول متوسطه عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 0 کد پستی : 8719677687",
+				"شهری دولتی شیفت اول",
+				"مستقل عادی شهری عادی"
+			],
+			"degree": 202
+		},
+		{
+			"id": 119,
+			"latLng": {
+				"latitude": 51.40722,
+				"longitude": 33.97917
+			},
+			"collegeType": 301,
+			"title": "شهدای مشکات 96039726",
+			"telephone": [
+				"55683211"
+			],
+			"address": "مشکان خ-شهرداری خ-ولایت کوچه ولایت راهنمایی شهدای مشکات",
+			"description": "دوم متوسطه نظری",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11236353 کد پستی : 0",
+				"شهری دولتی شیفت اول",
+				"ضمیمه عادی شهری عادی"
+			],
+			"degree": 301
+		},
+		{
+			"id": 120,
+			"latLng": {
+				"latitude": 51.4091,
+				"longitude": 33.95313
+			},
+			"collegeType": 201,
+			"title": "شهدای مکه 95103208",
+			"telephone": [
+				"55272200"
+			],
+			"address": "کاشان - شهرک 22 بهمن - خیابان جمهوری - کوچه شهادت دوم",
+			"description": "اول متوسطه عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11167956 کد پستی : 0",
+				"شهری دولتی شیفت اول",
+				"ضمیمه عادی شهری عادی"
+			],
+			"degree": 201
+		},
+		{
+			"id": 121,
+			"latLng": {
+				"latitude": 51.07334,
+				"longitude": 33.99112
+			},
+			"collegeType": 201,
+			"title": "شهدای نشلج 95103252",
+			"telephone": [
+				"3155630022"
+			],
+			"address": "کاشان نیاسر نشلج",
+			"description": "اول متوسطه عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11105717 کد پستی : 8738111111",
+				"روستایی دولتی شیفت اول",
+				"ضمیمه عادی روستایی عادی"
+			],
+			"degree": 201
+		},
+		{
+			"id": 122,
+			"latLng": {
+				"latitude": 51.40722,
+				"longitude": 33.97917
+			},
+			"collegeType": 202,
+			"title": "شهدای هفتم تیر 95103326",
+			"telephone": [
+				"0"
+			],
+			"address": "0",
+			"description": "اول متوسطه عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11283747 کد پستی : 0",
+				"شهری دولتی شیفت اول",
+				"مستقل عادی شهری عادی"
+			],
+			"degree": 202
+		},
+		{
+			"id": 123,
+			"latLng": {
+				"latitude": 51.14924,
+				"longitude": 33.83987
+			},
+			"collegeType": 103,
+			"title": "شهدای ویده جا 95001830",
+			"telephone": [
+				"3323855"
+			],
+			"address": "روستای ویده‌جا",
+			"description": "ابتدایی عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11109771 کد پستی : 8714134711",
+				"روستایی دولتی شیفت اول",
+				"مستقل عادی روستایی عادی"
+			],
+			"degree": 103
+		},
+		{
+			"id": 124,
+			"latLng": {
+				"latitude": 51.40916,
+				"longitude": 33.9533234
+			},
+			"collegeType": 102,
+			"title": "شهید دستغیب 96086183",
+			"telephone": [
+				"55449988"
+			],
+			"address": "0",
+			"description": "ابتدایی عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 0 کد پستی : 0",
+				"شهری حمایتی شیفت اول",
+				"مستقل غیردولتی حمایتی شهری عادی"
+			],
+			"degree": 102
+		},
+		{
+			"id": 125,
+			"latLng": {
+				"latitude": 51.4399948,
+				"longitude": 33.9751778
+			},
+			"collegeType": 402,
+			"title": "شهید آوینی 96084075",
+			"telephone": [
+				"55243388"
+			],
+			"address": "خ علوی جنب خانه تاریخی طباطباییها",
+			"description": "هنرستان فنی و حرفه ای",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 0 کد پستی : 0",
+				"شهری دولتی شیفت اول",
+				"مستقل عادی شهری عادی"
+			],
+			"degree": 402
+		},
+		{
+			"id": 126,
+			"latLng": {
+				"latitude": 51.40722,
+				"longitude": 33.97917
+			},
+			"collegeType": 101,
+			"title": "شهید احتشامی 95123934",
+			"telephone": [
+				"0"
+			],
+			"address": "0",
+			"description": "ابتدایی عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11106958 کد پستی : 0",
+				"شهری دولتی شیفت اول",
+				"مستقل عادی شهری عادی"
+			],
+			"degree": 101
+		},
+		{
+			"id": 127,
+			"latLng": {
+				"latitude": 51.21306,
+				"longitude": 33.58639
+			},
+			"collegeType": 201,
+			"title": "شهید اشرفی اصفهانی 95103213",
+			"telephone": [
+				"55662319"
+			],
+			"address": "جوشقان قالی - خ شهید باهنر",
+			"description": "اول متوسطه عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11108096 کد پستی : 0",
+				"شهری دولتی شیفت اول",
+				"ضمیمه عادی شهری عادی"
+			],
+			"degree": 201
+		},
+		{
+			"id": 128,
+			"latLng": {
+				"latitude": 51.44027,
+				"longitude": 33.98666
+			},
+			"collegeType": 201,
+			"title": "شهید الماسی 96040159",
+			"telephone": [
+				"55449988"
+			],
+			"address": "کاشان خیابان غزنوی جنب کوچه شهدای دانش آموز دبیرستان شهید الماسی",
+			"description": "اول متوسطه عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11287387 کد پستی : 0",
+				"شهری دولتی شیفت اول",
+				"مستقل عادی شهری عادی"
+			],
+			"degree": 201
+		},
+		{
+			"id": 129,
+			"latLng": {
+				"latitude": 51.45555,
+				"longitude": 33.98115
+			},
+			"collegeType": 201,
+			"title": "شهید باهنر 95103215",
+			"telephone": [
+				"55231511"
+			],
+			"address": "کاشان خیابان غیاث الدین جمشید کوچه قدمگاه",
+			"description": "اول متوسطه عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11283599 کد پستی : 8717698991",
+				"شهری دولتی شیفت اول",
+				"مستقل عادی شهری عادی"
+			],
+			"degree": 201
+		},
+		{
+			"id": 130,
+			"latLng": {
+				"latitude": 51.43519,
+				"longitude": 34.00583
+			},
+			"collegeType": 401,
+			"title": "شهید بهشتی 96084072",
+			"telephone": [
+				"5544488"
+			],
+			"address": "0",
+			"description": "هنرستان فنی و حرفه ای",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 0 کد پستی : 0",
+				"شهری دولتی شیفت اول",
+				"مستقل عادی شهری عادی"
+			],
+			"degree": 401
+		},
+		{
+			"id": 131,
+			"latLng": {
+				"latitude": 51.43519,
+				"longitude": 34.00583
+			},
+			"collegeType": 401,
+			"title": "شهید بهشتی 96084072",
+			"telephone": [
+				"5544488"
+			],
+			"address": "0",
+			"description": "هنرستان فنی و حرفه ای",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 0 کد پستی : 0",
+				"شهری دولتی شیفت اول",
+				"مستقل عادی شهری عادی"
+			],
+			"degree": 401
+		},
+		{
+			"id": 132,
+			"latLng": {
+				"latitude": 51.40722,
+				"longitude": 33.97917
+			},
+			"collegeType": 101,
+			"title": "شهید ترامیده 96070811",
+			"telephone": [
+				"55449988"
+			],
+			"address": "کاشان خیابان غیاث الدین جمشید.جنب مزار دشت افروز.مدرسه ترامیده",
+			"description": "ابتدایی دوره دوم عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11167219 کد پستی : 0",
+				"شهری حمایتی شیفت اول",
+				"مستقل غیردولتی حمایتی شهری عادی"
+			],
+			"degree": 101
+		},
+		{
+			"id": 133,
+			"latLng": {
+				"latitude": 51.43388,
+				"longitude": 34.00441
+			},
+			"collegeType": 202,
+			"title": "شهید ترنجی 95103327",
+			"telephone": [
+				"0"
+			],
+			"address": "0",
+			"description": "اول متوسطه عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11120666 کد پستی : 0",
+				"شهری دولتی شیفت اول",
+				"مستقل عادی شهری عادی"
+			],
+			"degree": 202
+		},
+		{
+			"id": 134,
+			"latLng": {
+				"latitude": 51.40722,
+				"longitude": 33.97917
+			},
+			"collegeType": 202,
+			"title": "شهید ترکیان فر 95112810",
+			"telephone": [
+				"55571120"
+			],
+			"address": "کاشان - میدان جهاد-بلوار مادر - کوچه مالک اشتر",
+			"description": "اول متوسطه عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11284016 کد پستی : 8714944379",
+				"شهری دولتی شیفت اول",
+				"مستقل استعدادهای درخشان شهری عادی"
+			],
+			"degree": 202
+		},
+		{
+			"id": 135,
+			"latLng": {
+				"latitude": 51.45167,
+				"longitude": 34.00722
+			},
+			"collegeType": 102,
+			"title": "شهید جهانگیر 96070667",
+			"telephone": [
+				"55449988"
+			],
+			"address": "کاشان بلوار کارگر",
+			"description": "ابتدایی دوره دوم عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11220067 کد پستی : 0",
+				"شهری دولتی شیفت اول",
+				"مستقل عادی شهری عادی"
+			],
+			"degree": 102
+		},
+		{
+			"id": 136,
+			"latLng": {
+				"latitude": 51.34889,
+				"longitude": 34.01944
+			},
+			"collegeType": 101,
+			"title": "شهید جواد طحانی راوند 38511305",
+			"telephone": [
+				"5512644"
+			],
+			"address": "راوندکوی آسیاب قاضی",
+			"description": "ابتدایی عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11286807 کد پستی : 873161113",
+				"شهری دولتی شیفت اول",
+				"مستقل عادی شهری عادی"
+			],
+			"degree": 101
+		},
+		{
+			"id": 137,
+			"latLng": {
+				"latitude": 51.40722,
+				"longitude": 33.97917
+			},
+			"collegeType": 101,
+			"title": "شهید جوانی 1 96013614",
+			"telephone": [
+				"3155233010"
+			],
+			"address": "خیابان نطنز کوچه مسجد باب الحوائج",
+			"description": "ابتدایی دوره اول عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11219019 کد پستی : 0",
+				"شهری دولتی شیفت اول",
+				"مستقل عادی شهری عادی"
+			],
+			"degree": 101
+		},
+		{
+			"id": 138,
+			"latLng": {
+				"latitude": 51.40722,
+				"longitude": 33.97917
+			},
+			"collegeType": 101,
+			"title": "شهید جوانی دو 96070896",
+			"telephone": [
+				"55449988"
+			],
+			"address": "خیابان نطنز کوچه مسجد باب الحوائج",
+			"description": "ابتدایی دوره دوم عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11219019 کد پستی : 0",
+				"شهری دولتی شیفت دوم",
+				"مستقل عادی شهری عادی"
+			],
+			"degree": 101
+		},
+		{
+			"id": 139,
+			"latLng": {
+				"latitude": 51.40722,
+				"longitude": 33.97917
+			},
+			"collegeType": 201,
+			"title": "شهید حاجی زاده 95121459",
+			"telephone": [
+				"0"
+			],
+			"address": "0",
+			"description": "اول متوسطه عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11219285 کد پستی : 0",
+				"شهری دولتی شیفت اول",
+				"مستقل عادی شهری عادی"
+			],
+			"degree": 201
+		},
+		{
+			"id": 140,
+			"latLng": {
+				"latitude": 51.47273,
+				"longitude": 33.98163
+			},
+			"collegeType": 101,
+			"title": "شهید حجازی 38503006",
+			"telephone": [
+				"4238400"
+			],
+			"address": "کمربندی روبروی پارکینگ اتوبوسرانی شهرداری",
+			"description": "ابتدایی عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11120170 کد پستی : 871687775",
+				"شهری دولتی شیفت اول",
+				"مستقل عادی شهری عادی"
+			],
+			"degree": 101
+		},
+		{
+			"id": 141,
+			"latLng": {
+				"latitude": 51.40722,
+				"longitude": 33.97917
+			},
+			"collegeType": 103,
+			"title": "شهید حسین زاده 38578105",
+			"telephone": [
+				"3353315"
+			],
+			"address": "کاشان روستای رحق",
+			"description": "ابتدایی عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11119625 کد پستی : 87581",
+				"روستایی دولتی شیفت اول",
+				"مستقل عادی روستایی عادی"
+			],
+			"degree": 103
+		},
+		{
+			"id": 142,
+			"latLng": {
+				"latitude": 51.4537125,
+				"longitude": 33.99392
+			},
+			"collegeType": 202,
+			"title": "شهید سالم 95103334",
+			"telephone": [
+				"0"
+			],
+			"address": "کاشان خ طالقانی خ شهید سعادتی",
+			"description": "اول متوسطه عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11107493 کد پستی : 0",
+				"شهری دولتی شیفت اول",
+				"مستقل عادی شهری عادی"
+			],
+			"degree": 202
+		},
+		{
+			"id": 143,
+			"latLng": {
+				"latitude": 51.40722,
+				"longitude": 33.97917
+			},
+			"collegeType": 101,
+			"title": "شهید شیرخدایی 96013603",
+			"telephone": [
+				"3155554545"
+			],
+			"address": "بلواردانش. زیدآباد",
+			"description": "ابتدایی عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11220114 کد پستی : 0",
+				"شهری دولتی شیفت اول",
+				"مستقل عادی شهری عادی"
+			],
+			"degree": 101
+		},
+		{
+			"id": 144,
+			"latLng": {
+				"latitude": 51.34869,
+				"longitude": 34.04623
+			},
+			"collegeType": 101,
+			"title": "شهید صدوقی 38511400",
+			"telephone": [
+				"5522330"
+			],
+			"address": "کاشان طاهرآبادخ رجائی",
+			"description": "ابتدایی عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 20530219 کد پستی : 873187468",
+				"شهری دولتی شیفت اول",
+				"ضمیمه دارد عادی شهری عادی"
+			],
+			"degree": 101
+		},
+		{
+			"id": 145,
+			"latLng": {
+				"latitude": 51.44857,
+				"longitude": 33.99842
+			},
+			"collegeType": 102,
+			"title": "شهید علائیان 38507109",
+			"telephone": [
+				"4459512"
+			],
+			"address": "خ 22بهمن کوچه بلندیان",
+			"description": "ابتدایی عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11166627 کد پستی : 871561576",
+				"شهری دولتی شیفت اول",
+				"مستقل عادی شهری عادی"
+			],
+			"degree": 102
+		},
+		{
+			"id": 146,
+			"latLng": {
+				"latitude": 51.43639,
+				"longitude": 34.0
+			},
+			"collegeType": 102,
+			"title": "شهید فخار 1 96014092",
+			"telephone": [
+				"31555242200"
+			],
+			"address": "کاشان.بلوار شهیدمطهری.کوچه زندان",
+			"description": "ابتدایی عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11218252 کد پستی : 0",
+				"شهری دولتی شیفت اول",
+				"مستقل عادی شهری عادی"
+			],
+			"degree": 102
+		},
+		{
+			"id": 147,
+			"latLng": {
+				"latitude": 51.43639,
+				"longitude": 34.0
+			},
+			"collegeType": 101,
+			"title": "شهید فخار 2 96014089",
+			"telephone": [
+				"31555242200"
+			],
+			"address": "کاشان.بلوار شهیدمطهری.کوچه زندان",
+			"description": "ابتدایی عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11218252 کد پستی : 0",
+				"شهری دولتی شیفت دوم",
+				"ضمیمه دارد عادی شهری عادی"
+			],
+			"degree": 101
+		},
+		{
+			"id": 148,
+			"latLng": {
+				"latitude": 51.40722,
+				"longitude": 33.97917
+			},
+			"collegeType": 202,
+			"title": "شهید فرجی 95103336",
+			"telephone": [
+				"0"
+			],
+			"address": "0",
+			"description": "اول متوسطه عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11208452 کد پستی : 0",
+				"شهری دولتی شیفت اول",
+				"مستقل عادی شهری عادی"
+			],
+			"degree": 202
+		},
+		{
+			"id": 149,
+			"latLng": {
+				"latitude": 51.45969,
+				"longitude": 33.9925
+			},
+			"collegeType": 500,
+			"title": "شهید فهمیده 95121169",
+			"telephone": [
+				"55440221"
+			],
+			"address": "کاشان چهارراه امیریه کوی دباغ خان روبروی مسجد امام حسن (ع)",
+			"description": "اول متوسطه پیش حرفه ای - استثنایی عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11196089 کد پستی : 8719669933",
+				"شهری دولتی شیفت اول",
+				"ضمیمه عادی شهری استثنايي"
+			],
+			"degree": 500
+		},
+		{
+			"id": 150,
+			"latLng": {
+				"latitude": 51.45969,
+				"longitude": 33.9925
+			},
+			"collegeType": 500,
+			"title": "شهید فهمیده 95034963",
+			"telephone": [
+				"4440211"
+			],
+			"address": "کاشان خ طالقانی کوی دباغ خان",
+			"description": "دوم متوسطه حرفه ای - استثنایی متوسطه حرفه ای(استثنایی)",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11196089 کد پستی : 871666993",
+				"شهری دولتی شیفت اول",
+				"ضمیمه دارد عادی شهری استثنايي"
+			],
+			"degree": 500
+		},
+		{
+			"id": 151,
+			"latLng": {
+				"latitude": 51.45969,
+				"longitude": 33.9925
+			},
+			"collegeType": 500,
+			"title": "شهید فهمیده (کودکستان) 95129791",
+			"telephone": [
+				"0"
+			],
+			"address": "0",
+			"description": "پیش دبستان عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11196089 کد پستی : 0",
+				"شهری دولتی شیفت اول",
+				"ضمیمه عادی شهری استثنايي"
+			],
+			"degree": 500
+		},
+		{
+			"id": 152,
+			"latLng": {
+				"latitude": 51.40722,
+				"longitude": 33.97917
+			},
+			"collegeType": 101,
+			"title": "شهید قاسمی 96029576",
+			"telephone": [
+				"31"
+			],
+			"address": "کاشان نیاسر چاله قاپ مدرسه سلطانعلی محمد باقر",
+			"description": "ابتدایی عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11060389 کد پستی : 0",
+				"شهری حمایتی شیفت اول",
+				"مستقل غیردولتی حمایتی شهری عادی"
+			],
+			"degree": 101
+		},
+		{
+			"id": 153,
+			"latLng": {
+				"latitude": 51.40722,
+				"longitude": 33.97917
+			},
+			"collegeType": 101,
+			"title": "شهید گلچهرگان 96070648",
+			"telephone": [
+				"55449988"
+			],
+			"address": "کاشان خیابان رسالت خوابگاه شهید دیلمی",
+			"description": "ابتدایی دوره اول عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11135028 کد پستی : 0",
+				"شهری دولتی شیفت اول",
+				"مستقل عادی شهری عادی"
+			],
+			"degree": 101
+		},
+		{
+			"id": 154,
+			"latLng": {
+				"latitude": 51.4634476,
+				"longitude": 33.9793549
+			},
+			"collegeType": 402,
+			"title": "شهید گلچهرگان 95067324",
+			"telephone": [
+				"55230109"
+			],
+			"address": "کاشان-خیابان رسالت",
+			"description": "هنرستان کاردانش",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 24081598 کد پستی : 8716846116",
+				"شهری دولتی شیفت اول",
+				"مستقل عادی شهری عادی"
+			],
+			"degree": 402
+		},
+		{
+			"id": 155,
+			"latLng": {
+				"latitude": 51.4634476,
+				"longitude": 33.9793549
+			},
+			"collegeType": 402,
+			"title": "شهید گلچهرگان 95067324",
+			"telephone": [
+				"55230109"
+			],
+			"address": "کاشان-خیابان رسالت",
+			"description": "هنرستان کاردانش",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 24081598 کد پستی : 8716846116",
+				"شهری دولتی شیفت اول",
+				"مستقل عادی شهری عادی"
+			],
+			"degree": 402
+		},
+		{
+			"id": 156,
+			"latLng": {
+				"latitude": 51.45923,
+				"longitude": 33.99232
+			},
+			"collegeType": 500,
+			"title": "شهید محمد خیامی 95141378",
+			"telephone": [
+				"0"
+			],
+			"address": "کاشان خیابان طالقانی کوی دباغخان مدرسه شهید فهمیده",
+			"description": "دوم متوسطه حرفه ای - استثنایی متوسطه حرفه ای(استثنایی)",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11190806 کد پستی : 0",
+				"شهری دولتی شیفت اول",
+				"ضمیمه عادی شهری استثنايي"
+			],
+			"degree": 500
+		},
+		{
+			"id": 157,
+			"latLng": {
+				"latitude": 51.45923,
+				"longitude": 33.99232
+			},
+			"collegeType": 500,
+			"title": "شهید محمد خیامی 95141379",
+			"telephone": [
+				"0"
+			],
+			"address": "کاشان خیابان طالقانی کوی دباغخان مدرسه شهید فهمیده",
+			"description": "اول متوسطه پیش حرفه ای - استثنایی عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11190806 کد پستی : 0",
+				"شهری دولتی شیفت اول",
+				"ضمیمه دارد عادی شهری استثنايي"
+			],
+			"degree": 500
+		},
+		{
+			"id": 158,
+			"latLng": {
+				"latitude": 51.40722,
+				"longitude": 33.97917
+			},
+			"collegeType": 101,
+			"title": "شهید محمود خادمی 96070644",
+			"telephone": [
+				"55449988"
+			],
+			"address": "خ- شهید بهشتی خ -سپاه",
+			"description": "ابتدایی دوره اول عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11160225 کد پستی : 0",
+				"شهری دولتی شیفت اول",
+				"مستقل عادی شهری عادی"
+			],
+			"degree": 101
+		},
+		{
+			"id": 159,
+			"latLng": {
+				"latitude": 51.45585,
+				"longitude": 33.97798
+			},
+			"collegeType": 202,
+			"title": "شهید مطهری 96064392",
+			"telephone": [
+				"55449988"
+			],
+			"address": "خیابان غیاث الدین جمشید.کوچه7متری",
+			"description": "اول متوسطه عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11174196 کد پستی : 0",
+				"شهری دولتی شیفت اول",
+				"مستقل عادی شهری عادی"
+			],
+			"degree": 202
+		},
+		{
+			"id": 160,
+			"latLng": {
+				"latitude": 51.40722,
+				"longitude": 33.97917
+			},
+			"collegeType": 101,
+			"title": "شهید معمار 96070666",
+			"telephone": [
+				"55449988"
+			],
+			"address": "کاشان خیابان اصلی حسن آباد کوچه 30 متری",
+			"description": "ابتدایی دوره دوم عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11252707 کد پستی : 0",
+				"شهری دولتی شیفت اول",
+				"مستقل عادی شهری عادی"
+			],
+			"degree": 101
+		},
+		{
+			"id": 161,
+			"latLng": {
+				"latitude": 51.45738,
+				"longitude": 33.99244
+			},
+			"collegeType": 102,
+			"title": "شهید مفتح 38507204",
+			"telephone": [
+				"4448737"
+			],
+			"address": "کاشان خ طالقانی کوچه محراب16",
+			"description": "ابتدایی عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11159927 کد پستی : 871667369",
+				"شهری دولتی شیفت اول",
+				"مستقل عادی شهری عادی"
+			],
+			"degree": 102
+		},
+		{
+			"id": 162,
+			"latLng": {
+				"latitude": 51.34165,
+				"longitude": 34.02151
+			},
+			"collegeType": 101,
+			"title": "شهید مهدی عراقی 38511707",
+			"telephone": [
+				"5512273"
+			],
+			"address": "راوند ابوالرضا روبروی پل هوایی",
+			"description": "ابتدایی عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11107059 کد پستی : 873193113",
+				"شهری دولتی شیفت اول",
+				"مستقل عادی شهری عادی"
+			],
+			"degree": 101
+		},
+		{
+			"id": 163,
+			"latLng": {
+				"latitude": 51.43444,
+				"longitude": 33.97472
+			},
+			"collegeType": 101,
+			"title": "شهید مهدی هنردار 96070892",
+			"telephone": [
+				"55449988"
+			],
+			"address": "کاشان فلکه قاضی اسداله کوی فیض",
+			"description": "ابتدایی عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11107327 کد پستی : 0",
+				"شهری دولتی شیفت اول",
+				"مستقل عادی شهری عادی"
+			],
+			"degree": 101
+		},
+		{
+			"id": 164,
+			"latLng": {
+				"latitude": 51.40722,
+				"longitude": 33.97917
+			},
+			"collegeType": 202,
+			"title": "شهید نوری 95103341",
+			"telephone": [
+				"55544200"
+			],
+			"address": "کاشان خیابان شهید رحمانی",
+			"description": "اول متوسطه عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11218316 کد پستی : 8715173978",
+				"شهری دولتی شیفت اول",
+				"مستقل عادی شهری عادی"
+			],
+			"degree": 202
+		},
+		{
+			"id": 165,
+			"latLng": {
+				"latitude": 51.27989,
+				"longitude": 34.2491
+			},
+			"collegeType": 103,
+			"title": "شهید هاشمی سن سن 96045785",
+			"telephone": [
+				"55449988"
+			],
+			"address": "کاشان روستای سن سن دبستان هاشمی",
+			"description": "ابتدایی عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11238398 کد پستی : 0",
+				"شهری حمایتی شیفت اول",
+				"مستقل غیردولتی حمایتی شهری عادی"
+			],
+			"degree": 103
+		},
+		{
+			"id": 166,
+			"latLng": {
+				"latitude": 51.46079,
+				"longitude": 33.93079
+			},
+			"collegeType": 202,
+			"title": "شهید واحدی 95103337",
+			"telephone": [
+				"0"
+			],
+			"address": "کاشان شهرک 22 بهمن",
+			"description": "اول متوسطه عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11237455 کد پستی : 0",
+				"شهری دولتی شیفت اول",
+				"ضمیمه عادی شهری عادی"
+			],
+			"degree": 202
+		},
+		{
+			"id": 167,
+			"latLng": {
+				"latitude": 51.44838,
+				"longitude": 33.99469
+			},
+			"collegeType": 101,
+			"title": "شهید کلانتری 38511506",
+			"telephone": [
+				"3722442"
+			],
+			"address": "کاشان جوشقان قالی",
+			"description": "ابتدایی عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11119358 کد پستی : 87551",
+				"شهری دولتی شیفت اول",
+				"مستقل عادی شهری عادی"
+			],
+			"degree": 101
+		},
+		{
+			"id": 168,
+			"latLng": {
+				"latitude": 51.45055,
+				"longitude": 33.97167
+			},
+			"collegeType": 102,
+			"title": "شهید یوسف پور 96070654",
+			"telephone": [
+				"55444020"
+			],
+			"address": "کاشان انتهای خیابان درب اصفهان کوچه جانبازان دبستان آقا بزرگ",
+			"description": "ابتدایی دوره دوم عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11196877 کد پستی : 0",
+				"شهری دولتی شیفت اول",
+				"مستقل عادی شهری عادی"
+			],
+			"degree": 102
+		},
+		{
+			"id": 169,
+			"latLng": {
+				"latitude": 51.40055,
+				"longitude": 33.95084
+			},
+			"collegeType": 102,
+			"title": "شهیدآیت اله مدنی یک 38516706",
+			"telephone": [
+				"5305500"
+			],
+			"address": "فین بزرگ خ امامزاده هادی",
+			"description": "ابتدایی عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11220735 کد پستی : 871871113",
+				"شهری دولتی شیفت اول",
+				"مستقل عادی شهری عادی"
+			],
+			"degree": 102
+		},
+		{
+			"id": 170,
+			"latLng": {
+				"latitude": 51.40722,
+				"longitude": 33.97917
+			},
+			"collegeType": 201,
+			"title": "شهیدان تقی زاده 96014103",
+			"telephone": [
+				"3155683211"
+			],
+			"address": "مشکان خ-شهرداری خ-ولایت کوچه ولایت راهنمایی شهدای مشکات",
+			"description": "اول متوسطه عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11236353 کد پستی : 0",
+				"شهری دولتی شیفت اول",
+				"ضمیمه دارد عادی شهری عادی"
+			],
+			"degree": 201
+		},
+		{
+			"id": 171,
+			"latLng": {
+				"latitude": 51.45533,
+				"longitude": 34.00524
+			},
+			"collegeType": 101,
+			"title": "شهیداکبرنقاده (2) 96081559",
+			"telephone": [
+				"55449988"
+			],
+			"address": "0",
+			"description": "ابتدایی دوره دوم عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 0 کد پستی : 0",
+				"شهری دولتی شیفت دوم",
+				"مستقل عادی شهری عادی"
+			],
+			"degree": 101
+		},
+		{
+			"id": 172,
+			"latLng": {
+				"latitude": 51.40722,
+				"longitude": 33.97917
+			},
+			"collegeType": 202,
+			"title": "شهیدجمال 95103330",
+			"telephone": [
+				"55239094"
+			],
+			"address": "کاشان خیابان امام کوچه روبروی حبیب موسی جنب خانه تاریخی آل یاسین",
+			"description": "اول متوسطه عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11120264 کد پستی : 8716716391",
+				"شهری دولتی شیفت اول",
+				"مستقل عادی شهری عادی"
+			],
+			"degree": 202
+		},
+		{
+			"id": 173,
+			"latLng": {
+				"latitude": 51.07972,
+				"longitude": 34.04139
+			},
+			"collegeType": 103,
+			"title": "شهیدچمران 38553801",
+			"telephone": [
+				"3373222"
+			],
+			"address": "کاشان روستای علوی",
+			"description": "ابتدایی عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11064457 کد پستی : 87381",
+				"روستایی دولتی شیفت اول",
+				"ضمیمه دارد عادی روستایی عادی"
+			],
+			"degree": 103
+		},
+		{
+			"id": 174,
+			"latLng": {
+				"latitude": 51.40722,
+				"longitude": 33.97917
+			},
+			"collegeType": 302,
+			"title": "شهیدحاج محسن پورمحمدیان 96013845",
+			"telephone": [
+				"3155226688"
+			],
+			"address": "خ- آیت اله سعیدی خ نطنز کوچه نوابی جنب ورزشگاه دبیرستان پور محمدیان",
+			"description": "دوم متوسطه نظری",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11239193 کد پستی : 0",
+				"شهری دولتی شیفت اول",
+				"مستقل عادی شهری عادی"
+			],
+			"degree": 302
+		},
+		{
+			"id": 175,
+			"latLng": {
+				"latitude": 51.42762,
+				"longitude": 33.98783
+			},
+			"collegeType": 202,
+			"title": "شهیدرحمانی 95103332",
+			"telephone": [
+				"55522200"
+			],
+			"address": "کاشان طاهرآباد خیابان شهید رجایی کوچه خواجه ملک جنب ورزشگاه شهدا",
+			"description": "اول متوسطه عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11063066 کد پستی : 8739100000",
+				"شهری دولتی شیفت اول",
+				"ضمیمه عادی شهری عادی"
+			],
+			"degree": 202
+		},
+		{
+			"id": 176,
+			"latLng": {
+				"latitude": 51.43444,
+				"longitude": 33.97472
+			},
+			"collegeType": 102,
+			"title": "شهیدرحمت اله روحانی 38553600",
+			"telephone": [
+				"4228668"
+			],
+			"address": "میدان قاضی اسداله روبروی بانک خون",
+			"description": "ابتدایی عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11107327 کد پستی : 871787353",
+				"شهری دولتی شیفت اول",
+				"مستقل عادی شهری عادی"
+			],
+			"degree": 102
+		},
+		{
+			"id": 177,
+			"latLng": {
+				"latitude": 51.03416,
+				"longitude": 33.68027
+			},
+			"collegeType": 103,
+			"title": "شهیدرضوی تجره 38520606",
+			"telephone": [
+				"0"
+			],
+			"address": "کاشان ورکان روستای تجره",
+			"description": "ابتدایی عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11219992 کد پستی : 87591",
+				"روستایی دولتی شیفت اول",
+				"مستقل عادی روستایی عادی"
+			],
+			"degree": 103
+		},
+		{
+			"id": 178,
+			"latLng": {
+				"latitude": 51.15668,
+				"longitude": 33.90714
+			},
+			"collegeType": 103,
+			"title": "شهیدسیدمرتضی هاشمی رضا 38569407",
+			"telephone": [
+				"2273454"
+			],
+			"address": "روستای مرق خ اصلی",
+			"description": "ابتدایی عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11238793 کد پستی : 873115736",
+				"روستایی دولتی شیفت اول",
+				"ضمیمه دارد عادی روستایی عادی"
+			],
+			"degree": 103
+		},
+		{
+			"id": 179,
+			"latLng": {
+				"latitude": 51.35232,
+				"longitude": 34.01404
+			},
+			"collegeType": 101,
+			"title": "شهیدشاهرودیان دو 38512709",
+			"telephone": [
+				"5512188"
+			],
+			"address": "کاشان راوندشهرک قطب بلوار آزادی",
+			"description": "ابتدایی عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11160160 کد پستی : 873174515",
+				"شهری دولتی شیفت دوم",
+				"ضمیمه دارد عادی شهری عادی"
+			],
+			"degree": 101
+		},
+		{
+			"id": 180,
+			"latLng": {
+				"latitude": 51.40722,
+				"longitude": 33.97917
+			},
+			"collegeType": 102,
+			"title": "شهیدعبدالحمیددیالمه 96013646",
+			"telephone": [
+				"355647322"
+			],
+			"address": "کاشان _ قمصر خیابان امام خمینی جنب شرکت تعاونی",
+			"description": "ابتدایی عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11107905 کد پستی : 0",
+				"شهری دولتی شیفت اول",
+				"مستقل عادی شهری عادی"
+			],
+			"degree": 102
+		},
+		{
+			"id": 181,
+			"latLng": {
+				"latitude": 51.43388,
+				"longitude": 34.00441
+			},
+			"collegeType": 102,
+			"title": "شهیدعلیرضایزدانی یک 38507807",
+			"telephone": [
+				"5550566"
+			],
+			"address": "بلوارقطب راوندی شهرک انقلاب",
+			"description": "ابتدایی عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11120666 کد پستی : 871593364",
+				"شهری دولتی شیفت اول",
+				"مستقل عادی شهری عادی"
+			],
+			"degree": 102
+		},
+		{
+			"id": 182,
+			"latLng": {
+				"latitude": 51.04546,
+				"longitude": 33.71757
+			},
+			"collegeType": 103,
+			"title": "شهیدفارسی ورکان 38512901",
+			"telephone": [
+				"3453334"
+			],
+			"address": "روستای ورکان",
+			"description": "ابتدایی عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11119721 کد پستی : 87131",
+				"روستایی دولتی شیفت اول",
+				"مستقل عادی روستایی عادی"
+			],
+			"degree": 103
+		},
+		{
+			"id": 183,
+			"latLng": {
+				"latitude": 51.152977,
+				"longitude": 33.97447
+			},
+			"collegeType": 201,
+			"title": "شهیدقاسمی نیاسر 95103218",
+			"telephone": [
+				"0"
+			],
+			"address": "کاشان-نیاسر خیابان امام خمینی روبروی میدان میراث فرهنگی",
+			"description": "اول متوسطه عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11218252 کد پستی : 8718116841",
+				"شهری دولتی شیفت اول",
+				"ضمیمه عادی شهری عادی"
+			],
+			"degree": 201
+		},
+		{
+			"id": 184,
+			"latLng": {
+				"latitude": 51.34944,
+				"longitude": 34.04694
+			},
+			"collegeType": 102,
+			"title": "شهیدقاضی طباطبائی 38517306",
+			"telephone": [
+				"5522224"
+			],
+			"address": "کاشان طاهرآبادایستگاه اتوبوس جنب دبیرستان یزدانپور",
+			"description": "ابتدایی عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11166890 کد پستی : 873910000",
+				"شهری دولتی شیفت اول",
+				"ضمیمه دارد عادی شهری عادی"
+			],
+			"degree": 102
+		},
+		{
+			"id": 185,
+			"latLng": {
+				"latitude": 51.13173,
+				"longitude": 33.71213
+			},
+			"collegeType": 103,
+			"title": "شهیدلطیفی 38560104",
+			"telephone": [
+				"23423311"
+			],
+			"address": "کاشان روستای آزران",
+			"description": "ابتدایی عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11110192 کد پستی : 87591",
+				"روستایی دولتی شیفت اول",
+				"ضمیمه دارد عادی روستایی عادی"
+			],
+			"degree": 103
+		},
+		{
+			"id": 186,
+			"latLng": {
+				"latitude": 51.4399834,
+				"longitude": 33.992836
+			},
+			"collegeType": 302,
+			"title": "شهیدمازوچی 38591507",
+			"telephone": [
+				"4468183"
+			],
+			"address": "خیابان شاهد",
+			"description": "دوم متوسطه نظری",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 20677978 کد پستی : 871473343",
+				"شهری دولتی شیفت اول",
+				"ضمیمه دارد نمونه دولتی شهری عادی"
+			],
+			"degree": 302
+		},
+		{
+			"id": 187,
+			"latLng": {
+				"latitude": 51.22499,
+				"longitude": 33.78138
+			},
+			"collegeType": 201,
+			"title": "شهیدمیرزایی برزک 95103222",
+			"telephone": [
+				"3155673195"
+			],
+			"address": "کاشان برزک محله مصلا جنب میدان فرهنگ",
+			"description": "اول متوسطه عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11158765 کد پستی : 8756135576",
+				"شهری دولتی شیفت اول",
+				"مستقل عادی شهری عادی"
+			],
+			"degree": 201
+		},
+		{
+			"id": 188,
+			"latLng": {
+				"latitude": 51.18867,
+				"longitude": 33.55776
+			},
+			"collegeType": 103,
+			"title": "شهیدنوراله سبزواری 38522007",
+			"telephone": [
+				"3722630"
+			],
+			"address": "جوشقان قالی مجموعه وحدت",
+			"description": "ابتدایی عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 20530722 کد پستی : 875511",
+				"شهری دولتی شیفت اول",
+				"ضمیمه دارد عادی شهری عادی"
+			],
+			"degree": 103
+		},
+		{
+			"id": 189,
+			"latLng": {
+				"latitude": 51.442,
+				"longitude": 34.0008
+			},
+			"collegeType": 102,
+			"title": "شهیدهاشمی نژاد 38505105",
+			"telephone": [
+				"5559767"
+			],
+			"address": "بلوارخادمی کوچه توحیدهشتم",
+			"description": "ابتدایی عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11159465 کد پستی : 871517461",
+				"شهری دولتی شیفت اول",
+				"مستقل عادی شهری عادی"
+			],
+			"degree": 102
+		},
+		{
+			"id": 190,
+			"latLng": {
+				"latitude": 51.24139,
+				"longitude": 34.01972
+			},
+			"collegeType": 103,
+			"title": "شهیدهدهدی 38578909",
+			"telephone": [
+				"2563418"
+			],
+			"address": "کاشان استرک",
+			"description": "ابتدایی عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11119548 کد پستی : 87311",
+				"روستایی دولتی شیفت اول",
+				"مستقل عادی روستایی عادی"
+			],
+			"degree": 103
+		},
+		{
+			"id": 191,
+			"latLng": {
+				"latitude": 51.43819,
+				"longitude": 33.96379
+			},
+			"collegeType": 201,
+			"title": "شهیدکاظمی لتحر 95103220",
+			"telephone": [
+				"55221811"
+			],
+			"address": "کاشان لتحر خ زیارت جنب امامزاده",
+			"description": "اول متوسطه عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11285799 کد پستی : 8717837756",
+				"شهری دولتی شیفت اول",
+				"مستقل عادی شهری عادی"
+			],
+			"degree": 201
+		},
+		{
+			"id": 192,
+			"latLng": {
+				"latitude": 51.07334,
+				"longitude": 33.99112
+			},
+			"collegeType": 103,
+			"title": "شهیدکمرانیان زاده نشلج 38560201",
+			"telephone": [
+				"3343509"
+			],
+			"address": "کاشان روستای نشلج",
+			"description": "ابتدایی عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11105717 کد پستی : 87381",
+				"روستایی دولتی شیفت اول",
+				"ضمیمه دارد عادی روستایی عادی"
+			],
+			"degree": 103
+		},
+		{
+			"id": 193,
+			"latLng": {
+				"latitude": 51.165,
+				"longitude": 33.84027
+			},
+			"collegeType": 201,
+			"title": "صادقیه ویدوج 95103269",
+			"telephone": [
+				"55653300"
+			],
+			"address": "کاشان روستای برزک ویدوج دهستان گلاب",
+			"description": "اول متوسطه عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11208712 کد پستی : 8714143879",
+				"روستایی دولتی شیفت اول",
+				"ضمیمه عادی روستایی عادی"
+			],
+			"degree": 201
+		},
+		{
+			"id": 194,
+			"latLng": {
+				"latitude": 51.10366,
+				"longitude": 34.08985
+			},
+			"collegeType": 103,
+			"title": "صالح کله 38522303",
+			"telephone": [
+				"3482211"
+			],
+			"address": "کاشان روستای کله",
+			"description": "ابتدایی عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11120448 کد پستی : 87581",
+				"روستایی دولتی شیفت اول",
+				"ضمیمه دارد عادی روستایی عادی"
+			],
+			"degree": 103
+		},
+		{
+			"id": 195,
+			"latLng": {
+				"latitude": 51.15962,
+				"longitude": 33.97164
+			},
+			"collegeType": 201,
+			"title": "صفاری 95123933",
+			"telephone": [
+				"0"
+			],
+			"address": "0",
+			"description": "اول متوسطه عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11136121 کد پستی : 0",
+				"شهری دولتی شیفت اول",
+				"ضمیمه دارد عادی شهری عادی"
+			],
+			"degree": 201
+		},
+		{
+			"id": 196,
+			"latLng": {
+				"latitude": 51.43922,
+				"longitude": 33.98806
+			},
+			"collegeType": 101,
+			"title": "صلاحی 96070899",
+			"telephone": [
+				"55449988"
+			],
+			"address": "کاشان خیابان شهید بهشتی خیابان سپاه پاسداران",
+			"description": "ابتدایی دوره دوم عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11196428 کد پستی : 0",
+				"شهری دولتی شیفت اول",
+				"مستقل عادی شهری عادی"
+			],
+			"degree": 101
+		},
+		{
+			"id": 197,
+			"latLng": {
+				"latitude": 51.46386,
+				"longitude": 33.97966
+			},
+			"collegeType": 102,
+			"title": "طالبیان 38508005",
+			"telephone": [
+				"4231716"
+			],
+			"address": "خ ژاندارمری روبروی مسجدمحمدی",
+			"description": "ابتدایی عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11120053 کد پستی : 871684511",
+				"شهری دولتی شیفت اول",
+				"مستقل عادی شهری عادی"
+			],
+			"degree": 102
+		},
+		{
+			"id": 198,
+			"latLng": {
+				"latitude": 51.40722,
+				"longitude": 33.97917
+			},
+			"collegeType": 102,
+			"title": "طالقانی 95141381",
+			"telephone": [
+				"0"
+			],
+			"address": "کاشان برزک جنب بهزیستی دبستان طالقانی",
+			"description": "ابتدایی عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11166172 کد پستی : 0",
+				"شهری دولتی شیفت اول",
+				"مستقل عادی شهری عادی"
+			],
+			"degree": 102
+		},
+		{
+			"id": 199,
+			"latLng": {
+				"latitude": 51.05361,
+				"longitude": 34.03611
+			},
+			"collegeType": 103,
+			"title": "طاهری باریکرسف 96070865",
+			"telephone": [
+				"55449988"
+			],
+			"address": "کاشان مشهد اردهال روستای باریکرسف دبستان طاهری",
+			"description": "ابتدایی عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11064236 کد پستی : 0",
+				"روستایی حمایتی شیفت اول",
+				"مستقل غیردولتی حمایتی روستایی عادی"
+			],
+			"degree": 103
+		},
+		{
+			"id": 200,
+			"latLng": {
+				"latitude": 51.40722,
+				"longitude": 33.97917
+			},
+			"collegeType": 202,
+			"title": "عترت راوند 95103343",
+			"telephone": [
+				"0"
+			],
+			"address": "0",
+			"description": "اول متوسطه عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11217962 کد پستی : 0",
+				"شهری دولتی شیفت اول",
+				"مستقل عادی شهری عادی"
+			],
+			"degree": 202
+		},
+		{
+			"id": 201,
+			"latLng": {
+				"latitude": 51.4174767,
+				"longitude": 33.99283
+			},
+			"collegeType": 202,
+			"title": "علی ابن ابیطالب 96081536",
+			"telephone": [
+				"55449988"
+			],
+			"address": "0",
+			"description": "اول متوسطه عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 0 کد پستی : 0",
+				"شهری دولتی شیفت اول",
+				"مستقل عادی شهری عادی"
+			],
+			"degree": 202
+		},
+		{
+			"id": 202,
+			"latLng": {
+				"latitude": 51.44224,
+				"longitude": 33.98995
+			},
+			"collegeType": 401,
+			"title": "علی شهیدنراقی 38588408",
+			"telephone": [
+				"4445655"
+			],
+			"address": "کاشان خیابان شهیدرجائی کوچه قدمگاه",
+			"description": "هنرستان کاردانش",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11288108 کد پستی : 871474319",
+				"شهری دولتی شیفت اول",
+				"ضمیمه عادی شهری عادی"
+			],
+			"degree": 401
+		},
+		{
+			"id": 203,
+			"latLng": {
+				"latitude": 51.44224,
+				"longitude": 33.98995
+			},
+			"collegeType": 401,
+			"title": "علی شهیدنراقی کاشان (نساجی ) 38538702",
+			"telephone": [
+				"4445655"
+			],
+			"address": "کاشان خیابان شهیدرجائی کوچه قدمگاه",
+			"description": "هنرستان فنی و حرفه ای",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11288108 کد پستی : 871474319",
+				"شهری دولتی شیفت اول",
+				"ضمیمه دارد عادی شهری عادی"
+			],
+			"degree": 401
+		},
+		{
+			"id": 204,
+			"latLng": {
+				"latitude": 51.42527,
+				"longitude": 33.98555
+			},
+			"collegeType": 101,
+			"title": "فاضل نراقی 96070864",
+			"telephone": [
+				"55449988"
+			],
+			"address": "کاشان خیابان مدرس خیابان شهید خاندائی دبستان فاضل",
+			"description": "ابتدایی عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11120960 کد پستی : 0",
+				"شهری حمایتی شیفت اول",
+				"مستقل غیردولتی حمایتی شهری عادی"
+			],
+			"degree": 101
+		},
+		{
+			"id": 205,
+			"latLng": {
+				"latitude": 51.42527,
+				"longitude": 33.98555
+			},
+			"collegeType": 101,
+			"title": "فاضل نراقی 96040093",
+			"telephone": [
+				"55444020"
+			],
+			"address": "کاشان خیابان مدرس خیابان شهید خاندائی دبستان فاضل",
+			"description": "ابتدایی دوره دوم عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11120960 کد پستی : 0",
+				"شهری دولتی شیفت اول",
+				"مستقل عادی شهری عادی"
+			],
+			"degree": 101
+		},
+		{
+			"id": 206,
+			"latLng": {
+				"latitude": 51.43194,
+				"longitude": 33.99027
+			},
+			"collegeType": 302,
+			"title": "فاطمه زهرا (س) 95121470",
+			"telephone": [
+				"0"
+			],
+			"address": "0",
+			"description": "دوم متوسطه نظری",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11136047 کد پستی : 0",
+				"شهری دولتی شیفت اول",
+				"مستقل عادی شهری عادی"
+			],
+			"degree": 302
+		},
+		{
+			"id": 207,
+			"latLng": {
+				"latitude": 51.40039,
+				"longitude": 33.96945
+			},
+			"collegeType": 101,
+			"title": "فاطمه عابد سلطان 2 95059255",
+			"telephone": [
+				"5332080"
+			],
+			"address": "خیابان امیرکبیر شهرک امیرالمومنین",
+			"description": "ابتدایی عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11167793 کد پستی : 871961541",
+				"شهری دولتی شیفت اول",
+				"مستقل عادی شهری عادی"
+			],
+			"degree": 101
+		},
+		{
+			"id": 208,
+			"latLng": {
+				"latitude": 51.40611,
+				"longitude": 33.98964
+			},
+			"collegeType": 102,
+			"title": "فردوسی 2 96015995",
+			"telephone": [
+				"55431500"
+			],
+			"address": "کاشان ناجی آباد فاز دوم چهارراه ورزشگاه مدرسه فردوسی",
+			"description": "ابتدایی دوره دوم عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 23940905 کد پستی : 0",
+				"شهری دولتی شیفت دوم",
+				"مستقل عادی شهری عادی"
+			],
+			"degree": 102
+		},
+		{
+			"id": 209,
+			"latLng": {
+				"latitude": 51.40611,
+				"longitude": 33.98964
+			},
+			"collegeType": 102,
+			"title": "فردوسی یک 96070649",
+			"telephone": [
+				"55449988"
+			],
+			"address": "کاشان ناجی آباد فاز دوم چهارراه ورزشگاه مدرسه فردوسی",
+			"description": "ابتدایی دوره اول عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 23940905 کد پستی : 0",
+				"شهری دولتی شیفت اول",
+				"مستقل مدرسه قرآنی شهری عادی"
+			],
+			"degree": 102
+		},
+		{
+			"id": 210,
+			"latLng": {
+				"latitude": 51.27989,
+				"longitude": 34.2491
+			},
+			"collegeType": 202,
+			"title": "فرش سپهر سن سن 95103381",
+			"telephone": [
+				"55681416"
+			],
+			"address": "کاشان روستای سن سن مقابل حسینیه",
+			"description": "اول متوسطه عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11238398 کد پستی : 8700000000",
+				"روستایی دولتی شیفت اول",
+				"ضمیمه عادی روستایی عادی"
+			],
+			"degree": 202
+		},
+		{
+			"id": 211,
+			"latLng": {
+				"latitude": 51.4375839,
+				"longitude": 33.9866829
+			},
+			"collegeType": 102,
+			"title": "فقیه 96081557",
+			"telephone": [
+				"55449988"
+			],
+			"address": "0",
+			"description": "ابتدایی دوره اول عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 0 کد پستی : 0",
+				"شهری دولتی شیفت اول",
+				"مستقل عادی شهری عادی"
+			],
+			"degree": 102
+		},
+		{
+			"id": 212,
+			"latLng": {
+				"latitude": 51.34056,
+				"longitude": 34.02528
+			},
+			"collegeType": 201,
+			"title": "قطب راوندی 95103228",
+			"telephone": [
+				"55512225"
+			],
+			"address": "کاشان راوند بلوار ابوالرضا راوندی",
+			"description": "اول متوسطه عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11284558 کد پستی : 0",
+				"شهری دولتی شیفت اول",
+				"مستقل عادی شهری عادی"
+			],
+			"degree": 201
+		},
+		{
+			"id": 213,
+			"latLng": {
+				"latitude": 51.44659,
+				"longitude": 33.98723
+			},
+			"collegeType": 102,
+			"title": "لاجوردی (2) 38571102",
+			"telephone": [
+				"4444666"
+			],
+			"address": "خ شهیدرجایی کوچه مخابرات",
+			"description": "ابتدایی عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11107807 کد پستی : 871376474",
+				"شهری دولتی شیفت اول",
+				"مستقل عادی شهری عادی"
+			],
+			"degree": 102
+		},
+		{
+			"id": 214,
+			"latLng": {
+				"latitude": 51.44659,
+				"longitude": 33.98723
+			},
+			"collegeType": 101,
+			"title": "لاجوردی 1 96013604",
+			"telephone": [
+				"3155444666"
+			],
+			"address": "کاشان خیابان شهید اجاقی خیابان آیت اله مدنی مدرسه لاجوردی",
+			"description": "ابتدایی عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11107807 کد پستی : 0",
+				"شهری دولتی شیفت اول",
+				"مستقل عادی شهری عادی"
+			],
+			"degree": 101
+		},
+		{
+			"id": 215,
+			"latLng": {
+				"latitude": 33.985054,
+				"longitude": 33.985054
+			},
+			"collegeType": 102,
+			"title": "مادر 96014096",
+			"telephone": [
+				"3"
+			],
+			"address": "کاشان،شهرک امیرالمومنین،روبروی مجتمع سرافرازی ،مدرسه خانم اصفهانیان",
+			"description": "ابتدایی عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 24418201 کد پستی : 0",
+				"شهری دولتی شیفت اول",
+				"مستقل عادی شهری عادی"
+			],
+			"degree": 102
+		},
+		{
+			"id": 216,
+			"latLng": {
+				"latitude": 51.44196,
+				"longitude": 33.99026
+			},
+			"collegeType": 302,
+			"title": "مجتمع ایثارگران زینب (س ) 38555107",
+			"telephone": [
+				"4446030"
+			],
+			"address": "سه راه غزنوي جنب آموزش وپرورش",
+			"description": "دوم متوسطه نظری",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11238123 کد پستی : 871468783",
+				"شهری دولتی شیفت اول",
+				"ضمیمه دارد ایثارگران شهری عادی"
+			],
+			"degree": 302
+		},
+		{
+			"id": 217,
+			"latLng": {
+				"latitude": 51.45969,
+				"longitude": 33.9925
+			},
+			"collegeType": 500,
+			"title": "مجتمع آموزشی شهیدفهمیده کاشان 39136206",
+			"telephone": [
+				"4442050"
+			],
+			"address": "کاشان خیابان طالقانی کوی دباغ خان",
+			"description": "ابتدایی عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11196089 کد پستی : 871666",
+				"شهری دولتی شیفت اول",
+				"ضمیمه دارد عادی شهری استثنايي"
+			],
+			"degree": 500
+		},
+		{
+			"id": 218,
+			"latLng": {
+				"latitude": 51.40722,
+				"longitude": 33.97917
+			},
+			"collegeType": 102,
+			"title": "مجلسی 96013643",
+			"telephone": [
+				"3155303434"
+			],
+			"address": "کاشان خیابانامیرکبیر کوی صاحب الزمان دبستان مجلسی",
+			"description": "ابتدایی عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11063992 کد پستی : 0",
+				"شهری دولتی شیفت اول",
+				"مستقل عادی شهری عادی"
+			],
+			"degree": 102
+		},
+		{
+			"id": 219,
+			"latLng": {
+				"latitude": 51.40722,
+				"longitude": 33.97917
+			},
+			"collegeType": 301,
+			"title": "محمودیه 95121465",
+			"telephone": [
+				"0"
+			],
+			"address": "خیابان شریعت- کوچه شریعت 8",
+			"description": "دوم متوسطه نظری",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 20345656 کد پستی : 0",
+				"شهری دولتی شیفت اول",
+				"مستقل عادی شهری عادی"
+			],
+			"degree": 301
+		},
+		{
+			"id": 220,
+			"latLng": {
+				"latitude": 51.40722,
+				"longitude": 33.97917
+			},
+			"collegeType": 202,
+			"title": "مخمل و ابریشم جوشقان 95103385",
+			"telephone": [
+				"0"
+			],
+			"address": "0",
+			"description": "اول متوسطه عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11237172 کد پستی : 0",
+				"روستایی دولتی شیفت اول",
+				"ضمیمه عادی روستایی عادی"
+			],
+			"degree": 202
+		},
+		{
+			"id": 221,
+			"latLng": {
+				"latitude": 51.40722,
+				"longitude": 33.97917
+			},
+			"collegeType": 201,
+			"title": "مدرس 96013824",
+			"telephone": [
+				"3155239090"
+			],
+			"address": "تقاطع راه اهن بلوار ملاصدرا کمربندی مدرسه مدرس",
+			"description": "اول متوسطه عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11158523 کد پستی : 0",
+				"شهری دولتی شیفت اول",
+				"مستقل عادی شهری عادی"
+			],
+			"degree": 201
+		},
+		{
+			"id": 222,
+			"latLng": {
+				"latitude": 51.43958,
+				"longitude": 33.98089
+			},
+			"collegeType": 102,
+			"title": "مسلم بن عقیل 38583601",
+			"telephone": [
+				"4441222"
+			],
+			"address": "خ فاضل نراقی گذرمیان درب هو",
+			"description": "ابتدایی عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11064691 کد پستی : 871365",
+				"شهری دولتی شیفت اول",
+				"ضمیمه دارد عادی شهری عادی"
+			],
+			"degree": 102
+		},
+		{
+			"id": 223,
+			"latLng": {
+				"latitude": 51.15323,
+				"longitude": 33.97434
+			},
+			"collegeType": 101,
+			"title": "مسلم بن عقیل نیاسر 96070665",
+			"telephone": [
+				"55449988"
+			],
+			"address": "کاشان نیاسر خیابان شهید منتظزی دبستان مسلم بن عقیل",
+			"description": "ابتدایی دوره دوم عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11063715 کد پستی : 0",
+				"شهری دولتی شیفت اول",
+				"مستقل عادی شهری عادی"
+			],
+			"degree": 101
+		},
+		{
+			"id": 224,
+			"latLng": {
+				"latitude": 51.43871,
+				"longitude": 33.96239
+			},
+			"collegeType": 202,
+			"title": "مصلحی لتحر 95103356",
+			"telephone": [
+				"0"
+			],
+			"address": "0",
+			"description": "اول متوسطه عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11287692 کد پستی : 0",
+				"شهری دولتی شیفت اول",
+				"ضمیمه دارد عادی شهری عادی"
+			],
+			"degree": 202
+		},
+		{
+			"id": 225,
+			"latLng": {
+				"latitude": 51.40722,
+				"longitude": 33.97917
+			},
+			"collegeType": 301,
+			"title": "ملامحسن فیض کاشانی 95059249",
+			"telephone": [
+				"5555555"
+			],
+			"address": "کاشان ميدان درب عطا ابتداي خيابان غياث الدين جمشيد",
+			"description": "دوم متوسطه نظری",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 23065588 کد پستی : 5555",
+				"شهری دولتی شیفت اول",
+				"مستقل عادی شهری عادی"
+			],
+			"degree": 301
+		},
+		{
+			"id": 226,
+			"latLng": {
+				"latitude": 51.28972,
+				"longitude": 34.29611
+			},
+			"collegeType": 203,
+			"title": "منوچهری آب شیرین 1 95128374",
+			"telephone": [
+				"55686334"
+			],
+			"address": "کاشان آب شیرین ابتدای روستا",
+			"description": "اول متوسطه عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11064328 کد پستی : 8700000000",
+				"روستایی دولتی شیفت اول",
+				"ضمیمه عادی روستایی عادی"
+			],
+			"degree": 203
+		},
+		{
+			"id": 227,
+			"latLng": {
+				"latitude": 51.38557,
+				"longitude": 33.9390259
+			},
+			"collegeType": 102,
+			"title": "مهر(1) 96081562",
+			"telephone": [
+				"55349590"
+			],
+			"address": "کاشان - جنب پروژه های مسکونی مسکن مهر",
+			"description": "ابتدایی دوره اول عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 24049667 کد پستی : 0",
+				"شهری دولتی شیفت اول",
+				"مستقل عادی شهری عادی"
+			],
+			"degree": 102
+		},
+		{
+			"id": 228,
+			"latLng": {
+				"latitude": 51.40722,
+				"longitude": 33.97917
+			},
+			"collegeType": 102,
+			"title": "مهر(2) 96081561",
+			"telephone": [
+				"3"
+			],
+			"address": "کاشان،فین کوچک،جاده مصلی،مدرسه سروی فین",
+			"description": "ابتدایی دوره دوم عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 24411996 کد پستی : 0",
+				"شهری دولتی شیفت دوم",
+				"مستقل عادی شهری عادی"
+			],
+			"degree": 102
+		},
+		{
+			"id": 229,
+			"latLng": {
+				"latitude": 51.40722,
+				"longitude": 33.97917
+			},
+			"collegeType": 102,
+			"title": "مهندس امینی 96040095",
+			"telephone": [
+				"55444020"
+			],
+			"address": "کاشان - خ نطنز - جنب نمایندگی خرمیان اسبق- مدرسه امینی",
+			"description": "ابتدایی دوره اول عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 24049740 کد پستی : 0",
+				"شهری دولتی شیفت اول",
+				"مستقل عادی شهری عادی"
+			],
+			"degree": 102
+		},
+		{
+			"id": 230,
+			"latLng": {
+				"latitude": 51.40722,
+				"longitude": 33.97917
+			},
+			"collegeType": 101,
+			"title": "مکی فین 96029566",
+			"telephone": [
+				"55301212"
+			],
+			"address": "کاشان فین بزرک محله آداب",
+			"description": "ابتدایی عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11196754 کد پستی : 0",
+				"شهری حمایتی شیفت اول",
+				"مستقل غیردولتی حمایتی شهری عادی"
+			],
+			"degree": 101
+		},
+		{
+			"id": 231,
+			"latLng": {
+				"latitude": 51.40722,
+				"longitude": 33.97917
+			},
+			"collegeType": 202,
+			"title": "میرزایی راوند 95103350",
+			"telephone": [
+				"0"
+			],
+			"address": "0",
+			"description": "اول متوسطه عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11286201 کد پستی : 0",
+				"شهری دولتی شیفت اول",
+				"مستقل عادی شهری عادی"
+			],
+			"degree": 202
+		},
+		{
+			"id": 232,
+			"latLng": {
+				"latitude": 51.40722,
+				"longitude": 33.97917
+			},
+			"collegeType": 101,
+			"title": "نبوی 95096794",
+			"telephone": [
+				"55446422"
+			],
+			"address": "کاشان خیابان آیت الله کاشانی خیابان غزنوی کوچه شهید ابهری مقدم کوچه باغ 12",
+			"description": "ابتدایی عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 25298097 کد پستی : 8713677461",
+				"شهری دولتی شیفت اول",
+				"مستقل عادی شهری عادی"
+			],
+			"degree": 101
+		},
+		{
+			"id": 233,
+			"latLng": {
+				"latitude": 51.46384,
+				"longitude": 33.99303
+			},
+			"collegeType": 302,
+			"title": "نرجس (س ) 38541401",
+			"telephone": [
+				"4442097"
+			],
+			"address": "کمربندی جنب پمپ بنزین",
+			"description": "دوم متوسطه نظری",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11174655 کد پستی : 871668493",
+				"شهری دولتی شیفت اول",
+				"مستقل عادی شهری عادی"
+			],
+			"degree": 302
+		},
+		{
+			"id": 234,
+			"latLng": {
+				"latitude": 51.449646,
+				"longitude": 33.9716034
+			},
+			"collegeType": 202,
+			"title": "نور مشکات 95103358",
+			"telephone": [
+				"0"
+			],
+			"address": "0",
+			"description": "اول متوسطه عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11208954 کد پستی : 0",
+				"شهری دولتی شیفت اول",
+				"ضمیمه دارد عادی شهری عادی"
+			],
+			"degree": 202
+		},
+		{
+			"id": 235,
+			"latLng": {
+				"latitude": 51.3517952,
+				"longitude": 34.013134
+			},
+			"collegeType": 202,
+			"title": "نوریان 96013636",
+			"telephone": [
+				"3155560022"
+			],
+			"address": "بلوار مفتح کوچه آتش نشانی نگارش 4",
+			"description": "اول متوسطه عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11217397 کد پستی : 0",
+				"شهری دولتی شیفت اول",
+				"مستقل عادی شهری عادی"
+			],
+			"degree": 202
+		},
+		{
+			"id": 236,
+			"latLng": {
+				"latitude": 51.42469,
+				"longitude": 33.9803963
+			},
+			"collegeType": 201,
+			"title": "نیمه شعبان قمصر 95103232",
+			"telephone": [
+				"0"
+			],
+			"address": "0",
+			"description": "اول متوسطه عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11286518 کد پستی : 0",
+				"شهری دولتی شیفت اول",
+				"ضمیمه عادی شهری عادی"
+			],
+			"degree": 201
+		},
+		{
+			"id": 237,
+			"latLng": {
+				"latitude": 51.4399948,
+				"longitude": 33.9751778
+			},
+			"collegeType": 103,
+			"title": "هاجر 38524000",
+			"telephone": [
+				"3463344"
+			],
+			"address": "کاشان روستای حسنارودخیابان اصلی",
+			"description": "ابتدایی عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11159585 کد پستی : 87571",
+				"روستایی دولتی شیفت اول",
+				"ضمیمه دارد عادی روستایی عادی"
+			],
+			"degree": 103
+		},
+		{
+			"id": 238,
+			"latLng": {
+				"latitude": 51.43519,
+				"longitude": 34.00583
+			},
+			"collegeType": 301,
+			"title": "هاشم زاده 95015858",
+			"telephone": [
+				"5426060"
+			],
+			"address": "کاشان بلوار دانش جنب پارک آیت اله مدنی",
+			"description": "دوم متوسطه نظری",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 20679501 کد پستی : 871488363",
+				"شهری دولتی شیفت اول",
+				"مستقل عادی شهری عادی"
+			],
+			"degree": 301
+		},
+		{
+			"id": 239,
+			"latLng": {
+				"latitude": 51.40916,
+				"longitude": 33.9533234
+			},
+			"collegeType": 101,
+			"title": "هجرت شهرک 22 بهمن 95154067",
+			"telephone": [
+				"0"
+			],
+			"address": "شهرک 22بهمن خیابان استقلال",
+			"description": "ابتدایی عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11159689 کد پستی : 0",
+				"شهری حمایتی شیفت اول",
+				"مستقل غیردولتی حمایتی شهری عادی"
+			],
+			"degree": 101
+		},
+		{
+			"id": 240,
+			"latLng": {
+				"latitude": 51.4399834,
+				"longitude": 33.992836
+			},
+			"collegeType": 401,
+			"title": "هنرستان فنی محمدنراقی 38538808",
+			"telephone": [
+				"5338003"
+			],
+			"address": "خیابان امیرکبیرخیابان نواب صفوی جنب پرورشگاه",
+			"description": "هنرستان فنی و حرفه ای",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11063868 کد پستی : 871481",
+				"شهری دولتی شیفت اول",
+				"مستقل عادی شهری عادی"
+			],
+			"degree": 401
+		},
+		{
+			"id": 241,
+			"latLng": {
+				"latitude": 51.4399834,
+				"longitude": 33.992836
+			},
+			"collegeType": 401,
+			"title": "هنرستان فنی محمدنراقی 38538808",
+			"telephone": [
+				"5338003"
+			],
+			"address": "خیابان امیرکبیرخیابان نواب صفوی جنب پرورشگاه",
+			"description": "هنرستان فنی و حرفه ای",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11063868 کد پستی : 871481",
+				"شهری دولتی شیفت اول",
+				"مستقل عادی شهری عادی"
+			],
+			"degree": 401
+		},
+		{
+			"id": 242,
+			"latLng": {
+				"latitude": 51.43922,
+				"longitude": 33.98806
+			},
+			"collegeType": 401,
+			"title": "هنرستان کاردانش حضرت آیت اله یثربی 38547707",
+			"telephone": [
+				"4220022"
+			],
+			"address": "خیابان آیت اله یثربی کوچه شهیداحسان روحی",
+			"description": "هنرستان کاردانش",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11288059 کد پستی : 871685713",
+				"شهری دولتی شیفت اول",
+				"مستقل عادی شهری عادی"
+			],
+			"degree": 401
+		},
+		{
+			"id": 243,
+			"latLng": {
+				"latitude": 51.43922,
+				"longitude": 33.98806
+			},
+			"collegeType": 401,
+			"title": "هنرستان کاردانش حضرت آیت اله یثربی 38547707",
+			"telephone": [
+				"4220022"
+			],
+			"address": "خیابان آیت اله یثربی کوچه شهیداحسان روحی",
+			"description": "هنرستان کاردانش",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11288059 کد پستی : 871685713",
+				"شهری دولتی شیفت اول",
+				"مستقل عادی شهری عادی"
+			],
+			"degree": 401
+		},
+		{
+			"id": 244,
+			"latLng": {
+				"latitude": 51.4375839,
+				"longitude": 33.9866829
+			},
+			"collegeType": 402,
+			"title": "هنرستان کاردانش دستمالچی 38572802",
+			"telephone": [
+				"4442655"
+			],
+			"address": "شهیدرجایی کوچه مخابرات",
+			"description": "هنرستان کاردانش",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11209696 کد پستی : 871376113",
+				"شهری دولتی شیفت اول",
+				"مستقل عادی شهری عادی"
+			],
+			"degree": 402
+		},
+		{
+			"id": 245,
+			"latLng": {
+				"latitude": 51.4333763,
+				"longitude": 33.99254
+			},
+			"collegeType": 101,
+			"title": "واحدی پور 96029572",
+			"telephone": [
+				"3"
+			],
+			"address": "کاشان - خ نطنز - مدرسه واحدی",
+			"description": "ابتدایی عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 24063617 کد پستی : 0",
+				"شهری حمایتی شیفت اول",
+				"مستقل غیردولتی حمایتی شهری عادی"
+			],
+			"degree": 101
+		},
+		{
+			"id": 246,
+			"latLng": {
+				"latitude": 51.43351,
+				"longitude": 33.9994164
+			},
+			"collegeType": 103,
+			"title": "وحدت 96045790",
+			"telephone": [
+				"55449988"
+			],
+			"address": "خیابان امام خمینی .کوچه دروازه قدیر",
+			"description": "ابتدایی عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11209972 کد پستی : 8716657784",
+				"شهری حمایتی شیفت اول",
+				"مستقل غیردولتی حمایتی شهری عادی"
+			],
+			"degree": 103
+		},
+		{
+			"id": 247,
+			"latLng": {
+				"latitude": 51.9991722,
+				"longitude": 33.733078
+			},
+			"collegeType": 101,
+			"title": "وحدت(2) 96086180",
+			"telephone": [
+				"55449988"
+			],
+			"address": "0",
+			"description": "ابتدایی عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 0 کد پستی : 0",
+				"شهری حمایتی شیفت اول",
+				"مستقل غیردولتی حمایتی شهری عادی"
+			],
+			"degree": 101
+		},
+		{
+			"id": 248,
+			"latLng": {
+				"latitude": 51.41454,
+				"longitude": 34.0010452
+			},
+			"collegeType": 102,
+			"title": "ولی عصر (عج )یک 38508703",
+			"telephone": [
+				"5550090"
+			],
+			"address": "خ شهیدمدرس کوچه طالقانی کوچه شهیدماشااله نمکی",
+			"description": "ابتدایی عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11063066 کد پستی : 871484567",
+				"شهری دولتی شیفت اول",
+				"مستقل عادی شهری عادی"
+			],
+			"degree": 102
+		},
+		{
+			"id": 249,
+			"latLng": {
+				"latitude": 51.4098969,
+				"longitude": 33.9852448
+			},
+			"collegeType": 201,
+			"title": "ولی عصر (عج) 95103233",
+			"telephone": [
+				"0"
+			],
+			"address": "0",
+			"description": "اول متوسطه عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11106099 کد پستی : 0",
+				"شهری دولتی شیفت اول",
+				"مستقل عادی شهری عادی"
+			],
+			"degree": 201
+		},
+		{
+			"id": 250,
+			"latLng": {
+				"latitude": 51.4494171,
+				"longitude": 33.9988327
+			},
+			"collegeType": 202,
+			"title": "ویده جا 95103386",
+			"telephone": [
+				"0"
+			],
+			"address": "0",
+			"description": "اول متوسطه عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11217832 کد پستی : 0",
+				"روستایی دولتی شیفت اول",
+				"ضمیمه عادی روستایی عادی"
+			],
+			"degree": 202
+		},
+		{
+			"id": 251,
+			"latLng": {
+				"latitude": 51.40722,
+				"longitude": 33.97917
+			},
+			"collegeType": 101,
+			"title": "کاشانی پور 96013825",
+			"telephone": [
+				"3155421900"
+			],
+			"address": "بلوار امام رضا.چهارراه ورزشگاه. خیابان بهارستان",
+			"description": "ابتدایی دوره اول عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 21696091 کد پستی : 0",
+				"شهری دولتی شیفت اول",
+				"مستقل عادی شهری عادی"
+			],
+			"degree": 101
+		},
+		{
+			"id": 252,
+			"latLng": {
+				"latitude": 51.37311,
+				"longitude": 33.97917
+			},
+			"collegeType": 103,
+			"title": "کاظمیه 38523009",
+			"telephone": [
+				"2433377"
+			],
+			"address": "روستای خنب",
+			"description": "ابتدایی عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11107612 کد پستی : 87341",
+				"روستایی دولتی شیفت اول",
+				"مستقل عادی روستایی عادی"
+			],
+			"degree": 103
+		},
+		{
+			"id": 253,
+			"latLng": {
+				"latitude": 51.39593,
+				"longitude": 33.9479
+			},
+			"collegeType": 500,
+			"title": "کودکستان جواهرنیکبخت 38594206",
+			"telephone": [
+				"5309595"
+			],
+			"address": "کاشان فین بزرگ",
+			"description": "پیش دبستان عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11166083 کد پستی : 871888",
+				"شهری دولتی شیفت اول",
+				"ضمیمه عادی شهری استثنايي"
+			],
+			"degree": 500
+		},
+		{
+			"id": 254,
+			"latLng": {
+				"latitude": 51.40496,
+				"longitude": 33.99024
+			},
+			"collegeType": 500,
+			"title": "کودکستان معارفی 38597201",
+			"telephone": [
+				"5429030"
+			],
+			"address": "فاز2ناجی آبادروبروی مدرسه کاشانی پور",
+			"description": "پیش دبستان عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 21814692 کد پستی : 87157",
+				"شهری دولتی شیفت اول",
+				"ضمیمه عادی شهری استثنايي"
+			],
+			"degree": 500
+		},
+		{
+			"id": 255,
+			"latLng": {
+				"latitude": 51.37967,
+				"longitude": 33.95157
+			},
+			"collegeType": 101,
+			"title": "کیمیاخجسته کیا 38589008",
+			"telephone": [
+				"5330028"
+			],
+			"address": "خ امیر کبیر انارستان 28",
+			"description": "ابتدایی عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 20531471 کد پستی : 871993414",
+				"شهری دولتی شیفت اول",
+				"مستقل عادی شهری عادی"
+			],
+			"degree": 101
+		},
+		{
+			"id": 256,
+			"latLng": {
+				"latitude": 51.3831367,
+				"longitude": 33.94069
+			},
+			"collegeType": 202,
+			"title": "یزدانیان 96081537",
+			"telephone": [
+				"55449988"
+			],
+			"address": "0",
+			"description": "اول متوسطه عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 0 کد پستی : 0",
+				"شهری دولتی شیفت اول",
+				"مستقل عادی شهری عادی"
+			],
+			"degree": 202
+		},
+		{
+			"id": 257,
+			"latLng": {
+				"latitude": 51.39001,
+				"longitude": 33.85212
+			},
+			"collegeType": 103,
+			"title": "یوم اله جزه 38524307",
+			"telephone": [
+				"0"
+			],
+			"address": "کاشان روستاي جزه",
+			"description": "ابتدایی عمومی",
+			"images": [
+				"assets/img/college.jpg",
+				"assets/img/college.jpg"
+			],
+			"features": [
+				"کد فضا : 11159844 کد پستی : 87341",
+				"روستایی دولتی شیفت اول",
+				"مستقل عادی روستایی عادی"
+			],
+			"degree": 103
 		}
 	]
 }

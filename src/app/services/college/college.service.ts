@@ -31,7 +31,10 @@ export class CollegeService {
 	}
 
 	getColleges(degree?: number[]): College[] {
-		return this.data.colleges.filter(x => degree == null || degree.some(z => z === x.degree));
+		if (!degree || degree.length == 0) {
+			return this.data.colleges;
+		}
+		return this.data.colleges.filter(x => degree.some(z => z === x.degree));
 	}
 
 	getDegrees(): Degree[] {

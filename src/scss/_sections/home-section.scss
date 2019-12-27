@@ -1,8 +1,8 @@
 .map-leaflet {
-	height: 500px;
+	height: 700px;
 
 	@include media-breakpoint-down(sm) {
-		height: 400px;
+		min-height: 500px;
 	}
 }
 
