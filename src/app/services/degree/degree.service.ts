@@ -5,7 +5,7 @@ import {BehaviorSubject} from 'rxjs';
 	providedIn: 'root'
 })
 export class DegreeService {
-	currentDegree = new BehaviorSubject<number>(null);
+	currentDegree = new BehaviorSubject<number[]>(null);
 
 	constructor() {
 	}

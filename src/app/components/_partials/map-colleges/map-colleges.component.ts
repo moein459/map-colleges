@@ -24,8 +24,14 @@ export class MapCollegesComponent implements OnInit {
 
 	layersControl = {
 		baseLayers: {
-			'Open Street Map': tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {maxZoom: 18, attribution: '...'}),
-			'Open Cycle Map': tileLayer('http://{s}.tile.opencyclemap.org/cycle/{z}/{x}/{y}.png', {maxZoom: 18, attribution: '...'})
+			'Open Street Map': tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+				maxZoom: 18,
+				attribution: '...'
+			}),
+			'Open Cycle Map': tileLayer('http://{s}.tile.opencyclemap.org/cycle/{z}/{x}/{y}.png', {
+				maxZoom: 18,
+				attribution: '...'
+			})
 		},
 		// overlays: {
 		// 	'Big Circle': circle([46.95, -122], {radius: 5000}),
@@ -74,11 +80,16 @@ export class MapCollegesComponent implements OnInit {
 						shadowUrl: degree.shadowUrl ? degree.shadowUrl : 'assets/marker-shadow.png',
 						className: 'marker-red'
 					})
-				}).on('click', () => {
-				this.ngZone.run(() => {
-					this.router.navigate(['/home/college', college.id]);
-				});
-			}));
+				}).bindTooltip('<p>' + college.title + '</p>', {
+				direction: 'top',
+				zoomAnimation: true,
+				offset: [130, -50]
+			})
+				.on('click', () => {
+					this.ngZone.run(() => {
+						this.router.navigate(['/home/college', college.id]);
+					});
+				}));
 		});
 	}
 }

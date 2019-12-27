@@ -87,3 +87,7 @@
 	url('assets/fonts/woff/iranyekanwebextrablackfanum.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
 	url('assets/fonts/ttf/iranyekanwebextrablackfanum.ttf') format('truetype');
 }
+
+.leaflet-container{
+	font-family: iranyekan !important;
+}
